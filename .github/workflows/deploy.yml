@@ -1,0 +1,75 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 同一时间只跑一次部署，但不打断已经开始的那次
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      # 注意这里不能用 setup-node 的 cache: npm：它会在仓库目录里执行
+      # `npm config get cache`，而 runner 自带的 npm 版本低于 package.json
+      # 里 devEngines 要求的 12.0.2，那一下就会先报 EBADDEVENGINES。
+      # 所以先装 Node，再手动升级 npm，缓存用 actions/cache 单独做。
+      # v5 起检测到 packageManager 字段会自动开缓存，同样会撞上面的坑，显式关掉
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          package-manager-cache: false
+
+      # 在仓库外执行，避免这条命令自己也去读 package.json 的 devEngines
+      - name: Install the npm version devEngines requires
+        working-directory: ${{ runner.temp }}
+        run: npm i -g npm@12.0.2
+
+      - uses: actions/cache@v6
+        with:
+          path: ~/.npm
+          key: npm-${{ runner.os }}-${{ hashFiles('package-lock.json') }}
+          restore-keys: npm-${{ runner.os }}-
+
+      - run: npm ci
+
+      - run: npm run check
+      - run: npm run test
+
+      # 词库 JSON 已提交进仓库。这里重新生成一次并比对，
+      # 防止有人改了 vocab/*/_src.psv 却忘了同步网页数据
+      - name: Verify generated deck data is up to date
+        run: |
+          npm run build:data
+          git diff --exit-code public/data
+
+      - run: npm run build
+
+      # 不带 enablement：workflow 的 GITHUB_TOKEN 没有创建 Pages 站点的权限，
+      # 站点已用仓库管理员权限单独启用过（build_type: workflow）
+      - uses: actions/configure-pages@v6
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5

@@ -1,0 +1,717 @@
+# ipa-en-manual.tsv —— 手写音标，build-data 合并时优先于 ipa-en.tsv
+# build:ipa 不会覆盖这份表。收录词典查不到的单词（英式拼写、连字符词、新词、缩写）和所有多词语块
+# 短语按连读实际读法转写：只给实词标重音，功能词用弱读（to /tə/、of /əv/、and /ən/……），不是逐词拼接
+# 符号体系与 ipa-en.tsv（ipa-dict en_US）一致：ɹ ɫ ɝ ɑ oʊ；占位符写成 …
+# 格式：<词条><TAB><音标>，词条须与 _src.psv 第 3 列完全一致
+Dear Mr./Ms. + 姓	/ˈdɪɹ ˈmɪstɝ …/ / /ˈdɪɹ ˈmɪz …/
+Dear + 名	/ˈdɪɹ …/
+Hi + 名	/ˈhaɪ …/
+To whom it may concern	/tə ˈhum ɪt meɪ kənˈsɝn/
+I am writing to inform you that	/aɪ əm ˈɹaɪtɪŋ tu ɪnˈfɔɹm ju ðət/
+I am writing to enquire about	/aɪ əm ˈɹaɪtɪŋ tu ɪnˈkwaɪɹ əˈbaʊt/
+I am writing with regard to	/aɪ əm ˈɹaɪtɪŋ wɪð ɹɪˈɡɑɹd tə/
+I am writing to express my concern about	/aɪ əm ˈɹaɪtɪŋ tu ɪkˈspɹɛs maɪ kənˈsɝn əˈbaʊt/
+I am writing to request	/aɪ əm ˈɹaɪtɪŋ tə ɹɪˈkwɛst/
+I hope this email finds you well	/aɪ ˈhoʊp ðɪs ˈiˌmeɪɫ ˈfaɪndz ju ˈwɛɫ/
+Thank you for your email regarding	/ˈθæŋk ju fɝ jɝ ˈiˌmeɪɫ ɹɪˈɡɑɹdɪŋ/
+Further to our conversation on	/ˈfɝðɝ tu ˈaʊɝ ˌkɑnvɝˈseɪʃən ɑn/
+I am following up on	/aɪ əm ˈfɑɫoʊɪŋ ˈəp ɑn/
+Please be advised that	/ˈpɫiz bi ədˈvaɪzd ðət/
+I would like to draw your attention to	/aɪ wəd ˈɫaɪk tə ˈdɹɔ jɝ əˈtɛnʃən tu/
+As you may be aware	/əz ju meɪ bi əˈwɛɹ/
+It has come to my attention that	/ɪt həz ˈkəm tə maɪ əˈtɛnʃən ðət/
+for your reference	/fɝ jɝ ˈɹɛfɹəns/
+Please find attached	/ˈpɫiz ˈfaɪnd əˈtætʃt/
+I would appreciate it if you could	/aɪ wəd əˈpɹiʃiˌeɪt ɪt ɪf ju kʊd/
+Could you please + 动词原形	/kʊd ju ˈpɫiz …/
+I would be grateful if you could	/aɪ wəd bi ˈɡɹeɪtfəɫ ɪf ju kʊd/
+Would it be possible to	/wʊd ɪt bi ˈpɑsəbəɫ tə/
+I am writing to ask whether	/aɪ əm ˈɹaɪtɪŋ tu ˈæsk ˈwɛðɝ/
+at your earliest convenience	/ət jɝ ˈɝɫiəst kənˈvinjəns/
+Kindly + 动词原形	/ˈkaɪndɫi …/
+Please accept my sincere apologies for	/ˈpɫiz əkˈsɛpt maɪ sɪnˈsɪɹ əˈpɑɫədʒiz fɔɹ/
+I sincerely apologise for	/aɪ sɪnˈsɪɹɫi əˈpɑɫəˌdʒaɪz fɔɹ/
+I regret to inform you that	/aɪ ɹɪˈɡɹɛt tu ɪnˈfɔɹm ju ðət/
+We are sorry for any inconvenience caused	/wi ɝ ˈsɑɹi fɝ ˈɛni ˌɪnkənˈvinjəns ˈkɔzd/
+This was an oversight on our part	/ðɪs wəz ən ˈoʊvɝˌsaɪt ɑn ˈaʊɝ ˈpɑɹt/
+rest assured that	/ˈɹɛst əˈʃʊɹd ðət/
+fall short of	/ˈfɑɫ ˈʃɔɹt əv/
+be dissatisfied with	/bi dɪˈsætɪsˌfaɪd wɪð/
+on three separate occasions	/ɑn ˈθɹi ˈsɛpɹət əˈkeɪʒənz/
+to no avail	/tə ˈnoʊ əˈveɪɫ/
+I trust you will	/aɪ ˈtɹəst ju wɪɫ/
+seek a resolution	/ˈsik ə ˌɹɛzəˈɫuʃən/
+a full refund	/ə ˈfʊɫ ˈɹiˌfənd/
+due to circumstances beyond our control	/ˈdu tə ˈsɝkəmˌstænsɪz biˈjɑnd ˈaʊɝ kənˈtɹoʊɫ/
+owing to	/ˈoʊɪŋ tu/
+with a view to + V-ing	/wɪð ə ˈvju tu …/
+in an effort to	/ɪn ən ˈɛfɝt tə/
+I would suggest that we	/aɪ wəd səɡˈdʒɛst ðət wi/
+One option would be to	/ˈwən ˈɑpʃən wəd bi tə/
+Alternatively, you may wish to	/ɔɫˈtɝnətɪvɫi ju meɪ ˈwɪʃ tə/
+I am happy to	/aɪ əm ˈhæpi tə/
+If this is not convenient, please let me know	/ɪf ðɪs ɪz ˈnɑt kənˈvinjənt ˈpɫiz ˈɫɛt mi ˈnoʊ/
+Please do not hesitate to contact me	/ˈpɫiz du ˈnɑt ˈhɛzəˌteɪt tə ˈkɑnˌtækt mi/
+I look forward to hearing from you	/aɪ ˈɫʊk ˈfɔɹwɝd tə ˈhɪɹɪŋ fɹəm ju/
+I await your response	/aɪ əˈweɪt jɝ ɹɪˈspɑns/
+Thank you for your time and consideration	/ˈθæŋk ju fɝ jɝ ˈtaɪm ən kənˌsɪdɝˈeɪʃən/
+Thank you in advance for your assistance	/ˈθæŋk ju ɪn ədˈvæns fɝ jɝ əˈsɪstəns/
+Yours sincerely	/ˈjɔɹz sɪnˈsɪɹɫi/
+Yours faithfully	/ˈjɔɹz ˈfeɪθfəɫi/
+Kind regards	/ˈkaɪnd ɹɪˈɡɑɹdz/
+Best regards	/ˈbɛst ɹɪˈɡɑɹdz/
+Warm regards	/ˈwɔɹm ɹɪˈɡɑɹdz/
+Thanks for letting me know	/ˈθæŋks fɝ ˈɫɛtɪŋ mi ˈnoʊ/
+I really appreciate you asking me	/aɪ ˈɹɪɫi əˈpɹiʃiˌeɪt ju ˈæskɪŋ mi/
+That's a good point	/ˈðæts ə ˈɡʊd ˈpɔɪnt/
+Let me see what I can do	/ˈɫɛt mi ˈsi wət aɪ kən ˈdu/
+I can understand why you feel that way	/aɪ kən ˌəndɝˈstænd ˈwaɪ ju ˈfiɫ ˈðæt ˈweɪ/
+I'm afraid I won't be able to	/aɪm əˈfɹeɪd aɪ ˈwoʊnt bi ˈeɪbəɫ tə/
+Unfortunately, I've already committed to	/ənˈfɔɹtʃənətɫi aɪv ɔɫˈɹɛdi kəˈmɪtɪd tə/
+I'd love to, but	/aɪd ˈɫəv tu bət/
+a prior engagement	/ə ˈpɹaɪɝ ɪnˈɡeɪdʒmənt/
+Can I take a rain check?	/kən aɪ ˈteɪk ə ˈɹeɪn ˌtʃɛk/
+Would it be okay if we postponed it?	/wʊd ɪt bi ˌoʊˈkeɪ ɪf wi poʊstˈpoʊnd ɪt/
+I owe you an apology	/aɪ ˈoʊ ju ən əˈpɑɫədʒi/
+I'm so sorry for the mix-up	/aɪm ˈsoʊ ˈsɑɹi fɝ ðə ˈmɪksˌəp/
+It completely slipped my mind	/ɪt kəmˈpɫitɫi ˈsɫɪpt maɪ ˈmaɪnd/
+Let me make it up to you	/ˈɫɛt mi ˈmeɪk ɪt ˈəp tə ju/
+I take full responsibility	/aɪ ˈteɪk ˈfʊɫ ɹɪˌspɑnsəˈbɪɫəti/
+Would you mind + V-ing	/wʊd ju ˈmaɪnd …/
+I was wondering if you could	/aɪ wəz ˈwəndɝɪŋ ɪf ju kʊd/
+Do you think you could possibly	/də ju ˈθɪŋk ju kəd ˈpɑsəbɫi/
+Is there any chance you could	/ɪz ðɝ ˈɛni ˈtʃæns ju kʊd/
+I'd really appreciate it if you could	/aɪd ˈɹɪɫi əˈpɹiʃiˌeɪt ɪt ɪf ju kʊd/
+give me a hand	/ˈɡɪv mi ə ˈhænd/
+If I were you, I'd	/ɪf aɪ wɝ ˈju aɪd/
+You might want to consider	/ju maɪt ˈwɑnt tə kənˈsɪdɝ/
+Have you thought about + V-ing	/həv ju ˈθɔt əˈbaʊt …/
+It might be worth + V-ing	/ɪt maɪt bi ˈwɝθ …/
+What I'd suggest is	/wət aɪd səɡˈdʒɛst ɪz/
+Don't worry about it	/ˈdoʊnt ˈwɝi əˈbaʊt ɪt/
+These things happen	/ˈðiz ˈθɪŋz ˈhæpən/
+No harm done	/ˈnoʊ ˈhɑɹm ˈdən/
+I'm sure it'll work out	/aɪm ˈʃʊɹ ɪtəɫ ˈwɝk ˈaʊt/
+Let me know if there's anything I can do	/ˈɫɛt mi ˈnoʊ ɪf ðɝz ˈɛniˌθɪŋ aɪ kən ˈdu/
+I don't mean to complain, but	/aɪ ˈdoʊnt ˈmin tə kəmˈpɫeɪn bət/
+I wanted to bring something to your attention	/aɪ ˈwɑntɪd tə ˈbɹɪŋ ˈsəmθɪŋ tə jɝ əˈtɛnʃən/
+It's been going on for a while now	/ɪts bɪn ˈɡoʊɪŋ ˈɑn fɝ ə ˈwaɪɫ ˈnaʊ/
+Is there any way we could sort this out?	/ɪz ðɝ ˈɛni ˈweɪ wi kəd ˈsɔɹt ðɪs ˈaʊt/
+Congratulations on + n./V-ing	/kənˌɡɹætʃəˈɫeɪʃənz ɑn …/
+I'm so happy for you	/aɪm ˈsoʊ ˈhæpi fɝ ju/
+You really went above and beyond	/ju ˈɹɪɫi ˈwɛnt əˈbəv ən biˈjɑnd/
+I can't thank you enough	/aɪ ˈkænt ˈθæŋk ju ɪˈnəf/
+That means a lot to me	/ðæt ˈminz ə ˈɫɑt tə mi/
+Does that work for you?	/dəz ˈðæt ˈwɝk fɝ ju/
+Just let me know either way	/dʒəst ˈɫɛt mi ˈnoʊ ˈiðɝ ˈweɪ/
+I'll keep you posted	/aɪɫ ˈkip ju ˈpoʊstɪd/
+I'll get back to you on that	/aɪɫ ˈɡɛt ˈbæk tə ju ɑn ˈðæt/
+bar chart / bar graph	/ˈbɑɹ ˌtʃɑɹt/ / /ˈbɑɹ ˌɡɹæf/
+line graph	/ˈɫaɪn ˌɡɹæf/
+pie chart	/ˈpaɪ ˌtʃɑɹt/
+flow chart / process diagram	/ˈfɫoʊ ˌtʃɑɹt/ / /ˈpɹɑsɛs ˈdaɪəˌɡɹæm/
+floor plan / map	/ˈfɫɔɹ ˌpɫæn/ / /ˈmæp/
+the x-axis / the y-axis	/ði ˈɛksˌæksɪs/ / /ðə ˈwaɪˌæksɪs/
+The chart illustrates	/ðə ˈtʃɑɹt ˈɪɫəˌstɹeɪts/
+provide an overview of	/pɹəˈvaɪd ən ˈoʊvɝˌvju əv/
+be broken down by	/bi ˈbɹoʊkən ˈdaʊn baɪ/
+pick up	/ˈpɪk ˈəp/
+taper off	/ˈteɪpɝ ˈɔf/
+remain stable / level off	/ɹɪˈmeɪn ˈsteɪbəɫ/ / /ˈɫɛvəɫ ˈɔf/
+the lowest point / bottom out	/ðə ˈɫoʊəst ˈpɔɪnt/ / /ˈbɑtəm ˈaʊt/
+account for	/əˈkaʊnt fɔɹ/
+make up	/ˈmeɪk ˈəp/
+twice as many as	/ˈtwaɪs əz ˈmɛni æz/
+compared with / in contrast to	/kəmˈpɛɹd wɪð/ / /ɪn ˈkɑnˌtɹæst tu/
+Overall, it is clear that	/ˌoʊvɝˈɔɫ ɪt ɪz ˈkɫɪɹ ðət/
+argue that	/ˈɑɹɡju ðət/
+claim that	/ˈkɫeɪm ðət/
+emphasise	/ˈɛmfəˌsaɪz/
+attribute A to B	/əˈtɹɪbjut ˈeɪ tə ˈbi/
+point out	/ˈpɔɪnt ˈaʊt/
+conclude that	/kənˈkɫud ðət/
+which suggests that	/wɪtʃ səɡˈdʒɛsts ðət/
+while acknowledging that	/waɪɫ əkˈnɑɫɪdʒɪŋ ðət/
+by + V-ing	/baɪ …/
+in addition to	/ɪn əˈdɪʃən tu/
+on the contrary	/ɑn ðə ˈkɑnˌtɹɛɹi/
+despite / in spite of	/dɪˈspaɪt/ / /ɪn ˈspaɪt əv/
+consequently / as a result	/ˈkɑnsəkwəntɫi/ / /æz ə ɹɪˈzəɫt/
+since / given that	/ˈsɪns/ / /ˈɡɪvən ðət/
+for instance / such as	/fɝ ˈɪnstəns/ / /ˈsətʃ æz/
+in short / to sum up	/ɪn ˈʃɔɹt/ / /tə ˈsəm ˈəp/
+job posting / job ad	/ˈdʒɑb ˌpoʊstɪŋ/ / /ˈdʒɑb ˌæd/
+résumé / CV	/ˈɹɛzəˌmeɪ/ / /ˌsiˈvi/
+cover letter	/ˈkəvɝ ˌɫɛtɝ/
+apply for a position	/əˈpɫaɪ fɝ ə pəˈzɪʃən/
+shortlist	/ˈʃɔɹtˌɫɪst/
+job interview	/ˈdʒɑb ˌɪntɝˌvju/
+hands-on experience	/ˈhændzˌɑn ɪkˈspɪɹiəns/
+transferable skills	/tɹænsˈfɝəbəɫ ˈskɪɫz/
+be a good fit for	/bi ə ˈɡʊd ˈfɪt fɔɹ/
+probation period	/pɹoʊˈbeɪʃən ˌpɪɹiəd/
+full-time / part-time	/ˈfʊɫˈtaɪm/ / /ˈpɑɹtˈtaɪm/
+shift work	/ˈʃɪft ˌwɝk/
+benefits package	/ˈbɛnəfɪts ˌpækɪdʒ/
+paid leave	/ˈpeɪd ˈɫiv/
+sick leave	/ˈsɪk ˌɫiv/
+parental leave	/pəˈɹɛntəɫ ˈɫiv/
+notice period	/ˈnoʊtɪs ˌpɪɹiəd/
+be entitled to	/bi ɪnˈtaɪtəɫd tu/
+severance pay	/ˈsɛvəɹəns ˌpeɪ/
+supervisor / line manager	/ˈsupɝˌvaɪzɝ/ / /ˈɫaɪn ˌmænədʒɝ/
+cover a shift	/ˈkəvɝ ə ˈʃɪft/
+call in sick	/ˈkɔɫ ɪn ˈsɪk/
+take time off	/ˈteɪk ˈtaɪm ˈɔf/
+clock in / clock out	/ˈkɫɑk ˈɪn/ / /ˈkɫɑk ˈaʊt/
+be short-staffed	/bi ˈʃɔɹtˈstæft/
+fill in for someone	/ˈfɪɫ ˈɪn fɝ ˈsəmˌwən/
+hand in / submit	/ˈhænd ˈɪn/ / /səbˈmɪt/
+timesheet	/ˈtaɪmˌʃit/
+postpone / put off	/poʊstˈpoʊn/ / /ˈpʊt ˈɔf/
+bring forward	/ˈbɹɪŋ ˈfɔɹwɝd/
+follow up on	/ˈfɑɫoʊ ˈəp ɑn/
+touch base	/ˈtətʃ ˈbeɪs/
+run behind schedule	/ˈɹən bɪˈhaɪnd ˈskɛdʒuɫ/
+on track	/ɑn ˈtɹæk/
+within budget	/wɪˈðɪn ˈbədʒɪt/
+allocate resources	/ˈæɫəˌkeɪt ˈɹisɔɹsɪz/
+prioritise	/pɹaɪˈɔɹəˌtaɪz/
+performance review	/pɝˈfɔɹməns ɹɪˌvju/
+raise (US) / pay rise (UK)	/ˈɹeɪz/ / /ˈpeɪ ˌɹaɪz/
+professional development	/pɹəˈfɛʃənəɫ dɪˈvɛɫəpmənt/
+upskill	/ˈəpˌskɪɫ/
+take on more responsibility	/ˈteɪk ɑn ˈmɔɹ ɹɪˌspɑnsəˈbɪɫəti/
+meet expectations	/ˈmit ˌɛkspɛkˈteɪʃənz/
+resign / hand in one's notice	/ɹɪˈzaɪn/ / /ˈhænd ɪn wənz ˈnoʊtɪs/
+lay off	/ˈɫeɪ ˈɔf/
+work-life balance	/ˈwɝkˈɫaɪf ˈbæɫəns/
+conflict of interest	/ˈkɑnfɫɪkt əv ˈɪntɹəst/
+health and safety	/ˈhɛɫθ ən ˈseɪfti/
+workplace injury	/ˈwɝkˌpɫeɪs ˈɪndʒɝi/
+remote work / telework	/ɹɪˈmoʊt ˈwɝk/ / /ˈtɛɫəˌwɝk/
+hybrid model	/ˈhaɪbɹɪd ˈmɑdəɫ/
+flexible hours / flextime	/ˈfɫɛksəbəɫ ˈaʊɝz/ / /ˈfɫɛksˌtaɪm/
+self-employed / freelance	/ˌsɛɫfɪmˈpɫɔɪd/ / /ˈfɹiˌɫæns/
+gig economy	/ˈɡɪɡ ɪˌkɑnəmi/
+lease / tenancy agreement	/ˈɫis/ / /ˈtɛnənsi əˌɡɹimənt/
+security deposit	/sɪˈkjʊɹəti dɪˌpɑzɪt/
+property manager	/ˈpɹɑpɝti ˌmænədʒɝ/
+move in / move out	/ˈmuv ˈɪn/ / /ˈmuv ˈaʊt/
+furnished / unfurnished	/ˈfɝnɪʃt/ / /ənˈfɝnɪʃt/
+one-bedroom unit	/ˈwənˈbɛdˌɹum ˈjunɪt/
+clogged / blocked drain	/ˈkɫɑɡd ˈdɹeɪn/ / /ˈbɫɑkt ˈdɹeɪn/
+out of order	/ˈaʊt əv ˈɔɹdɝ/
+maintenance request	/ˈmeɪntənəns ɹɪˌkwɛst/
+air conditioning	/ˈɛɹ kənˌdɪʃənɪŋ/
+wear and tear	/ˈwɛɹ ən ˈtɛɹ/
+down payment	/ˈdaʊn ˌpeɪmənt/
+property tax	/ˈpɹɑpɝti ˌtæks/
+real estate agent / realtor	/ˈɹiɫ ɪˌsteɪt ˌeɪdʒənt/ / /ˈɹiəɫtɝ/
+closing costs	/ˈkɫoʊzɪŋ ˌkɑsts/
+condo fees	/ˈkɑndoʊ ˌfiz/
+noise complaint	/ˈnɔɪz kəmˌpɫeɪnt/
+keep the noise down	/ˈkip ðə ˈnɔɪz ˈdaʊn/
+parking spot / space	/ˈpɑɹkɪŋ ˌspɑt/ / /ˈpɑɹkɪŋ ˌspeɪs/
+curbside pickup	/ˈkɝbˌsaɪd ˈpɪkˌəp/
+snow removal / shovelling	/ˈsnoʊ ɹɪˌmuvəɫ/ / /ˈʃəvəɫɪŋ/
+community centre	/kəˈmjunəti ˌsɛntɝ/
+make an appointment	/ˈmeɪk ən əˈpɔɪntmənt/
+family doctor / GP	/ˈfæməɫi ˈdɑktɝ/ / /ˌdʒiˈpi/
+walk-in clinic	/ˈwɔkˌɪn ˈkɫɪnɪk/
+emergency room (ER)	/ɪˈmɝdʒənsi ˌɹum/ / /ˌiˈɑɹ/
+over-the-counter	/ˌoʊvɝðəˈkaʊntɝ/
+extended health benefits	/ɪkˈstɛndɪd ˈhɛɫθ ˌbɛnəfɪts/
+out-of-pocket	/ˌaʊtəvˈpɑkɪt/
+waiting list	/ˈweɪtɪŋ ˌɫɪst/
+come down with	/ˈkəm ˈdaʊn wɪð/
+run a fever	/ˈɹən ə ˈfivɝ/
+sore throat	/ˈsɔɹ ˈθɹoʊt/
+chronic condition	/ˈkɹɑnɪk kənˈdɪʃən/
+side effect	/ˈsaɪd ɪˌfɛkt/
+recover from	/ɹɪˈkəvɝ fɹəm/
+well-being	/ˌwɛɫˈbiɪŋ/
+mental health	/ˈmɛntəɫ ˈhɛɫθ/
+sedentary lifestyle	/ˈsɛdənˌtɛɹi ˈɫaɪfˌstaɪɫ/
+balanced diet	/ˈbæɫənst ˈdaɪət/
+work out	/ˈwɝk ˈaʊt/
+cardio / strength training	/ˈkɑɹdiˌoʊ/ / /ˈstɹɛŋθ ˌtɹeɪnɪŋ/
+immunisation / vaccination	/ˌɪmjənəˈzeɪʃən/ / /ˌvæksəˈneɪʃən/
+first aid	/ˈfɝst ˈeɪd/
+savings account	/ˈseɪvɪŋz əˌkaʊnt/
+debit card	/ˈdɛbɪt ˌkɑɹd/
+direct deposit	/dɪˈɹɛkt dɪˈpɑzɪt/
+interest rate	/ˈɪntɹəst ˌɹeɪt/
+credit score	/ˈkɹɛdɪt ˌskɔɹ/
+income tax	/ˈɪnˌkəm ˌtæks/
+file a tax return	/ˈfaɪɫ ə ˈtæks ɹɪˌtɝn/
+tax refund	/ˈtæks ˌɹiˌfənd/
+be due	/bi ˈdu/
+instalment	/ɪnˈstɔɫmənt/
+cost of living	/ˈkɑst əv ˈɫɪvɪŋ/
+public transit	/ˈpəbɫɪk ˈtɹænzɪt/
+monthly pass	/ˈmənθɫi ˈpæs/
+delay / be delayed	/dɪˈɫeɪ/ / /bi dɪˈɫeɪd/
+rush hour	/ˈɹəʃ ˌaʊɝ/
+driver's licence	/ˈdɹaɪvɝz ˌɫaɪsəns/
+parking ticket	/ˈpɑɹkɪŋ ˌtɪkɪt/
+winter tires	/ˈwɪntɝ ˌtaɪɝz/
+carpool / rideshare	/ˈkɑɹˌpuɫ/ / /ˈɹaɪdˌʃɛɹ/
+traffic congestion	/ˈtɹæfɪk kənˈdʒɛstʃən/
+confirmation number	/ˌkɑnfɝˈmeɪʃən ˌnəmbɝ/
+check in / check out	/ˈtʃɛk ˈɪn/ / /ˈtʃɛk ˈaʊt/
+boarding pass	/ˈbɔɹdɪŋ ˌpæs/
+carry-on / checked baggage	/ˈkæɹiˌɑn/ / /ˈtʃɛkt ˈbæɡɪdʒ/
+cancellation policy	/ˌkænsəˈɫeɪʃən ˌpɑɫəsi/
+refundable / non-refundable	/ɹɪˈfəndəbəɫ/ / /ˌnɑnɹɪˈfəndəbəɫ/
+school board	/ˈskuɫ ˌbɔɹd/
+enrol / enrolment	/ɪnˈɹoʊɫ/ / /ɪnˈɹoʊɫmənt/
+credential evaluation	/kɹəˈdɛnʃəɫ ɪˌvæɫjuˈeɪʃən/
+scholarship / bursary	/ˈskɑɫɝˌʃɪp/ / /ˈbɝsəɹi/
+continuing education	/kənˈtɪnjuɪŋ ˌɛdʒəˈkeɪʃən/
+customer service	/ˈkəstəmɝ ˈsɝvɪs/
+order number	/ˈɔɹdɝ ˌnəmbɝ/
+place an order	/ˈpɫeɪs ən ˈɔɹdɝ/
+tracking number	/ˈtɹækɪŋ ˌnəmbɝ/
+in stock / out of stock	/ɪn ˈstɑk/ / /ˈaʊt əv ˈstɑk/
+backorder	/ˈbækˌɔɹdɝ/
+free of charge	/ˈfɹi əv ˈtʃɑɹdʒ/
+look into	/ˈɫʊk ˈɪntu/
+resolve an issue	/ɹɪˈzɑɫv ən ˈɪʃu/
+goodwill gesture	/ˌɡʊdˈwɪɫ ˈdʒɛstʃɝ/
+feedback form / survey	/ˈfidˌbæk ˌfɔɹm/ / /ˈsɝˌveɪ/
+municipality / city hall	/mjuˌnɪsəˈpæɫəti/ / /ˈsɪti ˈhɔɫ/
+application form	/ˌæpɫəˈkeɪʃən ˌfɔɹm/
+proof of address	/ˈpɹuf əv ˈæˌdɹɛs/
+photo identification / photo ID	/ˈfoʊtoʊ aɪˌdɛntəfəˈkeɪʃən/ / /ˈfoʊtoʊ ˌaɪˈdi/
+eligibility / be eligible for	/ˌɛɫɪdʒəˈbɪɫəti/ / /bi ˈɛɫɪdʒəbəɫ fɔɹ/
+processing time	/ˈpɹɑsɛsɪŋ ˌtaɪm/
+expire / expiry date	/ɪkˈspaɪɝ/ / /ɪkˈspaɪɹi ˌdeɪt/
+permanent resident (PR)	/ˈpɝmənənt ˈɹɛzɪdənt/ / /ˌpiˈɑɹ/
+work permit	/ˈwɝk ˌpɝmɪt/
+Indigenous peoples	/ɪnˈdɪdʒənəs ˈpipəɫz/
+food bank	/ˈfud ˌbæŋk/
+affordability crisis	/əˌfɔɹdəˈbɪɫəti ˌkɹaɪsɪs/
+log in / log out	/ˈɫɑɡ ˈɪn/ / /ˈɫɑɡ ˈaʊt/
+reset a password	/ɹiˈsɛt ə ˈpæsˌwɝd/
+back up	/ˈbæk ˈəp/
+user-friendly	/ˌjuzɝˈfɹɛndɫi/
+privacy / data breach	/ˈpɹaɪvəsi/ / /ˈdeɪtə ˌbɹitʃ/
+artificial intelligence (AI)	/ˌɑɹtəˈfɪʃəɫ ɪnˈtɛɫədʒəns/ / /ˌeɪˈaɪ/
+screen time	/ˈskɹin ˌtaɪm/
+social media	/ˈsoʊʃəɫ ˈmidiə/
+climate change	/ˈkɫaɪmət ˌtʃeɪndʒ/
+carbon footprint	/ˈkɑɹbən ˈfʊtˌpɹɪnt/
+renewable energy	/ɹɪˈnuəbəɫ ˈɛnɝdʒi/
+single-use plastic	/ˈsɪŋɡəɫˌjus ˈpɫæstɪk/
+extreme weather	/ɪkˈstɹim ˈwɛðɝ/
+raise awareness	/ˈɹeɪz əˈwɛɹnəs/
+take part in	/ˈteɪk ˈpɑɹt ɪn/
+make a difference	/ˈmeɪk ə ˈdɪfɹəns/
+carry out	/ˈkæɹi ˈaʊt/
+set up	/ˈsɛt ˈəp/
+take over	/ˈteɪk ˈoʊvɝ/
+hand over	/ˈhænd ˈoʊvɝ/
+sort out	/ˈsɔɹt ˈaʊt/
+figure out	/ˈfɪɡjɝ ˈaʊt/
+come up with	/ˈkəm ˈəp wɪð/
+put together	/ˈpʊt təˈɡɛðɝ/
+go over	/ˈɡoʊ ˈoʊvɝ/
+run through	/ˈɹən ˈθɹu/
+bring up	/ˈbɹɪŋ ˈəp/
+turn down	/ˈtɝn ˈdaʊn/
+call off	/ˈkɔɫ ˈɔf/
+put off	/ˈpʊt ˈɔf/
+catch up on	/ˈkætʃ ˈəp ɑn/
+keep up with	/ˈkip ˈəp wɪð/
+fill out / fill in	/ˈfɪɫ ˈaʊt/ / /ˈfɪɫ ˈɪn/
+drop off / pick up	/ˈdɹɑp ˈɔf/ / /ˈpɪk ˈəp/
+look after	/ˈɫʊk ˈæftɝ/
+deal with	/ˈdiɫ wɪð/
+get in touch with	/ˈɡɛt ɪn ˈtətʃ wɪð/
+reach out to	/ˈɹitʃ ˈaʊt tu/
+sign up for	/ˈsaɪn ˈəp fɔɹ/
+drop out of	/ˈdɹɑp ˈaʊt əv/
+take up	/ˈteɪk ˈəp/
+cut back on	/ˈkət ˈbæk ɑn/
+end up (with/V-ing)	/ˈɛnd ˈəp/
+turn out	/ˈtɝn ˈaʊt/
+break down	/ˈbɹeɪk ˈdaʊn/
+run out of	/ˈɹən ˈaʊt əv/
+put up with	/ˈpʊt ˈəp wɪð/
+stand in for	/ˈstænd ˈɪn fɔɹ/
+get by	/ˈɡɛt ˈbaɪ/
+settle in	/ˈsɛtəɫ ˈɪn/
+opt for / opt out	/ˈɑpt fɔɹ/ / /ˈɑpt ˈaʊt/
+rule out	/ˈɹuɫ ˈaʊt/
+meet a deadline / a requirement	/ˈmit ə ˈdɛdˌɫaɪn/ / /ˈmit ə ɹɪˈkwaɪɝmənt/
+raise a concern / an issue	/ˈɹeɪz ə kənˈsɝn/ / /ˈɹeɪz ən ˈɪʃu/
+address a problem	/əˈdɹɛs ə ˈpɹɑbɫəm/
+make arrangements for	/ˈmeɪk əˈɹeɪndʒmənts fɔɹ/
+take steps / take measures	/ˈteɪk ˈstɛps/ / /ˈteɪk ˈmɛʒɝz/
+provide assistance	/pɹəˈvaɪd əˈsɪstəns/
+reach an agreement	/ˈɹitʃ ən əˈɡɹimənt/
+place an emphasis on	/ˈpɫeɪs ən ˈɛmfəsɪs ɑn/
+play a key role in	/ˈpɫeɪ ə ˈki ˈɹoʊɫ ɪn/
+pose a risk to	/ˈpoʊz ə ˈɹɪsk tu/
+meet expectations / fall short of	/ˈmit ˌɛkspɛkˈteɪʃənz/ / /ˈfɑɫ ˈʃɔɹt əv/
+conduct a survey / an interview	/kənˈdəkt ə ˈsɝˌveɪ/ / /kənˈdəkt ən ˈɪntɝˌvju/
+submit an application	/səbˈmɪt ən ˌæpɫəˈkeɪʃən/
+issue a refund / a permit	/ˈɪʃu ə ˈɹiˌfənd/ / /ˈɪʃu ə ˈpɝmɪt/
+bear in mind	/ˈbɛɹ ɪn ˈmaɪnd/
+keep someone informed	/ˈkip ˈsəmˌwən ɪnˈfɔɹmd/
+attach great importance to	/əˈtætʃ ˈɡɹeɪt ɪmˈpɔɹtəns tu/
+have an impact on	/ˈhæv ən ˈɪmˌpækt ɑn/
+a significant increase	/ə sɪɡˈnɪfɪkənt ˈɪnˌkɹis/
+a reasonable request	/ə ˈɹizənəbəɫ ɹɪˈkwɛst/
+a prompt response	/ə ˈpɹɑmpt ɹɪˈspɑns/
+a minor / major issue	/ə ˈmaɪnɝ ˈɪʃu/ / /ə ˈmeɪdʒɝ ˈɪʃu/
+an ongoing problem	/ən ˈɑnˌɡoʊɪŋ ˈpɹɑbɫəm/
+strict guidelines	/ˈstɹɪkt ˈɡaɪdˌɫaɪnz/
+valuable experience	/ˈvæɫjəbəɫ ɪkˈspɪɹiəns/
+a convenient time	/ə kənˈvinjənt ˈtaɪm/
+widely available	/ˈwaɪdɫi əˈveɪɫəbəɫ/
+increasingly popular	/ɪnˈkɹisɪŋɫi ˈpɑpjəɫɝ/
+a wide range of	/ə ˈwaɪd ˈɹeɪndʒ əv/
+a growing number of	/ə ˈɡɹoʊɪŋ ˈnəmbɝ əv/
+the vast majority of	/ðə ˈvæst məˈdʒɔɹəti əv/
+a lack of	/ə ˈɫæk əv/
+in the long run	/ɪn ðə ˈɫɔŋ ˈɹən/
+on a regular basis	/ɑn ə ˈɹɛɡjəɫɝ ˈbeɪsɪs/
+in light of	/ɪn ˈɫaɪt əv/
+with regard to	/wɪð ɹɪˈɡɑɹd tu/
+as a result of	/æz ə ɹɪˈzəɫt əv/
+in the event of	/ɪn ði ɪˈvɛnt əv/
+to the best of my knowledge	/tə ðə ˈbɛst əv maɪ ˈnɑɫɪdʒ/
+at short notice	/ət ˈʃɔɹt ˈnoʊtɪs/
+licence (n.) / license (v.)	/ˈɫaɪsəns/ / /ˈɫaɪsəns/
+practice (n.) / practise (v.)	/ˈpɹæktɪs/ / /ˈpɹæktɪs/
+organise / organize	/ˈɔɹɡəˌnaɪz/ / /ˈɔɹɡəˌnaɪz/
+defence / offence	/dɪˈfɛns/ / /əˈfɛns/
+affect (v.) / effect (n.)	/əˈfɛkt/ / /ɪˈfɛkt/
+advice (n.) / advise (v.)	/ədˈvaɪs/ / /ədˈvaɪz/
+its / it's	/ˈɪts/ / /ˈɪts/
+post office	/ˈpoʊst ˌɔfɪs/
+stationery shop	/ˈsteɪʃəˌnɛɹi ˌʃɑp/
+go through	/ˈɡoʊ ˈθɹu/
+hold off	/ˈhoʊɫd ˈɔf/
+weigh up	/ˈweɪ ˈəp/
+deVELop vs DEVelopment	/dɪˈvɛɫəp/ vs /dɪˈvɛɫəpmənt/
+CERtificate (n.) / cerTIFicate	/sɝˈtɪfɪkət/ / /sɝˈtɪfɪkət/
+neCESSity vs NECessary	/nəˈsɛsɪti/ vs /ˈnɛsəˌsɛɹi/
+PREsent (n./adj.) / preSENT (v.)	/ˈpɹɛzənt/ / /pɹiˈzɛnt/
+RECord (n.) / reCORD (v.)	/ˈɹɛkɝd/ / /ɹɪˈkɔɹd/
+INcrease (n.) / inCREASE (v.)	/ˈɪnˌkɹis/ / /ɪnˈkɹis/
+PERmit (n.) / perMIT (v.)	/ˈpɝˌmɪt/ / /pɝˈmɪt/
+CONtract (n.) / conTRACT (v.)	/ˈkɑnˌtɹækt/ / /kənˈtɹækt/
+PROduce (n.) / proDUCE (v.)	/ˈpɹoʊˌdus/ / /pɹəˈdus/
+comfortable vs comparable	/ˈkəmftɝbəɫ/ vs /ˈkɑmpɹəbəɫ/
+a lot of / lots of	/ə ˈɫɑt əv/ / /ˈɫɑts əv/
+want to / going to	/ˈwɑnt tu/ / /ˈɡoʊɪŋ tu/
+and 弱读	/ˈænd/ → /ən/
+of / for / to 弱读	/əv/ / /fɝ/ / /tə/
+cost-effective	/ˌkɔstɪˈfɛktɪv/
+attributable to	/əˈtɹɪbjətəbəɫ tu/
+stem from	/ˈstɛm fɹəm/
+give rise to	/ˈɡɪv ˈɹaɪz tu/
+contributing factor	/kənˈtɹɪbjətɪŋ ˈfæktɝ/
+provided that	/pɹəˈvaɪdɪd ðət/
+sceptical / scepticism	/ˈskɛptɪkəɫ/ / /ˈskɛptɪˌsɪzəm/
+compensate for	/ˈkɑmpənˌseɪt fɔɹ/
+contingency plan	/kənˈtɪndʒənsi ˌpɫæn/
+marginalised	/ˈmɑɹdʒənəˌɫaɪzd/
+advocacy group	/ˈædvəkəsi ˌɡɹup/
+compliance / comply with	/kəmˈpɫaɪəns/ / /kəmˈpɫaɪ wɪð/
+exemption / be exempt from	/ɪɡˈzɛmpʃən/ / /bi ɪɡˈzɛmpt fɹəm/
+on average	/ɑn ˈævɹɪdʒ/
+to a certain extent	/tu ə ˈsɝtən ɪkˈstɛnt/
+by and large	/ˈbaɪ ən ˈɫɑɹdʒ/
+initiative (show)	/ɪˈnɪʃətɪv/
+self-sufficient	/ˌsɛɫfsəˈfɪʃənt/
+accountable for	/əˈkaʊntəbəɫ fɔɹ/
+skilled trades	/ˈskɪɫd ˈtɹeɪdz/
+administrative assistant	/ədˈmɪnəˌstɹeɪtɪv əˈsɪstənt/
+customer service representative	/ˈkəstəmɝ ˈsɝvɪs ˌɹɛpɹɪˈzɛntətɪv/
+supervisor / team lead	/ˈsupɝˌvaɪzɝ/ / /ˈtim ˌɫid/
+boardroom / meeting room	/ˈbɔɹdˌɹum/ / /ˈmitɪŋ ˌɹum/
+book a room	/ˈbʊk ə ˈɹum/
+conference call / video call	/ˈkɑnfɹəns ˌkɔɫ/ / /ˈvɪdiˌoʊ ˌkɔɫ/
+out of service	/ˈaʊt əv ˈsɝvɪs/
+contract renewal	/ˈkɑnˌtɹækt ɹɪˌnuəɫ/
+profit margin	/ˈpɹɑfɪt ˌmɑɹdʒɪn/
+onboarding	/ˈɑnˌbɔɹdɪŋ/
+safety protocol	/ˈseɪfti ˈpɹoʊtəˌkɔɫ/
+protective equipment (PPE)	/pɹəˈtɛktɪv ɪˈkwɪpmənt/ / /ˌpiˌpiˈi/
+incident report	/ˈɪnsɪdənt ɹɪˌpɔɹt/
+evacuation / fire drill	/ɪˌvækjuˈeɪʃən/ / /ˈfaɪɝ ˌdɹɪɫ/
+liaise with	/ɫiˈeɪz wɪð/
+keep someone in the loop	/ˈkip ˈsəmˌwən ɪn ðə ˈɫup/
+on the same page	/ɑn ðə ˈseɪm ˈpeɪdʒ/
+take the lead on	/ˈteɪk ðə ˈɫid ɑn/
+check in with	/ˈtʃɛk ˈɪn wɪð/
+circle back	/ˈsɝkəɫ ˈbæk/
+workplace culture	/ˈwɝkˌpɫeɪs ˈkəɫtʃɝ/
+employment standards	/ɪmˈpɫɔɪmənt ˈstændɝdz/
+minimum wage	/ˈmɪnəməm ˈweɪdʒ/
+statutory holiday	/ˈstætʃəˌtɔɹi ˈhɑɫəˌdeɪ/
+vacation entitlement	/veɪˈkeɪʃən ɪnˈtaɪtəɫmənt/
+accommodation (workplace)	/əˌkɑməˈdeɪʃən/
+union dues	/ˈjunjən ˌduz/
+collective agreement	/kəˈɫɛktɪv əˈɡɹimənt/
+non-disclosure agreement (NDA)	/ˌnɑndɪsˈkɫoʊʒɝ əˈɡɹimənt/ / /ˌɛnˌdiˈeɪ/
+laundry room	/ˈɫɔndɹi ˌɹum/
+smoke detector / carbon monoxide detector	/ˈsmoʊk dɪˌtɛktɝ/ / /ˈkɑɹbən məˈnɑkˌsaɪd dɪˌtɛktɝ/
+circuit breaker / fuse box	/ˈsɝkɪt ˌbɹeɪkɝ/ / /ˈfjuz ˌbɑks/
+water heater	/ˈwɔtɝ ˌhitɝ/
+do the laundry	/ˈdu ðə ˈɫɔndɹi/
+take out the garbage	/ˈteɪk ˈaʊt ðə ˈɡɑɹbɪdʒ/
+declutter / tidy up	/diˈkɫətɝ/ / /ˈtaɪdi ˈəp/
+utilities bill	/juˈtɪɫətiz ˌbɪɫ/
+draught / draughty	/ˈdɹæft/ / /ˈdɹæfti/
+credit check	/ˈkɹɛdɪt ˌtʃɛk/
+first and last month's rent	/ˈfɝst ən ˈɫæst ˈmənθs ˈɹɛnt/
+rent increase	/ˈɹɛnt ˌɪnˌkɹis/
+notice to vacate	/ˈnoʊtɪs tə ˈveɪˌkeɪt/
+rent-controlled	/ˈɹɛntkənˌtɹoʊɫd/
+utilities included	/juˈtɪɫətiz ɪnˈkɫudɪd/
+library branch	/ˈɫaɪˌbɹɛɹi ˌbɹæntʃ/
+recreation centre	/ˌɹɛkɹiˈeɪʃən ˌsɛntɝ/
+transit stop	/ˈtɹænzɪt ˌstɑp/
+snow route	/ˈsnoʊ ˌɹut/
+residents' association	/ˈɹɛzɪdənts əˌsoʊsiˈeɪʃən/
+town hall meeting	/ˈtaʊn ˈhɔɫ ˌmitɪŋ/
+nurse practitioner	/ˈnɝs pɹækˈtɪʃənɝ/
+physiotherapist / physiotherapy	/ˌfɪzioʊˈθɛɹəpɪst/ / /ˌfɪzioʊˈθɛɹəpi/
+check-up	/ˈtʃɛkˌəp/
+blood test	/ˈbɫəd ˌtɛst/
+X-ray / scan	/ˈɛksˌɹeɪ/ / /ˈskæn/
+generic drug	/dʒəˈnɛɹɪk ˈdɹəɡ/
+follow-up appointment	/ˈfɑɫoʊˌəp əˈpɔɪntmənt/
+allergic reaction	/əˈɫɝdʒɪk ɹiˈækʃən/
+CPR	/ˌsiˌpiˈɑɹ/
+urgent care	/ˈɝdʒənt ˈkɛɹ/
+heatstroke	/ˈhitˌstɹoʊk/
+long-term care home	/ˈɫɔŋˌtɝm ˈkɛɹ ˌhoʊm/
+home care	/ˈhoʊm ˌkɛɹ/
+assisted living	/əˈsɪstɪd ˈɫɪvɪŋ/
+immunisation schedule	/ˌɪmjənəˈzeɪʃən ˌskɛdʒuɫ/
+prenatal care	/pɹiˈneɪtəɫ ˈkɛɹ/
+universal health care	/ˌjunəˈvɝsəɫ ˈhɛɫθ ˌkɛɹ/
+medically necessary	/ˈmɛdɪkɫi ˈnɛsəˌsɛɹi/
+not covered	/ˈnɑt ˈkəvɝd/
+wait time	/ˈweɪt ˌtaɪm/
+family health team	/ˈfæməɫi ˈhɛɫθ ˌtim/
+virtual care / telehealth	/ˈvɝtʃuəɫ ˈkɛɹ/ / /ˈtɛɫəˌhɛɫθ/
+health authority	/ˈhɛɫθ əˌθɔɹəti/
+public health advisory	/ˈpəbɫɪk ˈhɛɫθ ədˈvaɪzəɹi/
+opioid crisis	/ˈoʊpiˌɔɪd ˌkɹaɪsɪs/
+harm reduction	/ˈhɑɹm ɹɪˌdəkʃən/
+mental health support	/ˈmɛntəɫ ˈhɛɫθ səˌpɔɹt/
+pay stub	/ˈpeɪ ˌstəb/
+gross pay / net pay	/ˈɡɹoʊs ˈpeɪ/ / /ˈnɛt ˈpeɪ/
+pay period	/ˈpeɪ ˌpɪɹiəd/
+statutory deductions	/ˈstætʃəˌtɔɹi dɪˈdəkʃənz/
+year-to-date (YTD)	/ˌjɪɹtəˈdeɪt/ / /ˌwaɪˌtiˈdi/
+price match	/ˈpɹaɪs ˌmætʃ/
+loyalty points	/ˈɫɔɪəɫti ˌpɔɪnts/
+cashier / self-checkout	/kæˈʃɪɹ/ / /ˌsɛɫfˈtʃɛkˌaʊt/
+return policy	/ɹɪˈtɝn ˌpɑɫəsi/
+proof of purchase	/ˈpɹuf əv ˈpɝtʃəs/
+store credit	/ˈstɔɹ ˌkɹɛdɪt/
+bulk / in bulk	/ˈbəɫk/ / /ɪn ˈbəɫk/
+expiry date / best before	/ɪkˈspaɪɹi ˌdeɪt/ / /ˈbɛst bɪˈfɔɹ/
+amortisation	/ˌæmɝtəˈzeɪʃən/
+fixed rate / variable rate	/ˈfɪkst ˈɹeɪt/ / /ˈvɛɹiəbəɫ ˈɹeɪt/
+pre-approval	/ˌpɹiəˈpɹuvəɫ/
+line of credit	/ˈɫaɪn əv ˈkɹɛdɪt/
+debt / in debt	/ˈdɛt/ / /ɪn ˈdɛt/
+default on	/dɪˈfɔɫt ɑn/
+consolidate debt	/kənˈsɑɫəˌdeɪt ˈdɛt/
+mutual fund	/ˈmjutʃuəɫ ˌfənd/
+compound interest	/ˈkɑmˌpaʊnd ˈɪntɹəst/
+financial advisor	/fəˈnænʃəɫ ədˈvaɪzɝ/
+identity theft	/aɪˈdɛntəti ˌθɛft/
+dispute a charge	/dɪˈspjut ə ˈtʃɑɹdʒ/
+hidden fees	/ˈhɪdən ˈfiz/
+cooling-off period	/ˌkuɫɪŋˈɔf ˌpɪɹiəd/
+consumer protection	/kənˈsumɝ pɹəˌtɛkʃən/
+small claims court	/ˈsmɔɫ ˈkɫeɪmz ˌkɔɹt/
+Better Business Bureau	/ˈbɛtɝ ˈbɪznəs ˈbjʊɹoʊ/
+road closure	/ˈɹoʊd ˌkɫoʊʒɝ/
+black ice	/ˈbɫæk ˈaɪs/
+snow tires / all-season tires	/ˈsnoʊ ˌtaɪɝz/ / /ˈɔɫˌsizən ˌtaɪɝz/
+block heater	/ˈbɫɑk ˌhitɝ/
+right of way	/ˈɹaɪt əv ˈweɪ/
+carpool lane / HOV lane	/ˈkɑɹˌpuɫ ˌɫeɪn/ / /ˌeɪtʃˌoʊˈvi ˌɫeɪn/
+connecting flight	/kəˈnɛktɪŋ ˈfɫaɪt/
+compensation for delay	/ˌkɑmpənˈseɪʃən fɝ dɪˈɫeɪ/
+baggage claim	/ˈbæɡɪdʒ ˌkɫeɪm/
+duty-free	/ˌdutiˈfɹi/
+travel insurance	/ˈtɹævəɫ ɪnˌʃʊɹəns/
+check-in time	/ˈtʃɛkˌɪn ˌtaɪm/
+vacancy / no vacancy	/ˈveɪkənsi/ / /ˈnoʊ ˈveɪkənsi/
+peak season / off-season	/ˈpik ˌsizən/ / /ˈɔfˌsizən/
+hiking trail	/ˈhaɪkɪŋ ˌtɹeɪɫ/
+guided tour	/ˈɡaɪdɪd ˈtʊɹ/
+accessible parking	/əkˈsɛsəbəɫ ˈpɑɹkɪŋ/
+park and ride	/ˈpɑɹk ən ˈɹaɪd/
+bike lane	/ˈbaɪk ˌɫeɪn/
+ride-hailing	/ˈɹaɪdˌheɪɫɪŋ/
+fare evasion	/ˈfɛɹ ɪˌveɪʒən/
+elementary school / high school	/ˌɛɫəˈmɛntɹi ˌskuɫ/ / /ˈhaɪ ˌskuɫ/
+college vs university	/ˈkɑɫɪdʒ/ vs /ˌjunəˈvɝsəti/
+co-op program	/ˈkoʊˌɑp ˈpɹoʊˌɡɹæm/
+full-time student	/ˈfʊɫˌtaɪm ˈstudənt/
+academic year	/ˌækəˈdɛmɪk ˈjɪɹ/
+reading week	/ˈɹidɪŋ ˌwik/
+syllabus / course outline	/ˈsɪɫəbəs/ / /ˈkɔɹs ˌaʊtˌɫaɪn/
+group project	/ˈɡɹup ˌpɹɑdʒɛkt/
+citation / reference list	/saɪˈteɪʃən/ / /ˈɹɛfɹəns ˌɫɪst/
+midterm / final exam	/ˈmɪdˌtɝm/ / /ˈfaɪnəɫ ɪɡˈzæm/
+GPA	/ˌdʒiˌpiˈeɪ/
+withdraw from a course	/wɪðˈdɹɔ fɹəm ə ˈkɔɹs/
+academic advisor	/ˌækəˈdɛmɪk ədˈvaɪzɝ/
+student loan	/ˈstudənt ˌɫoʊn/
+international student fees	/ˌɪntɝˈnæʃənəɫ ˈstudənt ˌfiz/
+work-study	/ˈwɝkˌstədi/
+tuition waiver	/tuˈɪʃən ˌweɪvɝ/
+night class / evening course	/ˈnaɪt ˌkɫæs/ / /ˈivnɪŋ ˌkɔɹs/
+online course / self-paced	/ˈɑnˌɫaɪn ˈkɔɹs/ / /ˌsɛɫfˈpeɪst/
+bridging program	/ˈbɹɪdʒɪŋ ˌpɹoʊˌɡɹæm/
+licensing exam	/ˈɫaɪsənsɪŋ ɪɡˌzæm/
+regulated profession	/ˈɹɛɡjəˌɫeɪtɪd pɹəˈfɛʃən/
+foreign credential recognition	/ˈfɔɹən kɹəˈdɛnʃəɫ ˌɹɛkəɡˈnɪʃən/
+prior learning assessment	/ˈpɹaɪɝ ˈɫɝnɪŋ əˈsɛsmənt/
+class size	/ˈkɫæs ˌsaɪz/
+literacy / numeracy	/ˈɫɪtɝəsi/ / /ˈnumɝəsi/
+dropout rate	/ˈdɹɑpˌaʊt ˌɹeɪt/
+lifelong learning	/ˈɫaɪfˌɫɔŋ ˈɫɝnɪŋ/
+skills gap	/ˈskɪɫz ˌɡæp/
+early childhood education	/ˈɝɫi ˈtʃaɪɫdˌhʊd ˌɛdʒəˈkeɪʃən/
+walk-in / by appointment only	/ˈwɔkˌɪn/ / /baɪ əˈpɔɪntmənt ˈoʊnɫi/
+reschedule an appointment	/ɹiˈskɛdʒuɫ ən əˈpɔɪntmənt/
+no-show	/ˈnoʊˌʃoʊ/
+waitlist	/ˈweɪtˌɫɪst/
+confirmation email	/ˌkɑnfɝˈmeɪʃən ˈiˌmeɪɫ/
+service call	/ˈsɝvɪs ˌkɔɫ/
+under warranty	/ˈəndɝ ˈwɔɹənti/
+on-site / off-site	/ˌɑnˈsaɪt/ / /ˌɔfˈsaɪt/
+auto-renewal	/ˌɔtoʊɹɪˈnuəɫ/
+cancel a subscription	/ˈkænsəɫ ə səbˈskɹɪpʃən/
+billing cycle	/ˈbɪɫɪŋ ˌsaɪkəɫ/
+account holder	/əˈkaʊnt ˌhoʊɫdɝ/
+terms and conditions	/ˈtɝmz ən kənˈdɪʃənz/
+file a complaint	/ˈfaɪɫ ə kəmˈpɫeɪnt/
+reference number	/ˈɹɛfɹəns ˌnəmbɝ/
+below the standard advertised	/bɪˈɫoʊ ðə ˈstændɝd ˈædvɝˌtaɪzd/
+seek compensation	/ˈsik ˌkɑmpənˈseɪʃən/
+How may I help you?	/ˈhaʊ meɪ aɪ ˈhɛɫp ju/
+Bear with me for a moment	/ˈbɛɹ wɪð mi fɝ ə ˈmoʊmənt/
+I will put you through to	/aɪ wɪɫ ˈpʊt ju ˈθɹu tu/
+Let me confirm that for you	/ˈɫɛt mi kənˈfɝm ˈðæt fɝ ju/
+Is there anything else I can help with?	/ɪz ðɝ ˈɛniˌθɪŋ ˈɛɫs aɪ kən ˈhɛɫp wɪð/
+We apologise for the inconvenience	/wi əˈpɑɫəˌdʒaɪz fɝ ði ˌɪnkənˈvinjəns/
+within three to five business days	/wɪˈðɪn ˈθɹi tə ˈfaɪv ˈbɪznəs ˌdeɪz/
+at no additional cost	/ət ˈnoʊ əˈdɪʃənəɫ ˈkɑst/
+as a one-time exception	/æz ə ˈwənˌtaɪm ɪkˈsɛpʃən/
+waive a fee	/ˈweɪv ə ˈfi/
+escalate to a specialist	/ˈɛskəˌɫeɪt tu ə ˈspɛʃəɫɪst/
+follow up within 48 hours	/ˈfɑɫoʊ ˈəp wɪˈðɪn ˈfɔɹti ˈeɪt ˈaʊɝz/
+your patience is appreciated	/jɝ ˈpeɪʃəns ɪz əˈpɹiʃiˌeɪtɪd/
+Member of Parliament (MP)	/ˈmɛmbɝ əv ˈpɑɹɫəmənt/ / /ˌɛmˈpi/
+Member of Provincial Parliament (MPP/MLA)	/ˈmɛmbɝ əv pɹəˈvɪnʃəɫ ˈpɑɹɫəmənt/ / /ˌɛmˌpiˈpi/ / /ˌɛmˌɛɫˈeɪ/
+city councillor	/ˈsɪti ˈkaʊnsəɫɝ/
+Prime Minister	/ˈpɹaɪm ˈmɪnɪstɝ/
+by-election	/ˈbaɪɪˌɫɛkʃən/
+ballot / polling station	/ˈbæɫət/ / /ˈpoʊɫɪŋ ˌsteɪʃən/
+eligible to vote	/ˈɛɫɪdʒəbəɫ tə ˈvoʊt/
+municipal services	/mjuˈnɪsəpəɫ ˈsɝvɪsɪz/
+public consultation	/ˈpəbɫɪk ˌkɑnsəɫˈteɪʃən/
+permit application	/ˈpɝmɪt ˌæpɫəˈkeɪʃən/
+deadline for submission	/ˈdɛdˌɫaɪn fɝ səbˈmɪʃən/
+in person / online / by mail	/ɪn ˈpɝsən/ / /ˈɑnˌɫaɪn/ / /baɪ ˈmeɪɫ/
+Comprehensive Ranking System (CRS)	/ˌkɑmpɹɪˈhɛnsɪv ˈɹæŋkɪŋ ˌsɪstəm/ / /ˌsiˌɑɹˈɛs/
+Invitation to Apply (ITA)	/ˌɪnvɪˈteɪʃən tu əˈpɫaɪ/ / /ˌaɪˌtiˈeɪ/
+language test results	/ˈɫæŋɡwɪdʒ ˌtɛst ɹɪˌzəɫts/
+biometrics	/ˌbaɪoʊˈmɛtɹɪks/
+settlement agency	/ˈsɛtəɫmənt ˌeɪdʒənsi/
+citizenship test	/ˈsɪtɪzənˌʃɪp ˌtɛst/
+oath of citizenship	/ˈoʊθ əv ˈsɪtɪzənˌʃɪp/
+systemic racism	/sɪˈstɛmɪk ˈɹeɪˌsɪzəm/
+official languages	/əˈfɪʃəɫ ˈɫæŋɡwɪdʒɪz/
+refugee / asylum seeker	/ˌɹɛfjuˈdʒi/ / /əˈsaɪɫəm ˌsikɝ/
+labour shortage	/ˈɫeɪbɝ ˌʃɔɹtɪdʒ/
+public opinion	/ˈpəbɫɪk əˈpɪnjən/
+civic engagement	/ˈsɪvɪk ɪnˈɡeɪdʒmənt/
+urbanisation	/ˌɝbənəˈzeɪʃən/
+storage / run out of space	/ˈstɔɹɪdʒ/ / /ˈɹən ˈaʊt əv ˈspeɪs/
+battery life	/ˈbætɝi ˌɫaɪf/
+warranty claim	/ˈwɔɹənti ˌkɫeɪm/
+factory reset	/ˈfæktɝi ˈɹiˌsɛt/
+Wi-Fi network	/ˈwaɪˌfaɪ ˈnɛtˌwɝk/
+two-factor authentication	/ˈtuˌfæktɝ əˌθɛntəˈkeɪʃən/
+verification code	/ˌvɛɹəfəˈkeɪʃən ˌkoʊd/
+account suspended	/əˈkaʊnt səˈspɛndɪd/
+opt in / opt out	/ˈɑpt ˈɪn/ / /ˈɑpt ˈaʊt/
+terms of service	/ˈtɝmz əv ˈsɝvɪs/
+personal information	/ˈpɝsənəɫ ˌɪnfɝˈmeɪʃən/
+targeted advertising	/ˈtɑɹɡɪtɪd ˈædvɝˌtaɪzɪŋ/
+digital footprint	/ˈdɪdʒɪtəɫ ˈfʊtˌpɹɪnt/
+source / credible source	/ˈsɔɹs/ / /ˈkɹɛdəbəɫ ˈsɔɹs/
+fact-check	/ˈfæktˌtʃɛk/
+echo chamber	/ˈɛkoʊ ˌtʃeɪmbɝ/
+viral / go viral	/ˈvaɪɹəɫ/ / /ˈɡoʊ ˈvaɪɹəɫ/
+influencer	/ˈɪnfɫuənsɝ/
+content moderation	/ˈkɑntɛnt ˌmɑdəˈɹeɪʃən/
+freedom of expression	/ˈfɹidəm əv ɪkˈspɹɛʃən/
+machine learning	/məˈʃin ˌɫɝnɪŋ/
+chatbot	/ˈtʃætˌbɑt/
+reskilling	/ɹiˈskɪɫɪŋ/
+digital literacy	/ˈdɪdʒɪtəɫ ˈɫɪtɝəsi/
+digital divide	/ˈdɪdʒɪtəɫ dɪˈvaɪd/
+broadband access	/ˈbɹɔdˌbænd ˈækˌsɛs/
+e-government	/ˈiˌɡəvɝnmənt/
+compostable	/ˈkɑmˌpoʊstəbəɫ/
+curbside collection	/ˈkɝbˌsaɪd kəˈɫɛkʃən/
+energy-efficient	/ˈɛnɝdʒiɪˌfɪʃənt/
+LED bulb / insulation upgrade	/ˌɛɫˌiˈdi ˈbəɫb/ / /ˌɪnsəˈɫeɪʃən ˈəpˌɡɹeɪd/
+heat pump	/ˈhit ˌpəmp/
+electric vehicle (EV)	/ɪˈɫɛktɹɪk ˈviəkəɫ/ / /ˌiˈvi/
+charging station	/ˈtʃɑɹdʒɪŋ ˌsteɪʃən/
+greenhouse gas	/ˈɡɹinˌhaʊs ˈɡæs/
+carbon tax / carbon pricing	/ˈkɑɹbən ˌtæks/ / /ˈkɑɹbən ˌpɹaɪsɪŋ/
+net zero	/ˈnɛt ˈzɪɹoʊ/
+flooding / flood risk	/ˈfɫədɪŋ/ / /ˈfɫəd ˌɹɪsk/
+air quality index	/ˈɛɹ ˈkwɑɫəti ˌɪnˌdɛks/
+permafrost	/ˈpɝməˌfɹɔst/
+glacier / sea level rise	/ˈɡɫeɪʃɝ/ / /ˈsi ˌɫɛvəɫ ˈɹaɪz/
+adaptation vs mitigation	/ˌædæpˈteɪʃən/ vs /ˌmɪtəˈɡeɪʃən/
+habitat loss	/ˈhæbəˌtæt ˌɫɔs/
+endangered species	/ɪnˈdeɪndʒɝd ˈspiʃiz/
+protected area	/pɹəˈtɛktɪd ˈɛɹiə/
+natural resources	/ˈnætʃɝəɫ ˈɹisɔɹsɪz/
+oil sands / pipeline	/ˈɔɪɫ ˌsændz/ / /ˈpaɪpˌɫaɪn/
+hydroelectricity	/ˌhaɪdɹoʊɪɫɛkˈtɹɪsəti/
+renewable vs non-renewable	/ɹɪˈnuəbəɫ/ vs /ˌnɑnɹɪˈnuəbəɫ/
+cleanup / community cleanup	/ˈkɫinˌəp/ / /kəˈmjunəti ˈkɫinˌəp/
+community garden	/kəˈmjunəti ˈɡɑɹdən/
+tree-planting	/ˈtɹiˌpɫæntɪŋ/
+donation drive	/doʊˈneɪʃən ˌdɹaɪv/
+sign up as a volunteer	/ˈsaɪn ˈəp æz ə ˌvɑɫənˈtɪɹ/
+raise funds	/ˈɹeɪz ˈfəndz/
+make a pledge	/ˈmeɪk ə ˈpɫɛdʒ/
+collective effort	/kəˈɫɛktɪv ˈɛfɝt/
+travel advisory	/ˈtɹævəɫ ədˈvaɪzəɹi/
+office hours	/ˈɔfɪs ˌaʊɝz/
+red tape	/ˈɹɛd ˈteɪp/
+margin of error	/ˈmɑɹdʒɪn əv ˈɛɹɝ/
+roommate / flatmate	/ˈɹumˌmeɪt/ / /ˈfɫætˌmeɪt/
+sanitizer	/ˈsænəˌtaɪzɝ/
+postgraduate	/ˌpoʊstˈɡɹædʒuət/
+cyberbullying	/ˈsaɪbɝˌbʊɫiɪŋ/
+analyse / analyze	/ˈænəˌɫaɪz/ / /ˈænəˌɫaɪz/
+criticise / criticize	/ˈkɹɪtɪˌsaɪz/ / /ˈkɹɪtɪˌsaɪz/
+ageing / aging	/ˈeɪdʒɪŋ/ / /ˈeɪdʒɪŋ/
+globalization / globalisation	/ˌɡɫoʊbəɫɪˈzeɪʃən/ / /ˌɡɫoʊbəɫɪˈzeɪʃən/
+memorize / memorise	/ˈmɛməˌɹaɪz/ / /ˈmɛməˌɹaɪz/
+civilization / civilisation	/ˌsɪvəɫɪˈzeɪʃən/ / /ˌsɪvəɫɪˈzeɪʃən/

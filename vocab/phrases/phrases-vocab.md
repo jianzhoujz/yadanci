@@ -1,0 +1,1335 @@
+# 短语
+
+> 由 `_src.psv` 自动生成，请勿直接编辑本文件。修改源文件后运行 `tools/build.sh`。
+
+
+## EMAIL · 邮件功能语块
+
+### 开头-称呼
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Dear Mr./Ms. + 姓 | chunk | 尊敬的……先生/女士 | 正式邮件唯一安全开头。不知姓名用 Dear Sir or Madam。绝不用 Dear + 名字全称 | Dear Ms. Carter, |
+| Dear + 名 | chunk | 亲爱的…… | 半正式（同事、熟识客户）。知道对方名字时用 | Dear Michael, |
+| Hi + 名 | chunk | 嗨，…… | 非正式（朋友、邻居）。写给朋友、邻居时用，用错语域显得失礼 | Hi Sarah, |
+| To whom it may concern | chunk | 敬启者 | 完全不知收件人时用。比 Dear Sir or Madam 更保险 | To whom it may concern, |
+
+### 开头-目的
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| I am writing to inform you that | chunk | 我写信是想告知您 | 告知类万能开头。比 I want to tell you 正式得多 | I am writing to inform you that our delivery has been delayed. |
+| I am writing to enquire about | chunk | 我写信是想咨询关于 | 询问类开头。美式拼 inquire，两者都接受 | I am writing to enquire about the vacancy advertised last week. |
+| I am writing with regard to | chunk | 关于……我写信说明 | 最正式的引出话题方式 | I am writing with regard to the invoice dated 3 May. |
+| I am writing to express my concern about | chunk | 我写信表达我对……的担忧 | 投诉类软开头，比 complain 更得体 | I am writing to express my concern about the noise from unit 4B. |
+| I am writing to request | chunk | 我写信申请/请求 | 申请类开头，后接名词 | I am writing to request an extension of the deadline. |
+| I hope this email finds you well | chunk | 希望您一切安好 | 礼貌垫句。只在半正式以上用，且不要每封都写 | I hope this email finds you well. |
+
+### 开头-回应
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Thank you for your email regarding | chunk | 感谢您关于……的来信 | 回复类开头首选 | Thank you for your email regarding the refund. |
+| Further to our conversation on | chunk | 接我们……的谈话 | 承接之前沟通，显得专业 | Further to our conversation on Monday, I am sending the figures. |
+| I am following up on | pv | 我来跟进…… | 跟进类。follow up on 是职场超高频 | I am following up on my previous request. |
+
+### 正文-说明
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Please be advised that | chunk | 特此告知 | 正式通知语气 | Please be advised that the office will close at noon. |
+| I would like to draw your attention to | chunk | 我想提请您注意 | 引出问题点 | I would like to draw your attention to a billing error. |
+| As you may be aware | chunk | 想必您已知悉 | 铺垫已知信息 | As you may be aware, the policy changed last month. |
+| It has come to my attention that | chunk | 我注意到 | 正式指出问题，不带指责 | It has come to my attention that the report is incomplete. |
+| for your reference | chunk | 供您参考 | 附件/信息后缀 | I have attached the schedule for your reference. |
+| Please find attached | chunk | 附件请查收 | 邮件惯用语 | Please find attached a copy of the receipt. |
+
+### 正文-请求
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| I would appreciate it if you could | chunk | 如果您能……我将不胜感激 | 最安全的礼貌请求句式。it 不能省 | I would appreciate it if you could confirm by Friday. |
+| Could you please + 动词原形 | chunk | 请您……好吗 | 中等正式请求 | Could you please send me the updated invoice? |
+| I would be grateful if you could | chunk | 若您能……我将非常感激 | 与 appreciate 句式轮换，避免重复扣词汇分 | I would be grateful if you could look into this. |
+| Would it be possible to | chunk | 是否有可能…… | 试探性请求，最柔和 | Would it be possible to reschedule the meeting? |
+| I am writing to ask whether | chunk | 我想问是否 | 引出是非型请求 | I am writing to ask whether a replacement is available. |
+| at your earliest convenience | chunk | 请尽早 | 催促但不失礼，远胜 as soon as possible | Please reply at your earliest convenience. |
+| Kindly + 动词原形 | chunk | 敬请…… | 简短正式请求，慎用过多 | Kindly confirm receipt of this email. |
+
+### 正文-道歉
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Please accept my sincere apologies for | chunk | 对……请接受我诚挚的歉意 | 最高级别道歉，客服场景首选 | Please accept my sincere apologies for the inconvenience. |
+| I sincerely apologise for | chunk | 我为……深表歉意 | apologise/apologize 都可，全篇统一 | I sincerely apologise for the delay in responding. |
+| I regret to inform you that | chunk | 很遗憾地通知您 | 拒绝/坏消息标准句 | I regret to inform you that your request was declined. |
+| We are sorry for any inconvenience caused | chunk | 对造成的不便我们深感抱歉 | 固定搭配，caused 不要漏 | We are sorry for any inconvenience caused. |
+| This was an oversight on our part | chunk | 这是我方的疏忽 | 承认错误但不过度自责 | This was an oversight on our part and has now been corrected. |
+| rest assured that | chunk | 请放心…… | 安抚客户高分表达 | Rest assured that this will not happen again. |
+
+### 正文-投诉
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| fall short of | pv | 未达到（标准/期望） | 投诉用语，比 be bad 高级 | The service fell short of our expectations. |
+| be dissatisfied with | phr | 对……不满意 | 正式表达不满，不要用 angry | I am dissatisfied with the quality of the repair. |
+| on three separate occasions | chunk | 前后三次 | 量化投诉，更有说服力 | I have raised this issue on three separate occasions. |
+| to no avail | idm | 毫无结果 | 投诉升级用语 | I have called twice, to no avail. |
+| I trust you will | chunk | 我相信您会…… | 施压但礼貌 | I trust you will resolve this promptly. |
+| seek a resolution | chunk | 寻求解决方案 | 投诉邮件结尾诉求 | I am writing to seek a resolution to this matter. |
+| a full refund | chunk | 全额退款 | 消费投诉高频诉求 | I would like to request a full refund. |
+
+### 正文-解释
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| due to circumstances beyond our control | chunk | 由于我们无法控制的情况 | 万能免责说明 | The event was postponed due to circumstances beyond our control. |
+| owing to | phr | 由于 | 比 because of 正式 | Owing to a staff shortage, opening hours have changed. |
+| with a view to + V-ing | chunk | 旨在…… | 表目的的高分结构 | We have revised the process with a view to avoiding further delays. |
+| in an effort to | chunk | 为了 | 表努力方向 | In an effort to reduce waiting times, we have hired more staff. |
+
+### 正文-提议
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| I would suggest that we | chunk | 我建议我们 | suggest 后从句用原形动词（虚拟） | I would suggest that we meet on Thursday. |
+| One option would be to | chunk | 一个选择是 | 给出方案，适合三点式 bullet | One option would be to extend the deadline by a week. |
+| Alternatively, you may wish to | chunk | 或者，您可以考虑 | 给第二方案，高分连接 | Alternatively, you may wish to book online. |
+| I am happy to | chunk | 我很乐意 | 主动提供帮助 | I am happy to arrange a replacement. |
+| If this is not convenient, please let me know | chunk | 如不方便请告知 | 体贴收尾，显得周到 | If this is not convenient, please let me know. |
+
+### 结尾-行动
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Please do not hesitate to contact me | chunk | 请随时与我联系 | 结尾万能句，hesitate 拼写易错 | Please do not hesitate to contact me if you need further details. |
+| I look forward to hearing from you | chunk | 期待您的回复 | look forward to 后接 V-ing，绝不接原形 | I look forward to hearing from you. |
+| I await your response | chunk | 静候回复 | 简短正式版 | I await your response. |
+| Thank you for your time and consideration | chunk | 感谢您的时间与考虑 | 申请/请求类结尾 | Thank you for your time and consideration. |
+| Thank you in advance for your assistance | chunk | 提前感谢您的协助 | 请求后结尾 | Thank you in advance for your assistance. |
+
+### 结尾-落款
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Yours sincerely | chunk | 此致敬礼 | 知道收件人姓名时用（英式规则） | Yours sincerely, Jian Zhou |
+| Yours faithfully | chunk | 谨启 | 不知姓名（Dear Sir or Madam）时用 | Yours faithfully, Jian Zhou |
+| Kind regards | chunk | 此致 | 半正式最安全，北美职场默认 | Kind regards, Jian |
+| Best regards | chunk | 顺颂商祺 | 与 Kind regards 等价，轮换使用 | Best regards, Jian |
+| Warm regards | chunk | 致以温暖的问候 | 偏熟人/半私人 | Warm regards, Jian |
+
+## SPEAK · 口语应答
+
+### 开场-缓冲
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Thanks for letting me know | chunk | 谢谢你告诉我 | 口语开场垫句，争取思考时间且自然 | Thanks for letting me know — I really appreciate the heads-up. |
+| I really appreciate you asking me | chunk | 很感谢你来问我 | 应邀/被求助场景开场 | I really appreciate you asking me, but unfortunately… |
+| That's a good point | chunk | 你说得有道理 | 回应对方观点 | That's a good point, and I'd like to add something. |
+| Let me see what I can do | chunk | 我看看我能做什么 | 被请求帮忙时的自然回应 | Let me see what I can do about that. |
+| I can understand why you feel that way | chunk | 我理解你为什么这么想 | 共情句，投诉/冲突场景必备 | I can completely understand why you feel that way. |
+
+### 拒绝
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| I'm afraid I won't be able to | chunk | 恐怕我没办法 | 标准礼貌拒绝，不要直接说 I can't | I'm afraid I won't be able to make it on Saturday. |
+| Unfortunately, I've already committed to | chunk | 不巧我已经答应了 | 给出理由的拒绝 | Unfortunately, I've already committed to another event that day. |
+| I'd love to, but | chunk | 我很想，但是 | 软化拒绝的标准开头 | I'd love to, but I have a prior engagement. |
+| a prior engagement | chunk | 已有安排 | 拒绝邀约的万能理由，不必编细节 | I have a prior engagement that evening. |
+| Can I take a rain check? | idm | 能改天吗 | 北美超高频口语，改期的地道说法 | Can I take a rain check on that? |
+| Would it be okay if we postponed it? | chunk | 我们能推迟吗 | 提出改期 | Would it be okay if we postponed it to next week? |
+
+### 道歉
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| I owe you an apology | chunk | 我该向你道歉 | 口语道歉开场，比 sorry 有分量 | I owe you an apology for missing the meeting. |
+| I'm so sorry for the mix-up | chunk | 抱歉搞混了 | mix-up 名词，指小差错 | I'm so sorry for the mix-up with the booking. |
+| It completely slipped my mind | idm | 我完全忘了 | 忘事场景地道表达 | I'm sorry — it completely slipped my mind. |
+| Let me make it up to you | idm | 让我补偿你 | 道歉后提补救，显得有诚意 | Let me make it up to you — coffee's on me. |
+| I take full responsibility | chunk | 我承担全部责任 | 职场担责高分句 | I take full responsibility for the error. |
+
+### 请求
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Would you mind + V-ing | chunk | 你介意……吗 | 最礼貌请求。注意后接 V-ing，且回答 No 才是答应 | Would you mind keeping the noise down after ten? |
+| I was wondering if you could | chunk | 我在想你能否 | 间接请求，语气最柔和 | I was wondering if you could cover my shift on Friday. |
+| Do you think you could possibly | chunk | 你觉得你有可能……吗 | 双重缓和，很礼貌 | Do you think you could possibly give me a hand? |
+| Is there any chance you could | chunk | 你有没有可能 | 口语化礼貌请求 | Is there any chance you could move your car? |
+| I'd really appreciate it if you could | chunk | 你要是能……我真的很感激 | 口语版感激请求 | I'd really appreciate it if you could let me know today. |
+| give me a hand | idm | 帮我一把 | 非正式求助，朋友同事场景 | Could you give me a hand with these boxes? |
+
+### 提建议
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| If I were you, I'd | chunk | 我要是你，我会 | 虚拟语气建议句 | If I were you, I'd speak to the supervisor directly. |
+| You might want to consider | chunk | 你也许可以考虑 | 最不冒犯的建议句 | You might want to consider booking in advance. |
+| Have you thought about + V-ing | chunk | 你想过……吗 | 建议句轮换 | Have you thought about asking for a transfer? |
+| It might be worth + V-ing | chunk | 也许值得…… | 温和建议 | It might be worth checking the warranty first. |
+| What I'd suggest is | chunk | 我的建议是 | 清楚引出建议，方便展开 | What I'd suggest is that we split the task. |
+
+### 安抚
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Don't worry about it | chunk | 别担心 | 接受别人道歉的标准回应 | Don't worry about it — these things happen. |
+| These things happen | chunk | 这种事难免 | 宽慰他人的地道短句 | No harm done. These things happen. |
+| No harm done | idm | 没造成什么损失 | 原谅对方 | It's fine, no harm done. |
+| I'm sure it'll work out | chunk | 我相信会解决的 | 给人信心 | Try not to stress — I'm sure it'll work out. |
+| Let me know if there's anything I can do | chunk | 有什么我能帮的告诉我 | 收尾万能句 | Let me know if there's anything I can do to help. |
+
+### 投诉
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| I don't mean to complain, but | chunk | 我不是想抱怨，但是 | 软化投诉开场，保持礼貌 | I don't mean to complain, but the heating still isn't working. |
+| I wanted to bring something to your attention | chunk | 我想跟你反映一件事 | 正式提出问题 | I wanted to bring something to your attention about the schedule. |
+| It's been going on for a while now | chunk | 已经持续一段时间了 | 强调问题持续性 | It's been going on for a while now and it's affecting my sleep. |
+| Is there any way we could sort this out? | chunk | 我们有办法解决吗 | 投诉后导向解决，高分收尾 | Is there any way we could sort this out today? |
+
+### 祝贺感谢
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Congratulations on + n./V-ing | chunk | 祝贺你…… | 注意介词是 on 不是 for | Congratulations on your promotion! |
+| I'm so happy for you | chunk | 我真为你高兴 | 口语祝贺自然表达 | That's fantastic news — I'm so happy for you! |
+| You really went above and beyond | idm | 你真是超额付出 | 表扬他人的高分习语 | You really went above and beyond on this project. |
+| I can't thank you enough | chunk | 真是感激不尽 | 强烈感谢 | I can't thank you enough for stepping in. |
+| That means a lot to me | chunk | 这对我意义重大 | 真诚回应 | Thank you — that means a lot to me. |
+
+### 收尾
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Does that work for you? | chunk | 这样行吗 | 提议后确认，自然收尾 | How about Thursday at two? Does that work for you? |
+| Just let me know either way | chunk | 不管怎样都告诉我一声 | 留出回应空间 | Just let me know either way by tomorrow. |
+| I'll keep you posted | idm | 我随时告诉你进展 | 承诺后续沟通 | I'll look into it and keep you posted. |
+| I'll get back to you on that | chunk | 这事我回头答复你 | 无法当场决定时用 | Let me check the dates and I'll get back to you on that. |
+
+## CHART · 图表与图片描述
+
+### 图表类型
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| bar chart / bar graph | n. | 柱状图 | 描述图表时第一句先说图型 | The bar chart compares sales across four regions. |
+| line graph | n. | 折线图 | 表示随时间变化 | The line graph illustrates changes in rainfall from 2010 to 2020. |
+| pie chart | n. | 饼图 | 表比例，配 proportion/share | The pie chart shows the breakdown of household spending. |
+| flow chart / process diagram | n. | 流程图 | 配 stage/step 描述 | The flow chart outlines the recycling process. |
+| floor plan / map | n. | 平面图/地图 | 建筑平面与社区地图 | The map shows the layout of the community centre. |
+
+### 开场句
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| The chart illustrates | chunk | 该图表说明 | 万能开场动词：illustrate/show/present/compare | The chart illustrates how energy use varies by season. |
+| provide an overview of | chunk | 概述 | 开场概括 | The diagram provides an overview of the application procedure. |
+| be broken down by | pv | 按……细分 | 描述分类维度 | The data is broken down by age group. |
+
+### 趋势-上升
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| pick up | pv | 回升 | 下跌后的恢复 | Business picked up in the final quarter. |
+
+### 趋势-下降
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| taper off | pv | 逐渐减少 | 缓慢衰减 | Participation tapered off towards the end. |
+
+### 趋势-平稳
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| remain stable / level off | chunk | 保持平稳/趋于平稳 | 平台期表达 | Numbers levelled off at around 500. |
+
+### 极值比较
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| the lowest point / bottom out | chunk | 最低点/触底 | 极值另一端 | The figure bottomed out at 200 in January. |
+| account for | pv | 占（比例） | 饼图核心动词 | Housing accounts for 35 percent of total spending. |
+| make up | pv | 构成 | account for 的替换 | Seniors make up nearly a quarter of users. |
+| twice as many as | chunk | 是……的两倍 | 倍数表达，高分结构 | There were twice as many visitors as in the previous year. |
+| compared with / in contrast to | chunk | 与……相比 | 比较连接 | In contrast to the city centre, the suburbs saw little change. |
+
+### 收尾
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Overall, it is clear that | chunk | 总体而言，显然 | 描述图表的总结句 | Overall, it is clear that demand has risen over the period. |
+
+## LINK · 概括与连接
+
+### 概括动词
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| argue that | v. | 论证说 | SWT 首选转述动词 | The author argues that remote work improves retention. |
+| claim that | v. | 声称 | 带轻微质疑色彩 | The report claims that costs will fall. |
+| attribute A to B | v. | 把A归因于B | 因果转述高分结构 | The decline is attributed to rising interest rates. |
+| point out | pv | 指出 | 口语书面通用 | The writer points out that the data is incomplete. |
+| conclude that | v. | 得出结论 | 收尾转述 | The study concludes that the method is cost-effective. |
+
+### 概括结构
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| which suggests that | chunk | 这表明 | SWT 一句话压缩的关键从句 | …, which suggests that the policy is working. |
+| although … , … | chunk | 尽管…… | 让步结构，一句话内装两个要点 | Although costs have risen, demand remains strong. |
+| while acknowledging that | chunk | 虽然承认 | 高密度压缩结构 | While acknowledging the risks, the author supports the plan. |
+| by + V-ing | chunk | 通过…… | 压缩方式状语 | By automating the process, the company cut errors by half. |
+
+### 连接词-递进
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| in addition to | prep. | 除……之外还 | 后接名词或 V-ing | In addition to training, staff received a bonus. |
+
+### 连接词-转折
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| on the contrary | chunk | 恰恰相反 | 纠正误解，不等于 on the other hand | It did not fail; on the contrary, it exceeded targets. |
+| despite / in spite of | prep. | 尽管 | 后接名词或 V-ing，绝不接从句 | Despite the cost, the project went ahead. |
+
+### 连接词-因果
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| consequently / as a result | adv. | 因此 | 结果连接 | Demand fell and, consequently, prices dropped. |
+| since / given that | conj. | 鉴于 | 引出原因 | Given that resources are limited, priorities must be set. |
+
+### 连接词-举例
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| for instance / such as | chunk | 例如 | for instance 后跟句子，such as 后跟名词 | Basic services, such as water and heating, were restored. |
+
+### 连接词-总结
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| in short / to sum up | chunk | 简而言之 | SST 收尾 | In short, the benefits outweigh the costs. |
+
+## WORK · 主题：职场与就业
+
+### 求职招聘
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| job posting / job ad | n. | 招聘启事 | 北美说 posting，英国说 advert | I saw the job posting on the company website. |
+| cover letter | n. | 求职信 | 与 résumé 固定搭配 | Her cover letter was tailored to the role. |
+| apply for a position | chunk | 申请职位 | 介词是 for；apply to 接公司 | I would like to apply for the position of office coordinator. |
+| job interview | n. | 面试 | 固定搭配，不说 job test | I have a job interview on Tuesday morning. |
+| hands-on experience | chunk | 实操经验 | 简历高分搭配 | I have five years of hands-on experience in logistics. |
+| transferable skills | chunk | 可迁移技能 | 转行必备表达 | My transferable skills include project coordination. |
+| be a good fit for | chunk | 适合…… | 面试高频 | I believe I would be a good fit for your team. |
+| probation period | n. | 试用期 | 雇佣条款 | The role includes a three-month probation period. |
+
+### 雇佣条款
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| shift work | n. | 轮班工作 | 蓝领、医护岗位高频 | The job involves shift work, including nights. |
+| benefits package | n. | 福利待遇包 | 北美求职核心词 | The benefits package includes dental and vision coverage. |
+| paid leave | n. | 带薪假 | 职场邮件高频 | Employees are entitled to ten days of paid leave. |
+| sick leave | n. | 病假 | 固定搭配 | I need to take sick leave for two days. |
+| parental leave | n. | 育儿假 | 育儿假，父母双方都可休 | She is on parental leave until August. |
+| notice period | n. | 离职通知期 | 辞职必用 | I am required to give two weeks' notice. |
+| be entitled to | phr | 有权享有 | 正式权利表达 | Part-time staff are entitled to the same rate. |
+| severance pay | n. | 遣散费 | 裁员语境 | Employees received severance pay based on tenure. |
+
+### 日常职场
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| supervisor / line manager | n. | 直属上司 | 职场邮件常见收件人 | Please copy your supervisor on the email. |
+| cover a shift | chunk | 代班 | 同事互助场景高频 | Could you cover my shift on Friday? |
+| call in sick | pv | 打电话请病假 | 固定搭配 | I had to call in sick yesterday. |
+| take time off | chunk | 请假/休假 | 口语常用 | I would like to take two days off next week. |
+| clock in / clock out | pv | 打卡上下班 | 时薪岗位高频 | Remember to clock in before your shift starts. |
+| be short-staffed | adj. | 人手不足 | 职场问题高频 | We're short-staffed this week. |
+| fill in for someone | pv | 顶替某人 | 临时代岗 | Can you fill in for Maria on Thursday? |
+| hand in / submit | pv | 提交 | hand in 口语，submit 正式 | Please hand in your timesheet by Friday. |
+
+### 会议项目
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| postpone / put off | v./pv | 推迟 | put off 后接 V-ing | The launch has been postponed until March. |
+| bring forward | pv | 提前 | 与 postpone 相反，易忘 | The deadline has been brought forward to the 10th. |
+| follow up on | pv | 跟进 | 职场最高频短语动词之一 | I'll follow up on that with the supplier. |
+| touch base | idm | 简短沟通一下 | 北美职场地道习语 | Let's touch base early next week. |
+| run behind schedule | chunk | 进度落后 | 项目更新邮件高频 | The project is running slightly behind schedule. |
+| on track | phr | 进展顺利 | 与上条相反 | We are on track to deliver by the end of the month. |
+| within budget | chunk | 在预算内 | 项目汇报三要素之一 | The work was completed on time and within budget. |
+| allocate resources | chunk | 分配资源 | 正式搭配 | We will allocate additional resources to the task. |
+
+### 绩效发展
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| performance review | n. | 绩效评估 | 北美职场年度事件 | My performance review is scheduled for next month. |
+| raise (US) / pay rise (UK) | n. | 加薪 | 美式 raise，英式 pay rise | She asked for a raise at her review. |
+| professional development | n. | 职业发展培训 | 福利类高频 | The company funds professional development courses. |
+| take on more responsibility | chunk | 承担更多责任 | 面试/晋升表达 | I'm ready to take on more responsibility. |
+| meet expectations | chunk | 达到预期 | 绩效用语 | His work consistently meets expectations. |
+
+### 职场问题
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| resign / hand in one's notice | v./chunk | 辞职 | 正式与口语版 | She resigned after five years with the firm. |
+| lay off | pv | 裁员 | 非员工过错；被动 be laid off | Thirty staff were laid off last quarter. |
+| work-life balance | n. | 工作生活平衡 | 议论类高频 | Remote work has improved my work-life balance. |
+| conflict of interest | n. | 利益冲突 | 职业道德词 | You must declare any conflict of interest. |
+| health and safety | n. | 职业健康与安全 | 工作场所安全术语 | All staff must complete health and safety training. |
+| workplace injury | n. | 工伤 | 与 WSIB/赔偿相关 | He reported a workplace injury to his supervisor. |
+
+### 工作模式
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| remote work / telework | n. | 远程办公 | 议论题超高频 | Remote work has become standard in many sectors. |
+| hybrid model | n. | 混合办公模式 | 疫情后热词 | We operate on a hybrid model: three days in the office. |
+| flexible hours / flextime | n. | 弹性工作时间 | 福利协商高频 | The role offers flexible hours. |
+| gig economy | n. | 零工经济 | 社会议题词 | The gig economy offers flexibility but little security. |
+
+## HOME · 主题：住房与社区
+
+### 租房
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| lease / tenancy agreement | n. | 租约 | sign/renew/break a lease | My lease expires at the end of June. |
+| security deposit | n. | 押金 | 押金；入住前交，退租后退还 | The security deposit will be returned within ten days. |
+| property manager | n. | 物业经理 | 投诉邮件常见对象 | I have reported the issue to the property manager twice. |
+| move in / move out | pv | 搬入/搬出 | 固定搭配 | We are moving in on the first of August. |
+| one-bedroom unit | n. | 一居室 | 北美房源标准说法 | We are looking for a one-bedroom unit downtown. |
+
+### 维修
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| clogged / blocked drain | n. | 下水道堵塞 | 常见报修 | The bathroom drain has been clogged since Monday. |
+| out of order | phr | 无法使用 | 公共设施故障 | The elevator has been out of order for three days. |
+| maintenance request | n. | 报修申请 | 租房流程术语 | I submitted a maintenance request online. |
+| air conditioning | n. | 空调 | 常缩写 AC | The air conditioning is not cooling properly. |
+| wear and tear | idm | 正常磨损 | 押金纠纷关键概念 | Normal wear and tear is not deducted from the deposit. |
+
+### 购房
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| down payment | n. | 首付 | 北美说法，不用 deposit | The minimum down payment is five percent. |
+| property tax | n. | 房产税 | 房主每年要交的税 | Property taxes are billed by the municipality. |
+| real estate agent / realtor | n. | 房产经纪 | realtor 北美常用 | Our realtor arranged three viewings. |
+| closing costs | n. | 成交费用 | 买房隐藏成本 | Remember to budget for closing costs. |
+| condo fees | n. | 公寓管理费 | 共管公寓（condo）的物业费 | Condo fees cover the gym and the pool. |
+
+### 社区
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| noise complaint | n. | 噪音投诉 | 邻里沟通高频场景 | I filed a noise complaint with the building office. |
+| keep the noise down | chunk | 把音量放低 | 礼貌请求邻居 | Would you mind keeping the noise down after ten? |
+| parking spot / space | n. | 停车位 | 社区纠纷高频 | Someone parked in my assigned parking spot. |
+| curbside pickup | n. | 路边收运/路边取货 | 路边收运；也指网购到店外取货 | Recycling is placed at the curb for curbside pickup. |
+| snow removal / shovelling | n. | 除雪/铲雪 | 冬季除雪；英式 shovelling，美式 shoveling | Snow removal is the tenant's responsibility. |
+| community centre | n. | 社区中心 | 社区活动中心；美式 community center | The community centre offers free language classes. |
+
+## HEALTH · 主题：健康与医疗
+
+### 就医
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| make an appointment | chunk | 预约 | 不说 make a reservation（那是餐厅酒店） | I would like to make an appointment with Dr. Lee. |
+| family doctor / GP | n. | 家庭医生 | 家庭医生，看病的第一站 | It can take months to find a family doctor. |
+| walk-in clinic | n. | 免预约诊所 | 免预约诊所 | I went to a walk-in clinic instead of the ER. |
+| emergency room (ER) | n. | 急诊室 | 美式 ER，英式 A&E | The ER wait was over six hours. |
+| extended health benefits | n. | 补充医疗福利 | 雇主提供，覆盖牙科视力 | My employer provides extended health benefits. |
+| waiting list | n. | 轮候名单 | 排队名单；美式也说 waitlist | He has been on a waiting list for surgery. |
+
+### 症状
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| come down with | pv | 染上（病） | 口语地道表达 | I think I am coming down with the flu. |
+| run a fever | chunk | 发烧 | 北美说法 | She has been running a fever since last night. |
+| sore throat | n. | 喉咙痛 | 固定搭配，不用 painful throat | I have a sore throat and a headache. |
+| chronic condition | n. | 慢性病 | 与 acute 急性相对 | He manages a chronic condition with medication. |
+| side effect | n. | 副作用 | 常用复数 | Drowsiness is a common side effect. |
+| recover from | v. | 从……康复 | 介词固定用 from | It took two weeks to recover from the surgery. |
+
+### 健康生活
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| mental health | n. | 心理健康 | 社会议题高频 | There is growing awareness of mental health at work. |
+| sedentary lifestyle | n. | 久坐的生活方式 | 健康议论必备 | A sedentary lifestyle increases health risks. |
+| balanced diet | n. | 均衡饮食 | 固定搭配 | A balanced diet and regular exercise are essential. |
+| work out | pv | 健身锻炼 | 健身房场景常用 | I work out three times a week. |
+| cardio / strength training | n. | 有氧训练/力量训练 | 健身的两大类训练 | The class combines cardio and strength training. |
+| first aid | n. | 急救 | 职场培训高频 | All supervisors are trained in first aid. |
+
+## MONEY · 主题：银行、消费与福利
+
+### 银行
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| savings account | n. | 储蓄账户 | 与 chequing 成对出现 | Interest is paid monthly on the savings account. |
+| debit card | n. | 借记卡 | 借记卡，日常刷卡常用 | Most stores accept debit cards. |
+| direct deposit | n. | 工资直存 | 北美发薪标准方式 | Your pay will be made by direct deposit. |
+| interest rate | n. | 利率 | 固定搭配 | The interest rate has risen twice this year. |
+| credit score | n. | 信用分 | 信用分；按时还款才能攒起来 | Paying bills on time improves your credit score. |
+
+### 税务
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| income tax | n. | 所得税 | 个人所得税 | Income tax returns must be filed every year. |
+| file a tax return | chunk | 报税 | 动词固定用 file | You must file a tax return even if you had no income. |
+| tax refund | n. | 退税款 | 与 tax return 报税表区分 | I received a tax refund of $800. |
+
+### 账单消费
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| be due | phr | 到期应付 | 账单时间表达 | The payment is due on the 15th. |
+| cost of living | n. | 生活成本 | 社会议题与口语高频 | The cost of living has risen sharply. |
+
+## TRAVEL · 主题：交通与出行
+
+### 公共交通
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| public transit | n. | 公共交通 | 北美说 transit，不说 public transport | The city is expanding public transit. |
+| monthly pass | n. | 月票 | 通勤高频 | A monthly pass costs $156. |
+| delay / be delayed | n./v. | 延误 | 通知与投诉高频 | Service is delayed due to weather. |
+| rush hour | n. | 高峰期 | 不说 peak time（英式） | Avoid driving during rush hour. |
+
+### 驾车
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| driver's licence | n. | 驾照 | 英式 licence（名词），美式 license | You need a valid driver's licence to rent a car. |
+| parking ticket | n. | 违停罚单 | 与 parking spot 区分 | I got a parking ticket downtown. |
+| winter tires | n. | 冬季轮胎 | 冬季轮胎；严寒地区常强制使用 | Winter tires are mandatory in some regions. |
+| traffic congestion | n. | 交通拥堵 | 议论文高分词 | Traffic congestion costs the economy billions. |
+
+### 出行
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| confirmation number | n. | 确认号 | 预订邮件必备信息 | Please quote your confirmation number. |
+| check in / check out | pv | 入住/退房 | 也用于机场值机 | Check-in begins at three o'clock. |
+| boarding pass | n. | 登机牌 | 机场场景 | You can download your boarding pass in the app. |
+| carry-on / checked baggage | n. | 随身行李/托运行李 | 机场高频 | Only one carry-on bag is permitted. |
+| cancellation policy | n. | 取消政策 | 预订纠纷核心 | Their cancellation policy requires 48 hours' notice. |
+
+## EDU · 主题：教育与培训
+
+### 学制
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| school board | n. | 教育局 | 地区教育管理机构 | The school board announced a snow day. |
+| credential evaluation | n. | 学历认证 | 外国学历认证 | Your degree requires a credential evaluation. |
+
+### 培训
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| continuing education | n. | 继续教育 | 成人学习高频 | Continuing education courses run in the evenings. |
+
+## SERVICE · 主题：消费者服务与投诉
+
+### 客服沟通
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| customer service | n. | 客户服务 | 投诉、退换货的核心场景 | I contacted customer service about the order. |
+| order number | n. | 订单号 | 投诉邮件必须给出的细节 | My order number is 48219. |
+| place an order | chunk | 下单 | 动词固定用 place | I placed the order on 3 March. |
+| tracking number | n. | 物流单号 | 客服问答高频 | Could you provide a tracking number? |
+| in stock / out of stock | phr | 有货/缺货 | 零售必备 | The item is currently out of stock. |
+| free of charge | phr | 免费 | 比 for free 正式 | Repairs are carried out free of charge. |
+| look into | pv | 调查了解 | 客服承诺万能动词 | I will look into this and get back to you. |
+| resolve an issue | chunk | 解决问题 | 固定搭配 | We aim to resolve all issues within 48 hours. |
+| goodwill gesture | n. | 善意补偿 | 客服道歉邮件高分表达 | As a goodwill gesture, we have added a $20 credit. |
+| feedback form / survey | n. | 反馈表/问卷 | 服务闭环 | Please complete our short feedback survey. |
+
+## CIVIC · 主题：政府与社会
+
+### 政府服务
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| municipality / city hall | n. | 市政府/市政厅 | 地方政府 | The municipality provides snow removal. |
+| application form | n. | 申请表 | 办事高频 | Complete the application form and submit it online. |
+| proof of address | n. | 地址证明 | 办事所需文件 | Bring proof of address and photo identification. |
+| photo identification / photo ID | n. | 带照片的身份证件 | 北美办事标准说法 | You must present valid photo ID. |
+| eligibility / be eligible for | n./phr | 资格/符合……资格 | 移民与福利核心词 | You may be eligible for a rebate. |
+| processing time | n. | 办理时长 | 移民语境超高频 | Processing times are currently 12 weeks. |
+| expire / expiry date | v./n. | 到期/到期日 | 英式 expiry，美式 expiration date | Check the expiry date on your card. |
+
+### 移民身份
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| permanent resident (PR) | n. | 永久居民 | 永久居民身份 | She became a permanent resident last year. |
+| work permit | n. | 工作许可 | 临时身份 | His work permit is valid for two years. |
+
+### 社会议题
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Indigenous peoples | n. | 原住民 | 原住民的规范表述，首字母大写 | The museum tells the history of Indigenous peoples. |
+| food bank | n. | 食物银行 | 食物银行，社区互助机构 | Donations to the food bank rise in winter. |
+| affordability crisis | n. | 可负担性危机 | 住房负担危机，议论话题高频 | The housing affordability crisis dominates the debate. |
+
+## TECH · 主题：科技与数字生活
+
+### 数字生活
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| log in / log out | pv | 登录/登出 | 名词写作 login 一个词 | I cannot log in to my account. |
+| reset a password | chunk | 重置密码 | 客服场景高频 | Click the link to reset your password. |
+| back up | pv | 备份；支持（某人说法） | 名词写作 backup 一个词；另一义是为某人的说法作证 | Remember to back up your files. / My colleague backed up my version of events. |
+| privacy / data breach | n. | 隐私/数据泄露 | 社会议题 | The company reported a data breach. |
+| artificial intelligence (AI) | n. | 人工智能 | 议论题热点 | AI is reshaping many industries. |
+| screen time | n. | 屏幕使用时间 | 健康议题热词 | Parents are concerned about children's screen time. |
+| social media | n. | 社交媒体 | 集合名词，动词可单可复 | Social media has changed how news spreads. |
+
+## ENV · 主题：环境与公益
+
+### 环境议题
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| climate change | n. | 气候变化 | 议论题第一热点 | Climate change is affecting winter sports. |
+| carbon footprint | n. | 碳足迹 | 个人行动角度 | Cycling to work reduces your carbon footprint. |
+| renewable energy | n. | 可再生能源 | solar, wind, hydro | Many countries generate much of their power from renewable energy. |
+| single-use plastic | n. | 一次性塑料 | 很多国家已立法限制 | Single-use plastics have been banned in many countries. |
+| extreme weather | n. | 极端天气 | 气候议题 | Extreme weather events have become more frequent. |
+| raise awareness | chunk | 提高意识 | 公益活动固定搭配 | The campaign aims to raise awareness of recycling. |
+| take part in | pv | 参加 | 与 participate in 轮换 | Hundreds took part in the cleanup. |
+| make a difference | idm | 带来改变 | 公益类结尾高分句 | Small changes can make a real difference. |
+
+## PHRV · 高频短语动词
+
+### 职场高频
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| carry out | pv | 执行/实施 | carry out a survey / an inspection | The inspection was carried out last week. |
+| set up | pv | 建立/安排 | set up a meeting / an account | I will set up a meeting for Thursday. |
+| take over | pv | 接管 | 接手职责 | She took over the role in April. |
+| hand over | pv | 移交 | 交接工作 | Please hand over the files before you leave. |
+| sort out | pv | 解决/理顺 | 口语常用，英式尤甚 | We need to sort out the scheduling problem. |
+| figure out | pv | 弄明白 | 北美口语 | I cannot figure out what went wrong. |
+| work out | pv | 解决/结果是 | 一词多义：还有健身义 | Things worked out better than expected. |
+| come up with | pv | 想出 | come up with an idea / a solution | The team came up with three options. |
+| put together | pv | 整理汇编 | put together a report / a proposal | I have put together a short summary. |
+| go over | pv | 仔细检查 | go over the figures | Let us go over the budget together. |
+| run through | pv | 快速过一遍 | 会议用语 | I will run through the agenda briefly. |
+| bring up | pv | 提出（话题） | 会议场景 | He brought up the issue of parking. |
+| turn down | pv | 拒绝 | turn down an offer / a request | They turned down my request for leave. |
+| call off | pv | 取消 | call off a meeting / an event | The event was called off due to the storm. |
+| put off | pv | 推迟 | 后接 V-ing | Do not put off filing your taxes. |
+| catch up on | pv | 赶进度/补上 | catch up on emails / work | I need to catch up on my emails. |
+| keep up with | pv | 跟上 | 跟上进度或变化 | It is hard to keep up with the changes. |
+| fill out / fill in | pv | 填写（表格） | 北美 fill out，英式 fill in | Please fill out the form and return it. |
+| drop off / pick up | pv | 送下/接走 | 送取物品或人 | I will drop off the documents tomorrow. |
+| look after | pv | 照看 | 照顾人或事 | Could you look after the desk for an hour? |
+| deal with | pv | 处理应对 | 万能动词 | We are dealing with a high volume of calls. |
+| get in touch with | pv | 联系 | 与 contact 同义，更口语 | Please get in touch with the office. |
+| reach out to | pv | 主动联系 | 北美职场热词 | I reached out to three suppliers. |
+| sign up for | pv | 报名参加 | 课程与活动 | I signed up for the workshop. |
+| drop out of | pv | 退出/辍学 | 课程或活动 | Two participants dropped out of the program. |
+| take up | pv | 占用/开始从事 | take up space / take up a hobby | The meeting took up the whole morning. |
+| cut back on | pv | 削减 | cut back on spending | The company cut back on travel expenses. |
+| end up (with/V-ing) | pv | 最终变成 | 叙述结果 | We ended up rescheduling the whole trip. |
+| turn out | pv | 结果证明 | turn out to be | It turned out to be a simple fix. |
+| break down | pv | 出故障/分解 | 机器故障或数据拆分 | The delivery van broke down on the highway. |
+| run out of | pv | 用完 | run out of time / supplies | We ran out of printer paper. |
+| put up with | pv | 忍受 | 三词短语动词，投诉语境 | Residents have put up with the noise for months. |
+| stand in for | pv | 代替某人 | 与 fill in for 同义 | Could you stand in for me at the meeting? |
+| get by | pv | 勉强应付 | 生活或语言能力 | I can get by in French. |
+| settle in | pv | 安顿下来 | 新移民场景高频 | It took a few months to settle in. |
+| opt for / opt out | pv | 选择/选择退出 | opt out of a scheme | Many staff opted out of the plan. |
+| rule out | pv | 排除可能性 | 正式推理词 | We cannot rule out further delays. |
+
+## COLLOC · 高频搭配
+
+### 动词搭配
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| meet a deadline / a requirement | chunk | 赶上期限/满足要求 | 动词固定用 meet，不用 reach | The team met the deadline comfortably. |
+| raise a concern / an issue | chunk | 提出关切/问题 | 投诉与会议双高频 | Several residents raised concerns about safety. |
+| address a problem | chunk | 着手解决问题 | address 作动词，正式高分 | The city is addressing the parking problem. |
+| make arrangements for | chunk | 为……做安排 | 邮件高频，arrangements 用复数 | I will make arrangements for the delivery. |
+| take steps / take measures | chunk | 采取措施 | 正式表达行动 | We have taken steps to prevent a recurrence. |
+| provide assistance | chunk | 提供协助 | 比 help 正式 | Staff are available to provide assistance. |
+| reach an agreement | chunk | 达成一致 | 谈判用语 | We reached an agreement on the price. |
+| place an emphasis on | chunk | 强调 | 高分名词化结构 | The policy places an emphasis on prevention. |
+| play a key role in | chunk | 在……中起关键作用 | 议论文万能句 | Volunteers play a key role in the community. |
+| pose a risk to | chunk | 对……构成风险 | 正式搭配 | Icy sidewalks pose a risk to pedestrians. |
+| meet expectations / fall short of | chunk | 达到/未达到预期 | 评价类对照 | The product fell short of our expectations. |
+| conduct a survey / an interview | chunk | 开展调查/进行面试 | conduct 是正式版 do | The company conducted a staff survey. |
+| submit an application | chunk | 提交申请 | 办事流程标准搭配 | Applications must be submitted by Friday. |
+| issue a refund / a permit | chunk | 发放退款/许可 | 机构主语 | The store issued a full refund. |
+| bear in mind | chunk | 记住/考虑到 | 正式提醒 | Please bear in mind that spaces are limited. |
+| keep someone informed | chunk | 随时告知某人 | 邮件收尾高分 | I will keep you informed of any changes. |
+| attach great importance to | chunk | 高度重视 | 正式高分结构 | The company attaches great importance to safety. |
+| have an impact on | chunk | 对……有影响 | 介词是 on | The delay had a significant impact on the schedule. |
+
+### 形容词搭配
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| a significant increase | chunk | 显著增长 | 描述数据必备 | There was a significant increase in demand. |
+| a reasonable request | chunk | 合理的要求 | 协商语境 | I hope this is a reasonable request. |
+| a prompt response | chunk | 及时回复 | 催促邮件 | I would appreciate a prompt response. |
+| a minor / major issue | chunk | 小问题/重大问题 | 分级描述 | This is a minor issue that can be fixed quickly. |
+| an ongoing problem | chunk | 持续存在的问题 | 投诉强调持续性 | The leak is an ongoing problem. |
+| strict guidelines | chunk | 严格的规定 | 制度语境 | The kitchen follows strict hygiene guidelines. |
+| valuable experience | chunk | 宝贵的经验 | 求职与评价，experience 不可数 | The placement gave me valuable experience. |
+| a convenient time | chunk | 方便的时间 | 约时间标准表达 | Please suggest a convenient time to meet. |
+| widely available | chunk | 普遍可得 | 议论文描述 | Electric vehicles are now widely available. |
+| increasingly popular | chunk | 越来越受欢迎 | 趋势描述高分 | Cycling has become increasingly popular. |
+
+### 名词搭配
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| a wide range of | chunk | 广泛多样的 | 万能量化短语 | The centre offers a wide range of activities. |
+| a growing number of | chunk | 越来越多的 | 趋势句开头 | A growing number of employees work remotely. |
+| the vast majority of | chunk | 绝大多数 | 比 most 高分 | The vast majority of respondents agreed. |
+| a lack of | chunk | 缺乏 | 后接不可数或复数 | There is a lack of affordable housing. |
+| in the long run | idm | 从长远看 | 议论文高分 | In the long run, prevention is cheaper. |
+| on a regular basis | chunk | 定期地 | 比 regularly 正式 | Inspections are carried out on a regular basis. |
+| in light of | prep. | 鉴于 | 正式引出原因 | In light of the delay, we are offering a discount. |
+| with regard to | prep. | 关于 | 邮件正式引题 | With regard to your question, the answer is yes. |
+| as a result of | prep. | 由于 | 因果连接 | Services were cancelled as a result of the storm. |
+| in the event of | prep. | 如果发生 | 通知类固定搭配 | In the event of a fire, use the stairs. |
+| to the best of my knowledge | chunk | 据我所知 | 谨慎表述 | To the best of my knowledge, the form was sent. |
+| at short notice | chunk | 临时通知 | 抱歉或感谢语境 | Thank you for covering at short notice. |
+
+## QUIZ · 常识词
+
+### 场所
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| post office | n. | 邮局 | 英文释义：where you send parcels | Q: Where do you go to mail a parcel? A: The post office. |
+| stationery shop | n. | 文具店 | 英文释义：where you buy pens and paper | Q: Where do you buy pens and notebooks? A: A stationery shop. |
+
+## PHRV · 高频短语动词
+
+### 职场高频
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| go through | pv | 经历/仔细审阅 | go through a process / the documents | We went through a difficult period last year. |
+| hold off | pv | 推迟/暂缓 | hold off on a decision | Let us hold off on ordering until next week. |
+| weigh up | pv | 权衡 | weigh up the pros and cons | We need to weigh up the costs and benefits. |
+
+## SOUND · 发音与节奏陷阱
+
+### 重音位置
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| deVELop vs DEVelopment | n. | 发展 | 名词动词同重音，都在第二音节 | Recent developments have changed the plan. |
+| neCESSity vs NECessary | n./adj. | 必需品/必要的 | 形容词重音第一，名词第二 | Winter tires are a necessity here. |
+
+### 易错发音
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| comfortable vs comparable | adj. | 舒适的/可比较的 | comparable 重音在第一音节 COM-pra-bul | The two figures are comparable. |
+
+### 连读节奏
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| a lot of / lots of | chunk | 许多 | 连读成 uh-LOT-uv，影响流利度 | There are a lot of options. |
+| want to / going to | chunk | 想要/将要 | 口语连读 wanna / gonna，朗读正式文本时仍读全形 | I am going to review it. |
+| and 弱读 | conj. | 和 | 句中读 /ən/，不重读，是流利度关键 | bread and butter 读 bred-n-butter |
+| of / for / to 弱读 | prep. | 介词弱读 | 功能词弱读、实词重读，是口语流利度的核心 | a cup of tea 读 a cup-uv tea |
+| 意群停顿 | chunk | 按意群断句 | 在逗号和从句边界停，不在单词间停，乱停最伤流利度 | After the meeting, // we will review the budget. |
+
+## ABSTR · 抽象与议论词汇
+
+### 因果条件
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| attributable to | adj. | 归因于 | 正式因果，比 because 高级 | The rise is attributable to higher fuel costs. |
+| stem from | pv | 源于 | 因果高分短语 | The problem stems from poor planning. |
+| give rise to | chunk | 引起 | 正式因果搭配 | The policy gave rise to widespread criticism. |
+| contributing factor | n. | 促成因素 | 多因分析高分搭配 | Fatigue was a contributing factor. |
+| provided that | conj. | 只要/前提是 | 条件从句，比 if 正式 | The plan will work, provided that funding continues. |
+
+### 问题解决
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| compensate for | v. | 弥补 | 双义：补偿金钱或弥补不足 | Extra staff compensated for the delay. |
+| contingency plan | n. | 应急预案 | 职场正式词 | A contingency plan is in place. |
+
+### 社会制度
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| advocacy group | n. | 倡导团体 | 公民社会 | An advocacy group challenged the decision. |
+| compliance / comply with | n./v. | 合规/遵守 | 正式搭配 | All units must comply with fire regulations. |
+| exemption / be exempt from | n./adj. | 豁免 | 税务与规章 | Students are exempt from the fee. |
+
+### 数据论证
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| on average | chunk | 平均而言 | 数据描述固定搭配 | On average, commuters spend an hour travelling. |
+| to a certain extent | chunk | 在一定程度上 | 让步表达，高分 | This is true to a certain extent. |
+| by and large | idm | 总体而言 | 结论过渡 | By and large, the response has been positive. |
+
+### 人与行为
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| accountable for | adj. | 对……负责 | be held accountable | Managers are accountable for their decisions. |
+
+## WORK · 主题：职场与就业
+
+### 行业岗位
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| skilled trades | n. | 技术工种 | 技工类职业，劳动力缺口大 | Many countries face a shortage in the skilled trades. |
+| administrative assistant | n. | 行政助理 | 常见岗位名 | I applied for an administrative assistant role. |
+| customer service representative | n. | 客服代表 | 常见岗位名 | The team has six customer service representatives. |
+| supervisor / team lead | n. | 主管/组长 | 基层管理岗 | Report any issues to your team lead. |
+
+### 办公设备
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| boardroom / meeting room | n. | 会议室 | 预订场景 | The boardroom is booked until noon. |
+| book a room | chunk | 预订会议室 | 动词用 book | I have booked the meeting room for two hours. |
+| conference call / video call | n. | 电话会议/视频会议 | 远程办公高频 | Let us set up a video call instead. |
+| out of service | phr | 停止使用 | 设备故障通告 | The second elevator is out of service. |
+
+### 客户销售
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| contract renewal | n. | 合同续签 | 客户管理 | The contract renewal is due next month. |
+| profit margin | n. | 利润率 | 经营指标 | The profit margin is very thin. |
+
+### 培训安全
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| safety protocol | n. | 安全规程 | 工厂与工地 | All workers must follow the safety protocol. |
+| protective equipment (PPE) | n. | 个人防护装备 | 工地与实验室 | Protective equipment must be worn at all times. |
+| incident report | n. | 事故报告 | 职场安全流程 | An incident report must be filed within 24 hours. |
+| evacuation / fire drill | n. | 疏散/消防演习 | 职场通知类高频 | A fire drill is scheduled for Thursday. |
+
+### 团队协作
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| liaise with | v. | 与……联络 | 英式正式用词，职场常用 | I liaise with suppliers on a daily basis. |
+| keep someone in the loop | idm | 让某人知情 | 北美职场地道习语 | Please keep me in the loop on this. |
+| on the same page | idm | 达成共识 | 会议常用 | Let us make sure everyone is on the same page. |
+| take the lead on | chunk | 主导某事 | 主动承担 | I will take the lead on the client proposal. |
+| check in with | pv | 与某人确认进展 | 北美职场高频 | I will check in with the team tomorrow. |
+| circle back | idm | 稍后再讨论 | 北美会议用语 | Let us circle back to that next week. |
+| workplace culture | n. | 职场文化 | 求职与议论高频 | A positive workplace culture reduces turnover. |
+
+### 劳动法规
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| employment standards | n. | 劳动标准 | 劳动法基本标准 | Employment standards set the minimum notice period. |
+| minimum wage | n. | 最低工资 | 社会议题 | The minimum wage rose in October. |
+| statutory holiday | n. | 法定假日 | 法定假日，口语 stat holiday | Monday is a statutory holiday. |
+| vacation entitlement | n. | 带薪年假额度 | 年假额度；英式 holiday entitlement | Vacation entitlement increases after five years. |
+| union dues | n. | 工会会费 | 工会语境 | Union dues are deducted automatically. |
+| collective agreement | n. | 集体协议 | 工会与雇主的集体协议 | The collective agreement expires in December. |
+| non-disclosure agreement (NDA) | n. | 保密协议 | 入职文件 | New staff must sign a non-disclosure agreement. |
+
+## HOME · 主题：住房与社区
+
+### 房屋结构
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| laundry room | n. | 洗衣房 | 公寓共用设施 | The laundry room is in the basement. |
+| smoke detector / carbon monoxide detector | n. | 烟雾报警器/一氧化碳报警器 | 法律通常要求安装 | Smoke detectors must be tested monthly. |
+| circuit breaker / fuse box | n. | 断路器/配电箱 | 电路故障报修 | Check the circuit breaker in the basement. |
+| water heater | n. | 热水器 | 常见报修项 | The water heater needs replacing. |
+
+### 家务生活
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| do the laundry | chunk | 洗衣服 | 动词固定用 do | I do the laundry on Sundays. |
+| take out the garbage | chunk | 倒垃圾 | 北美说 garbage 不说 rubbish | Remember to take out the garbage tonight. |
+| declutter / tidy up | v./pv | 整理清空 | 生活类话题 | We spent the weekend decluttering. |
+| utilities bill | n. | 水电账单 | 每月固定支出 | The utilities bill doubled in January. |
+
+### 租房流程
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| credit check | n. | 信用审查 | 租房、贷款常见流程 | The landlord ran a credit check. |
+| first and last month's rent | chunk | 首月加末月房租 | 租房时预付首月和末月房租 | You need first and last month's rent up front. |
+| rent increase | n. | 涨租 | 受省级法规限制 | The rent increase is capped at 2.5 percent. |
+| notice to vacate | n. | 搬离通知 | 法律文件名 | She gave 60 days' notice to vacate. |
+| utilities included | chunk | 包水电 | 广告高频短语 | Rent is $1,750, utilities included. |
+
+### 社区设施
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| library branch | n. | 图书馆分馆 | 社区资源 | The local library branch offers free Wi-Fi. |
+| recreation centre | n. | 康乐中心 | 社区娱乐中心；美式 recreation center | The recreation centre has a public pool. |
+| transit stop | n. | 公交站 | 公交站点的统称 | The nearest transit stop is two blocks away. |
+| snow route | n. | 除雪指定路线 | 暴雪时禁止停车的除雪路线 | Parking is banned on snow routes during storms. |
+| residents' association | n. | 业主/居民协会 | 社区治理 | The residents' association meets monthly. |
+| town hall meeting | n. | 市民议事会 | 北美公共参与形式 | The city held a town hall meeting on the project. |
+
+## HEALTH · 主题：健康与医疗
+
+### 科室人员
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| nurse practitioner | n. | 执业护士 | 执业护士，可独立看诊开药 | A nurse practitioner can renew your prescription. |
+
+### 检查治疗
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| blood test | n. | 血液检查 | 常见检查 | The doctor ordered a blood test. |
+| generic drug | n. | 仿制药 | 与品牌药相对，省钱 | Generic drugs cost far less. |
+| follow-up appointment | n. | 复诊 | 流程词 | Schedule a follow-up appointment in a month. |
+
+### 急救突发
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| allergic reaction | n. | 过敏反应 | 急诊常见 | He had an allergic reaction to the medication. |
+| urgent care | n. | 紧急护理中心 | 介于诊所与急诊之间，北美特有 | Urgent care is faster than the ER for minor injuries. |
+
+### 照护人群
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| long-term care home | n. | 长期护理院 | 长期护理院，养老核心词 | Long-term care homes face staffing shortages. |
+| home care | n. | 居家照护 | 老龄化政策 | Home care allows seniors to stay independent. |
+| assisted living | n. | 辅助生活住所 | 养老选项 | My parents moved into assisted living. |
+| immunisation schedule | n. | 免疫接种时间表 | 儿童保健 | Follow the childhood immunisation schedule. |
+| prenatal care | n. | 产前护理 | 孕产 | Prenatal care is covered by most health plans. |
+
+### 医疗制度
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| universal health care | n. | 全民医保 | 全民医保，议论高频 | Some countries are known for their universal health care. |
+| medically necessary | adj. | 医疗必需的 | 决定是否报销的关键标准 | Only medically necessary services are covered. |
+| not covered | phr | 不在保障范围内 | 牙科视力处方药通常不覆盖 | Dental work is not covered for most adults. |
+| wait time | n. | 等候时间 | 医疗体系常见批评点 | Wait times for specialists remain long. |
+| family health team | n. | 家庭健康团队 | 基层医疗团队 | A family health team includes nurses and dietitians. |
+| virtual care / telehealth | n. | 远程医疗 | 疫情后普及 | Virtual care reduced unnecessary visits. |
+| health authority | n. | 卫生管理局 | 地区卫生管理机构 | The regional health authority issued an advisory. |
+| public health advisory | n. | 公共卫生提示 | 通知类高频 | A public health advisory was issued for the area. |
+| opioid crisis | n. | 阿片类药物危机 | 阿片类药物危机，重大社会议题 | The opioid crisis has strained emergency services. |
+| harm reduction | n. | 减害策略 | 公共卫生政策术语 | Harm reduction programs remain controversial. |
+| mental health support | n. | 心理健康支持 | 职场与社区高频 | The employer expanded mental health support. |
+
+## MONEY · 主题：银行、消费与福利
+
+### 工资单
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| pay stub | n. | 工资条 | 美式 pay stub，英式 payslip | Check your pay stub for the deductions. |
+| gross pay / net pay | n. | 税前/税后工资 | 工资条两个关键数字 | Gross pay is $4,000; net pay is about $3,000. |
+| pay period | n. | 发薪周期 | 发薪周期；biweekly 双周发 | We are paid biweekly, so there are 26 pay periods. |
+| statutory deductions | n. | 法定扣款 | 法定扣款：养老金、保险、所得税 | Statutory deductions are taken automatically. |
+
+### 购物零售
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| price match | n./v. | 价格匹配 | 零售常见的比价政策 | The store will price match a competitor's ad. |
+| loyalty points | n. | 积分 | 零售普遍 | I redeemed my loyalty points for groceries. |
+| return policy | n. | 退货政策 | 消费维权核心 | Their return policy allows 30 days. |
+| proof of purchase | n. | 购买凭证 | 退货与保修必需 | You need proof of purchase for a refund. |
+| store credit | n. | store credit（店内代金） | 退款替代方案 | They offered store credit instead of cash. |
+| bulk / in bulk | n./phr | 大宗/批量地 | 省钱话题 | Buying in bulk reduces the unit cost. |
+| expiry date / best before | n. | 保质期/最佳食用期 | 食品标签 | Check the best before date. |
+
+### 房贷债务
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| fixed rate / variable rate | n. | 固定利率/浮动利率 | 房贷选择 | We chose a five-year fixed rate. |
+| line of credit | n. | 信用额度 | 常见借贷产品 | A line of credit has a lower rate than a credit card. |
+| debt / in debt | n./phr | 债务/负债 | 个人理财 | Many households are deeply in debt. |
+| default on | pv | 违约拖欠 | 贷款风险 | Few borrowers default on their mortgage. |
+| consolidate debt | chunk | 债务整合 | 理财建议 | She consolidated her debts into one loan. |
+
+### 退休理财
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| mutual fund | n. | 共同基金 | 常见投资产品 | Most of my savings are in mutual funds. |
+| compound interest | n. | 复利 | 理财概念 | Compound interest works best over decades. |
+| financial advisor | n. | 理财顾问 | 也拼 adviser | I met with a financial advisor at the bank. |
+
+### 消费保护
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| identity theft | n. | 身份盗用 | 个人证件信息泄露的风险 | Protect your personal details to prevent identity theft. |
+| dispute a charge | chunk | 对账单提出争议 | 信用卡维权 | I disputed a charge on my credit card. |
+| hidden fees | n. | 隐藏费用 | 投诉高频 | The contract was full of hidden fees. |
+| cooling-off period | n. | 冷静期/反悔期 | 消费者保护：冷静期内可无理由取消 | There is a ten-day cooling-off period. |
+| consumer protection | n. | 消费者保护 | 消费者保护法规 | Consumer protection laws vary from country to country. |
+| small claims court | n. | 小额法庭 | 小额民事维权途径 | He took the dispute to small claims court. |
+| Better Business Bureau | n. | 商业促进局 | 北美投诉机构 | She filed a complaint with the Better Business Bureau. |
+
+## TRAVEL · 主题：交通与出行
+
+### 路况天气
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| road closure | n. | 道路封闭 | 冬季、施工通告高频 | A road closure is in effect on the main highway. |
+| black ice | n. | 黑冰（路面暗冰） | 冬季驾车最大风险 | Black ice caused several collisions. |
+| snow tires / all-season tires | n. | 雪胎/四季胎 | 冬季驾车必备知识 | All-season tires are not enough in heavy snow. |
+| block heater | n. | 发动机预热器 | 严寒地区给发动机预热的装置 | Plug in the block heater overnight. |
+| right of way | n. | 路权 | 交通规则 | Pedestrians have the right of way here. |
+| carpool lane / HOV lane | n. | 拼车专用道 | 北美高速设施 | The HOV lane requires two or more passengers. |
+
+### 机场航班
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| connecting flight | n. | 转机航班 | 机场场景 | I missed my connecting flight. |
+| compensation for delay | chunk | 延误赔偿 | 航空旅客保护规定 | Passengers may claim compensation for long delays. |
+| baggage claim | n. | 行李提取处 | 机场指示牌 | Meet me at baggage claim. |
+| travel insurance | n. | 旅游保险 | 出境必备，国外医疗费很高 | Travel insurance is essential when travelling abroad. |
+
+### 住宿旅游
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| check-in time | n. | 入住时间 | 酒店预订 | Check-in time is after three o'clock. |
+| vacancy / no vacancy | n. | 有空房/客满 | 汽车旅馆标牌 | The motel had no vacancy. |
+| peak season / off-season | n. | 旺季/淡季 | 定价与旅游 | Prices drop sharply in the off-season. |
+| hiking trail | n. | 徒步路线 | 户外活动 | The hiking trail is closed until June. |
+| guided tour | n. | 导览游 | 旅游服务 | A guided tour leaves every hour. |
+| accessible parking | n. | 无障碍停车位 | 无障碍停车位的标准表述 | Accessible parking is available near the entrance. |
+
+### 通勤出行
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| park and ride | n. | 停车换乘 | 北美通勤设施 | There is a park and ride at the end of the line. |
+| bike lane | n. | 自行车道 | 城市规划议题 | The city added protected bike lanes. |
+| fare evasion | n. | 逃票 | 公共交通议题 | Fare evasion costs the system millions. |
+
+## EDU · 主题：教育与培训
+
+### 学制
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| elementary school / high school | n. | 小学/中学 | 美式 elementary，英式 primary | My son is in elementary school. |
+| college vs university | n. | 学院/大学 | college 常指两三年制应用型学院，university 授学位 | He chose a college diploma over a university degree. |
+| co-op program | n. | 带薪实习项目 | 带带薪实习学期的项目，就业导向 | The co-op program includes three work terms. |
+| full-time student | n. | 全日制学生 | 签证与资助关键身份 | You must be a full-time student to qualify. |
+| academic year | n. | 学年 | 通常九月到四月 | The academic year runs from September to April. |
+| reading week | n. | 阅读周（期中假） | 学期中的自习周 | Reading week falls in late February. |
+
+### 课程学习
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| syllabus / course outline | n. | 教学大纲 | 开课第一周发放 | The course outline lists all deadlines. |
+| group project | n. | 小组作业 | 常见任务 | Our group project is due next week. |
+| citation / reference list | n. | 引用/参考文献 | 学术规范 | Every source needs a proper citation. |
+| midterm / final exam | n. | 期中/期末考试 | 评估节点 | The midterm is worth 30 percent. |
+| withdraw from a course | chunk | 退课 | 有截止日期 | You can withdraw without penalty before October 31. |
+| academic advisor | n. | 学业顾问 | 选课与规划 | Speak to your academic advisor about prerequisites. |
+
+### 资助费用
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| student loan | n. | 助学贷款 | 学生贷款 | Student loans are repaid after graduation. |
+| international student fees | n. | 国际生学费 | 通常是本地生三到四倍 | International student fees have risen sharply. |
+| tuition waiver | n. | 学费减免 | 资助形式 | The scholarship includes a tuition waiver. |
+
+### 成人培训
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| night class / evening course | n. | 夜校课程 | 在职学习 | I take an evening course twice a week. |
+| online course / self-paced | n./adj. | 在线课程/自定进度的 | 远程学习 | The course is fully online and self-paced. |
+| bridging program | n. | 衔接项目 | 帮外国专业人士衔接本地执业的项目 | A bridging program helps foreign-trained nurses. |
+| licensing exam | n. | 执业考试 | 专业准入 | He is studying for the licensing exam. |
+| regulated profession | n. | 受监管职业 | 需执照的职业，如医生、工程师 | Engineering is a regulated profession in many countries. |
+| foreign credential recognition | n. | 国外学历认证 | 移民就业核心障碍 | Foreign credential recognition can take years. |
+| prior learning assessment | n. | 已有学习成果认定 | 成人教育的学分认定机制 | Prior learning assessment can shorten the program. |
+
+### 教育议题
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| class size | n. | 班级规模 | 教育政策议题 | Smaller class sizes improve outcomes. |
+| dropout rate | n. | 辍学率 | 社会议题 | The dropout rate has fallen steadily. |
+| lifelong learning | n. | 终身学习 | 议论高分词 | Lifelong learning is essential in a changing economy. |
+| skills gap | n. | 技能缺口 | 就业与教育交叉议题 | Employers report a widening skills gap. |
+| early childhood education | n. | 幼儿教育 | 政策热点 | Affordable early childhood education supports working parents. |
+
+## SERVICE · 主题：消费者服务与投诉
+
+### 预约服务
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| walk-in / by appointment only | phr | 免预约/仅限预约 | 服务机构告示 | The clinic is by appointment only. |
+| reschedule an appointment | chunk | 改约 | 客服高频 | I need to reschedule my appointment. |
+| confirmation email | n. | 确认邮件 | 预订流程 | You will receive a confirmation email shortly. |
+
+### 维修安装
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| service call | n. | 上门服务 | 家电与设备 | A service call costs $90 plus parts. |
+| under warranty | phr | 在保修期内 | 免费维修条件 | The repair is free because it is under warranty. |
+
+### 订阅账户
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| cancel a subscription | chunk | 取消订阅 | 投诉邮件常见诉求 | I have tried three times to cancel my subscription. |
+| billing cycle | n. | 账单周期 | 订阅服务 | Your billing cycle starts on the first. |
+| account holder | n. | 账户持有人 | 身份核实 | Only the account holder can make changes. |
+| terms and conditions | n. | 条款与条件 | 永远复数 | Please read the terms and conditions. |
+
+### 投诉升级
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| file a complaint | chunk | 提出正式投诉 | 动词用 file | I would like to file a formal complaint. |
+| reference number | n. | 受理编号 | 跟进投诉必需 | Please provide the reference number from your last call. |
+| below the standard advertised | chunk | 低于宣传标准 | 投诉高分表达 | The service was well below the standard advertised. |
+| seek compensation | chunk | 寻求赔偿 | 投诉诉求 | I am seeking compensation for the lost time. |
+
+### 服务语言
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| How may I help you? | chunk | 请问需要什么帮助 | 客服标准开场 | Good morning, how may I help you? |
+| Bear with me for a moment | chunk | 请稍等片刻 | 查询时用 | Bear with me for a moment while I check. |
+| I will put you through to | chunk | 我帮您转接给 | 电话转接 | I will put you through to our billing department. |
+| Let me confirm that for you | chunk | 我帮您确认一下 | 核实信息 | Let me confirm that for you right away. |
+| Is there anything else I can help with? | chunk | 还有其他需要帮助的吗 | 客服收尾 | Is there anything else I can help with today? |
+| We apologise for the inconvenience | chunk | 对造成的不便致歉 | 机构道歉标准句 | We apologise for the inconvenience this has caused. |
+| within three to five business days | chunk | 三到五个工作日内 | 处理时限标准表达 | Your refund will be processed within three to five business days. |
+| at no additional cost | chunk | 不收取额外费用 | 服务承诺 | We will replace it at no additional cost. |
+| as a one-time exception | chunk | 作为一次性特例 | 客服让步用语 | As a one-time exception, we will waive the fee. |
+| waive a fee | chunk | 免除费用 | 客服解决方案 | The bank agreed to waive the fee. |
+| escalate to a specialist | chunk | 转交专员处理 | 投诉流程 | I will escalate this to a specialist. |
+| follow up within 48 hours | chunk | 48 小时内回复 | 承诺时限 | Someone will follow up within 48 hours. |
+| your patience is appreciated | chunk | 感谢您的耐心 | 机构通告结尾 | Your patience is appreciated during the upgrade. |
+
+## CIVIC · 主题：政府与社会
+
+### 三级政府
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Member of Parliament (MP) | n. | 联邦国会议员 | 议员；国会层级 | Contact your MP about national issues. |
+| Member of Provincial Parliament (MPP/MLA) | n. | 省议员 | 省级层级，各省叫法不同 | Our MPP held a community meeting. |
+| city councillor | n. | 市议员 | 市级层级 | The city councillor supported the bylaw. |
+| Prime Minister | n. | 总理 | 联邦政府首脑 | The Prime Minister addressed the nation. |
+| ballot / polling station | n. | 选票/投票站 | 选举流程 | Polling stations open at nine. |
+| eligible to vote | phr | 有投票资格 | 通常只有公民可投票 | Non-citizens are not eligible to vote. |
+
+### 公共服务
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| municipal services | n. | 市政服务 | 垃圾、除雪、供水 | Municipal services are funded by property taxes. |
+| public consultation | n. | 公众咨询 | 公共决策流程 | A public consultation runs until June. |
+| permit application | n. | 许可证申请 | 装修与营业 | A building permit application takes six weeks. |
+| deadline for submission | chunk | 提交截止日期 | 办事时限 | The deadline for submission is 31 March. |
+| in person / online / by mail | phr | 亲自/在线/邮寄 | 办事方式三选项 | Applications can be made in person or online. |
+
+### 移民流程
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Comprehensive Ranking System (CRS) | n. | 综合排名系统 | EE 打分体系 | A higher CRS score improves your chances. |
+| Invitation to Apply (ITA) | n. | 申请邀请 | EE 流程节点 | She received an ITA in the last draw. |
+| language test results | n. | 语言考试成绩 | 移民材料核心 | Language test results are valid for two years. |
+| settlement agency | n. | 安置服务机构 | 新移民免费支持 | A settlement agency helped us find housing. |
+| citizenship test | n. | 入籍考试 | 入籍考试，考历史与制度 | The citizenship test covers history and government. |
+| oath of citizenship | n. | 入籍宣誓 | 入籍最后一步 | The oath of citizenship is taken at a ceremony. |
+
+### 社会议题
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| systemic racism | n. | 系统性种族主义 | 公共讨论高频 | The report identified systemic racism in hiring. |
+| official languages | n. | 官方语言 | 官方语言 | Switzerland has four official languages. |
+| refugee / asylum seeker | n. | 难民/寻求庇护者 | 移民类别区分 | Many countries resettle thousands of refugees each year. |
+| labour shortage | n. | 劳动力短缺 | 驱动移民政策的核心因素 | A labour shortage drives immigration targets. |
+| public opinion | n. | 公众舆论 | 议论高频 | Public opinion on immigration has shifted. |
+| civic engagement | n. | 公民参与 | 社区议题 | Civic engagement is highest among older voters. |
+
+## TECH · 主题：科技与数字生活
+
+### 设备故障
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| storage / run out of space | n./chunk | 存储/空间不足 | 常见问题 | I have run out of storage space. |
+| battery life | n. | 电池续航 | 设备评价 | The battery life is disappointing. |
+| warranty claim | n. | 保修索赔 | 维修流程 | I submitted a warranty claim online. |
+| factory reset | n. | 恢复出厂设置 | 排障最后手段 | A factory reset will erase all your data. |
+
+### 网络账户
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| Wi-Fi network | n. | 无线网络 | 生活高频 | The Wi-Fi network is down again. |
+| two-factor authentication | n. | 双重验证 | 账户安全 | Enable two-factor authentication on your account. |
+| verification code | n. | 验证码 | 登录流程 | A verification code was sent to your phone. |
+| account suspended | phr | 账户被冻结 | 客服场景 | My account has been suspended without explanation. |
+| opt in / opt out | pv | 选择加入/退出 | 隐私与订阅 | You can opt out of marketing emails. |
+| terms of service | n. | 服务条款 | 平台规则 | The terms of service were updated. |
+
+### 数据隐私
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| personal information | n. | 个人信息 | 隐私法术语 | Personal information must be stored securely. |
+| targeted advertising | n. | 定向广告 | 隐私议题 | Targeted advertising relies on browsing history. |
+| digital footprint | n. | 数字足迹 | 隐私教育高频 | Everything you post adds to your digital footprint. |
+
+### 媒体信息
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| source / credible source | n. | 来源/可信来源 | 信息判断 | Always check whether the source is credible. |
+| echo chamber | n. | 信息茧房 | 社交媒体议题高分词 | Social media can create an echo chamber. |
+| viral / go viral | adj./chunk | 病毒式传播的 | 网络现象 | The video went viral overnight. |
+| content moderation | n. | 内容审核 | 平台治理议题 | Content moderation is difficult at scale. |
+| freedom of expression | n. | 表达自由 | 宪法权利 | Freedom of expression has legal limits. |
+
+### AI与就业
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| machine learning | n. | 机器学习 | AI 基础概念 | Machine learning improves with more data. |
+| digital literacy | n. | 数字素养 | 教育与就业议题 | Digital literacy is now a basic job requirement. |
+| digital divide | n. | 数字鸿沟 | 农村与老年群体议题 | The digital divide affects rural communities. |
+| broadband access | n. | 宽带接入 | 农村基础设施议题 | Rural broadband access remains limited. |
+
+## ENV · 主题：环境与公益
+
+### 日常环保
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| curbside collection | n. | 路边收运 | 市政服务 | Curbside collection is delayed by the holiday. |
+| LED bulb / insulation upgrade | n. | LED 灯泡/保温升级 | 家庭节能改造 | A government rebate covers insulation upgrades. |
+| heat pump | n. | 热泵 | 取暖转型热点 | Heat pumps are replacing gas furnaces. |
+| electric vehicle (EV) | n. | 电动车 | 交通减排 | EV sales have doubled in two years. |
+| charging station | n. | 充电桩 | 基础设施 | More charging stations are being installed. |
+
+### 气候影响
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| greenhouse gas | n. | 温室气体 | 气候议题基础词 | Greenhouse gas emissions must fall sharply. |
+| carbon tax / carbon pricing | n. | 碳税/碳定价 | 核心政策争议 | The carbon tax remains politically divisive. |
+| net zero | n. | 净零排放 | 政策目标 | Many countries aim for net zero by 2050. |
+| flooding / flood risk | n. | 洪水/洪灾风险 | 气候灾害 | Flood risk has increased in coastal areas. |
+| air quality index | n. | 空气质量指数 | 野火季高频 | The air quality index reached hazardous levels. |
+| glacier / sea level rise | n. | 冰川/海平面上升 | 气候后果 | Glacier retreat has accelerated. |
+| adaptation vs mitigation | n. | 适应 vs 减缓 | 气候政策两条路径，注意区分 | Adaptation prepares for impacts; mitigation reduces emissions. |
+
+### 自然资源
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| habitat loss | n. | 栖息地丧失 | 生态议题 | Habitat loss is the main threat to the species. |
+| endangered species | n. | 濒危物种 | 保护议题 | The caribou is listed as an endangered species. |
+| protected area | n. | 保护区 | 自然保护区 | The government aims to protect 30 percent of its land. |
+| natural resources | n. | 自然资源 | 资源型经济的支柱 | The economy depends heavily on natural resources. |
+| oil sands / pipeline | n. | 油砂/输油管道 | 能源争议核心 | Pipeline projects face strong opposition. |
+| renewable vs non-renewable | adj. | 可再生/不可再生 | 能源分类 | Wind is renewable; natural gas is not. |
+
+### 社区行动
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| cleanup / community cleanup | n. | 清洁行动 | 社区活动常见话题 | Volunteers joined the annual shoreline cleanup. |
+| community garden | n. | 社区花园 | 城市常见 | The community garden has a waiting list. |
+| donation drive | n. | 募捐活动 | 社区组织 | The school is running a winter coat donation drive. |
+| sign up as a volunteer | chunk | 报名做志愿者 | 活动邮件高频 | You can sign up as a volunteer online. |
+| raise funds | chunk | 筹款 | 与 raise awareness 配对 | The event raised funds for the food bank. |
+| make a pledge | chunk | 作出承诺 | 公益活动 | Residents made a pledge to cut waste. |
+| collective effort | n. | 集体努力 | 议论结尾高分 | Real change requires a collective effort. |
+
+## TRAVEL · 主题：交通与出行
+
+### 住宿旅游
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| travel advisory | n. | 旅行提示 | 政府对外发布的旅行警告 | A travel advisory was issued for the region. |
+
+## EDU · 主题：教育与培训
+
+### 课程学习
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| office hours | n. | 答疑时间 | 北美高校特有安排 | Drop by during my office hours on Tuesday. |
+
+## ABSTR · 抽象与议论词汇
+
+### 社会制度
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| red tape | idm | 繁琐官僚手续 | 批评行政效率，高分习语 | Small businesses complain about red tape. |
+
+### 数据论证
+
+| 词条 | 词性 | 中文 | 用法要点 | 例句 |
+|---|---|---|---|---|
+| margin of error | n. | 误差范围 | 民调数据必备 | The poll has a margin of error of three points. |

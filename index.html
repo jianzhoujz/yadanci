@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <!-- iOS 只认 apple-touch-icon；没有它，加到主屏幕的图标会是页面截图 -->
+    <link rel="apple-touch-icon" href="./icon-180.png" />
+    <!-- viewport-fit=cover：让 env(safe-area-inset-*) 在 iPhone 刘海/Home Indicator 上生效 -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <!-- 主题是手动切换的（默认浅色），深色时由 useTheme 覆盖 -->
+    <meta name="color-scheme" content="light" />
+    <meta name="theme-color" content="#ffffff" />
+    <!-- 添加到主屏幕后全屏运行，同时让 localStorage 免于 Safari ITP 的 7 天清理 -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="牙！单词" />
+    <title>牙！单词</title>
+    <!--
+      选了深色的用户，在 React 挂载前就把 dark class 加上，避免每次打开先闪一下白屏。
+      键名与 src/lib/storage.ts 的 STORAGE_KEY 一致；读不到就保持默认浅色。
+    -->
+    <script>
+      try {
+        var saved = JSON.parse(localStorage.getItem("yadanci.v1") || "null");
+        if (saved && saved.state && saved.state.settings && saved.state.settings.theme === "dark") {
+          document.documentElement.classList.add("dark");
+          document.documentElement.style.colorScheme = "dark";
+        }
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

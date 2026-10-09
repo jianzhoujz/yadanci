@@ -1,0 +1,6 @@
+# 生成产物，由 scripts/build-data.ts 产出，保持紧凑格式（格式化会让体积涨三成）
+public/data/
+dist/
+
+# 词表：*-vocab.md/.tsv 是 tools/build.sh 的生成物，README 里的分数对照表也不希望被重排
+vocab/

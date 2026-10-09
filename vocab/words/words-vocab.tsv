@@ -1,0 +1,2038 @@
+section	theme	term	pos	zh	note	example
+EMAIL	正文-投诉	compensation	n.	赔偿	不可数，不加 s	We are prepared to offer compensation.
+CHART	图表类型	table	n.	表格	配 row/column	The table presents figures for five product lines.
+CHART	图表类型	poster / flyer	n.	海报/传单	生活类图片，描述时先读出标题和关键信息	The poster advertises a free vaccination clinic.
+CHART	图表类型	the x-axis / the y-axis	n.	横轴/纵轴	说明坐标含义	The x-axis represents years and the y-axis shows revenue in dollars.
+CHART	趋势-上升	rise / increase / grow	v.	上升	最基础，务必搭配副词避免重复	Sales rose steadily throughout the year.
+CHART	趋势-上升	climb	v.	攀升	rise 的替换词	Attendance climbed to 4,000 in June.
+CHART	趋势-上升	surge	v.	激增	剧烈上升	Demand surged after the announcement.
+CHART	趋势-上升	soar	v.	飙升	最强烈的上升	House prices soared by 30 percent.
+CHART	趋势-下降	fall / decline / decrease	v.	下降	基础词	Enrolment fell sharply after 2018.
+CHART	趋势-下降	drop	v.	下跌	口语化，读图常用	The figure dropped to just 12 percent.
+CHART	趋势-下降	plummet	v.	暴跌	极剧烈下降，高分词	Profits plummeted in the second half.
+CHART	趋势-下降	dip	v./n.	小幅回落	短暂下降	There was a slight dip in March.
+CHART	趋势-平稳	plateau	v./n.	进入平台期	高分词	The trend plateaued after 2015.
+CHART	趋势-平稳	fluctuate	v.	波动	上下起伏	Temperatures fluctuated between 5 and 15 degrees.
+CHART	趋势-副词	sharply / dramatically	adv.	急剧地	修饰剧烈变化	Costs rose dramatically in one year.
+CHART	趋势-副词	steadily / gradually	adv.	稳步/逐渐地	修饰平缓变化	Membership grew steadily over the decade.
+CHART	趋势-副词	slightly / marginally	adv.	略微地	小幅变化	Output fell marginally in the last month.
+CHART	趋势-副词	significantly / considerably	adv.	显著地	通用强化词	Waiting times decreased considerably.
+CHART	极值比较	the highest / the peak	n.	最高点/峰值	描述图表必说极值	Sales reached a peak of 8,000 units in July.
+CHART	极值比较	outnumber	v.	数量超过	比较两组	Female participants outnumbered male participants.
+CHART	极值比较	whereas / while	conj.	而	对比连接词，写作口语通用	Sales grew in the north, whereas they fell in the south.
+LINK	概括动词	highlight	v.	强调	中性概括	The article highlights the shortage of skilled workers.
+LINK	概括动词	outline	v.	概述	介绍框架	The passage outlines three approaches to the problem.
+LINK	概括动词	emphasise	v.	强调	与 highlight 轮换	The speaker emphasised the need for early intervention.
+LINK	概括动词	propose	v.	提出（方案）	建议类	The author proposes a phased rollout.
+LINK	概括动词	examine / explore	v.	探讨	中性引出主题	The text examines the causes of urban sprawl.
+LINK	概括名词	findings	n.	研究结果	复数形式，SST 高频	The findings suggest a strong link between the two.
+LINK	概括名词	implications	n.	影响/意义	结尾常用	The implications for small businesses are significant.
+LINK	概括名词	drawbacks	n.	弊端	对比优缺点	Despite the drawbacks, the scheme has proved popular.
+LINK	概括名词	factors	n.	因素	万能概括名词	Several factors contributed to the outcome.
+LINK	连接词-递进	moreover / furthermore	adv.	此外	正式递进	Furthermore, the scheme reduced waiting times.
+LINK	连接词-转折	however / nevertheless	adv.	然而/尽管如此	最常用转折，注意标点	The plan was approved; however, funding was delayed.
+LINK	连接词-因果	therefore / thus	adv.	所以	正式因果	The data is limited; therefore, the results are tentative.
+WORK	求职招聘	vacancy / opening	n.	空缺职位	opening 更口语，北美常用	There is an opening in the finance team.
+WORK	求职招聘	résumé / CV	n.	简历	北美用 résumé，CV 指学术长简历	Please attach your résumé and a cover letter.
+WORK	求职招聘	shortlist	v./n.	入围名单	被选入面试	Only five applicants were shortlisted.
+WORK	求职招聘	qualifications	n.	资历/学历	通常复数	She has the qualifications required for the role.
+WORK	求职招聘	credentials	n.	资质证明	外国学历、资质认证语境常用	Foreign credentials must be assessed before you can practise.
+WORK	求职招聘	references	n.	推荐人	北美求职必备	Please provide two professional references.
+WORK	雇佣条款	full-time / part-time	adj.	全职/兼职	连字符不能少	This is a full-time permanent position.
+WORK	雇佣条款	permanent / temporary	adj.	长期/临时的	合同类型	The contract is temporary, ending in December.
+WORK	雇佣条款	overtime	n.	加班（费）	不可数	Overtime is paid at 1.5 times the regular rate.
+WORK	雇佣条款	salary / wage	n.	薪水/工资	salary 按年，wage 按小时	The starting wage is $22 an hour.
+WORK	雇佣条款	roster	n.	值班表	北美也说 schedule；英式多说 rota	The new roster will be posted on Monday.
+WORK	雇佣条款	payroll	n.	工资单；发薪部门	on the payroll 在职拿薪水	Please contact payroll about the missing hours.
+WORK	雇佣条款	bonus	n.	奖金	year-end bonus；signing bonus 入职奖金	Staff received a bonus at the end of the year.
+WORK	雇佣条款	layoff	n.	裁员	北美说法，动词 lay off；英式多说 redundancy	The factory announced two hundred layoffs.
+WORK	雇佣条款	redundancy	n.	（因岗位撤销）被裁	英式与澳洲常用，redundancy pay 遣散费	She accepted voluntary redundancy.
+WORK	雇佣条款	resignation	n.	辞职；辞呈	hand in / submit your resignation	I submitted my resignation this morning.
+WORK	雇佣条款	retire	v.	退休	retire at 65；retirement 名词	My father retired last year.
+WORK	雇佣条款	unemployed	adj.	失业的	the unemployed 失业人群；jobless 较口语	He has been unemployed since March.
+WORK	雇佣条款	allowance	n.	津贴；补贴	travel / meal allowance	Staff receive a daily meal allowance.
+WORK	雇佣条款	commission	n.	佣金；提成	work on commission 拿提成	Sales staff earn a commission on every sale.
+WORK	雇佣条款	absence	n.	缺勤；不在	leave of absence 请假；形容词 absent	Please report any absence to your manager.
+WORK	日常职场	colleague / coworker	n.	同事	coworker 北美更常用	I discussed it with a coworker.
+WORK	日常职场	staff	n.	员工（集体）	集体名词，不加 s，不说 a staff	All staff are required to attend.
+WORK	日常职场	workload	n.	工作量	高频抱怨/协商词	My workload has increased significantly.
+WORK	日常职场	deadline	n.	截止期限	meet/miss/extend a deadline	We are on track to meet the deadline.
+WORK	日常职场	timesheet	n.	工时表	时薪制职场必备	Timesheets must be submitted weekly.
+WORK	日常职场	teamwork	n.	团队合作	不可数	The project succeeded through good teamwork.
+WORK	日常职场	headquarters	n.	总部	单复数同形，常缩写 HQ	The company's headquarters are in Chicago.
+WORK	日常职场	branch	n.	分支机构；分行	bank branch / branch manager	The bank is closing two branches downtown.
+WORK	日常职场	department	n.	部门	the HR department；dept. 缩写	Which department do you work in?
+WORK	日常职场	memo	n.	备忘录；内部通知	memorandum 的缩写	A memo was sent to all staff about parking.
+WORK	日常职场	appraisal	n.	绩效评估	北美多说 performance review	My annual appraisal is next week.
+WORK	日常职场	reimburse	v.	报销	reimburse sb for sth	The company will reimburse you for travel costs.
+WORK	日常职场	supervise	v.	监督；管理	名词 supervision	She supervises a team of ten.
+WORK	日常职场	workplace	n.	工作场所	workplace safety	Bullying in the workplace is not tolerated.
+WORK	会议项目	agenda	n.	议程	meeting 固定搭配	I've attached the agenda for tomorrow's meeting.
+WORK	会议项目	minutes	n.	会议纪要	复数形式才是这个意思	Could you take the minutes today?
+WORK	会议项目	reschedule	v.	改期	职场邮件高频动词	We need to reschedule the meeting to Thursday.
+WORK	会议项目	attend	v.	出席	及物动词，不加 to	I will be unable to attend the session.
+WORK	会议项目	milestone	n.	里程碑	项目管理词	We have reached the first milestone.
+WORK	会议项目	deliverable	n.	交付成果	项目词，常复数	All deliverables are due next Friday.
+WORK	会议项目	stakeholder	n.	利益相关方	项目沟通高频	We need to inform all stakeholders.
+WORK	会议项目	delegate	v.	把工作分派给	管理动词	She delegated the reporting to her assistant.
+WORK	会议项目	prioritise	v.	按优先级处理	职场高频	We need to prioritise the client's request.
+WORK	绩效发展	feedback	n.	反馈	不可数，不说 feedbacks	I'd welcome any feedback on the draft.
+WORK	绩效发展	promotion	n.	晋升	get/be up for a promotion	Congratulations on your promotion!
+WORK	绩效发展	upskill	v.	提升技能	现代职场热词	Staff were encouraged to upskill in data tools.
+WORK	绩效发展	mentor	n./v.	导师/指导	职场支持体系	A senior engineer mentored me for six months.
+WORK	职场问题	dismiss / fire	v.	解雇	因过错辞退，fire 口语	He was dismissed for repeated lateness.
+WORK	职场问题	grievance	n.	申诉	正式投诉程序	She filed a formal grievance with HR.
+WORK	职场问题	harassment	n.	骚扰	职场规章高频；sexual harassment 性骚扰	The company has a zero-tolerance policy on harassment.
+WORK	职场问题	discrimination	n.	歧视	人权法语境	Discrimination on the basis of age is prohibited.
+WORK	职场问题	burnout	n.	职业倦怠	现代职场热词	Long hours can lead to burnout.
+WORK	工作模式	commute	n./v.	通勤	与远程办公对比	My commute takes about an hour each way.
+WORK	工作模式	self-employed / freelance	adj.	自雇/自由职业	报税、简历常用	I have been self-employed for three years.
+HOME	租房	landlord / landlady	n.	房东	租房邮件最常见的收件人	I emailed the landlord about the leak.
+HOME	租房	tenant	n.	租客	与 landlord 成对	Tenants must give 60 days' notice.
+HOME	租房	rent	n./v.	房租/租用	不可数；pay rent 不加 the	The rent is due on the first of each month.
+HOME	租房	utilities	n.	水电煤等公用事业费	租房广告核心词，永远用复数	Rent is $1,600 including utilities.
+HOME	租房	superintendent / super	n.	楼管/管理员	北美公寓管理员的称呼	Please contact the building superintendent.
+HOME	租房	sublet	v./n.	转租	租房合规问题	Subletting requires written permission.
+HOME	租房	furnished / unfurnished	adj.	带家具/不带家具的	租房广告必读词	The unit is partially furnished.
+HOME	租房	tenancy	n.	租期；租赁	tenancy agreement 租约（英式），北美多说 lease	The tenancy ends on 30 June.
+HOME	租房	roommate / flatmate	n.	室友	北美说 roommate，英式说 flatmate	I'm looking for a roommate to share the rent.
+HOME	租房	vacate	v.	腾出；搬出	正式用语，vacate the premises	Tenants must vacate the unit by noon.
+HOME	租房	inventory	n.	（入住时的）物品清单；库存	check the inventory 入住时核对	Please sign the inventory when you move in.
+HOME	租房	relocate	v.	搬迁；调往	relocation package 搬迁补贴	The family relocated to Chicago for work.
+HOME	维修	leak	n./v.	漏水	维修邮件最高频问题	There is a leak under the kitchen sink.
+HOME	维修	faulty	adj.	有故障的	正式描述设备问题	The smoke detector appears to be faulty.
+HOME	维修	repair / fix	v./n.	维修	repair 正式，fix 口语	The repairs were completed the same day.
+HOME	维修	heating / furnace	n.	暖气/炉子	冬天最核心的报修词	The furnace stopped working overnight.
+HOME	维修	plumbing	n.	管道系统	不可数	The building has ongoing plumbing problems.
+HOME	维修	infestation	n.	虫害	严重报修理由	There has been a pest infestation on the third floor.
+HOME	购房	mortgage	n.	按揭贷款	买房核心词	We were pre-approved for a mortgage.
+HOME	社区	neighbour	n.	邻居	英式拼写；美式 neighbor	My neighbour plays music late at night.
+HOME	社区	garbage / recycling / compost	n.	垃圾/回收/厨余	垃圾三分类：其他垃圾、可回收物、厨余堆肥	Compost is collected every Tuesday.
+HOME	社区	bylaw	n.	市政条例	市政条例；municipal bylaw	A city bylaw prohibits noise after 11 p.m.
+HOME	社区	neighbourhood	n.	街区；邻里	英式拼写；美式 neighborhood	It's a quiet, friendly neighbourhood.
+HOME	社区	suburb	n.	郊区	形容词 suburban；in the suburbs	Many families move to the suburbs for bigger homes.
+HOME	社区	residential	adj.	住宅的	residential area 住宅区	Parking is limited in residential areas.
+HEALTH	就医	referral	n.	转诊单	看专科常需先有转诊	You need a referral to see a specialist.
+HEALTH	就医	specialist	n.	专科医生	与 family doctor 对应	She was referred to a specialist.
+HEALTH	就医	prescription	n.	处方	fill a prescription 是去取药	I need to renew my prescription.
+HEALTH	就医	pharmacy / drugstore	n.	药房	两者通用；英式也说 chemist	The pharmacy is open until nine.
+HEALTH	就医	over-the-counter	adj.	非处方的	与 prescription 相对	Over-the-counter painkillers should be enough.
+HEALTH	就医	coverage	n.	保障范围	保险核心词，不可数	Dental care is not included in basic health coverage.
+HEALTH	就医	out-of-pocket	adj./adv.	自费的	保险费用词	I paid $40 out of pocket for the medication.
+HEALTH	症状	symptom	n.	症状	描述病情基础词	My symptoms started three days ago.
+HEALTH	症状	fever	n.	发烧	have / run a fever	She has had a fever since last night.
+HEALTH	症状	allergy	n.	过敏症	have an allergy to peanuts	Do you have any food allergies?
+HEALTH	症状	allergic	adj.	过敏的	be allergic to + n.	I'm allergic to penicillin.
+HEALTH	症状	infection	n.	感染	ear / throat infection	The doctor said it was a minor infection.
+HEALTH	症状	injury	n.	受伤；伤害	动词 injure；be injured in an accident	He suffered a back injury at work.
+HEALTH	症状	wound	n.	伤口	读 /wuːnd/，与 wind 的过去式 wound /waʊnd/ 不同	Keep the wound clean and dry.
+HEALTH	症状	bruise	n./v.	淤青；擦伤	读 /bruːz/	I have a bruise on my knee.
+HEALTH	症状	dizzy	adj.	头晕的	feel dizzy	I felt dizzy after standing up too quickly.
+HEALTH	症状	nausea	n.	恶心	形容词 nauseous	Nausea is a common side effect of this medicine.
+HEALTH	症状	fatigue	n.	疲劳	比 tiredness 正式	Fatigue can be a sign of poor sleep.
+HEALTH	症状	insomnia	n.	失眠	suffer from insomnia	Stress often leads to insomnia.
+HEALTH	症状	chronic	adj.	慢性的	chronic pain；反义 acute 急性的	She has chronic back pain.
+HEALTH	症状	contagious	adj.	传染性的	学校通知高频：keep contagious children at home	Chickenpox is highly contagious.
+HEALTH	症状	cough	n./v.	咳嗽	读 /kɔːf/，gh 读 f	I've had a bad cough for a week.
+HEALTH	症状	sore	adj.	疼痛的	sore throat 嗓子疼	My legs are sore after the hike.
+HEALTH	症状	rash	n.	皮疹	break out in a rash	The cream gave me a rash.
+HEALTH	健康生活	well-being	n.	身心健康	议论类高分词，连字符不能少	The program supports employee well-being.
+HEALTH	健康生活	screening	n.	筛查	预防医学词	Regular screening can detect problems early.
+HEALTH	健康生活	immunisation / vaccination	n.	疫苗接种	社区公告高频	A free vaccination clinic runs on Saturday.
+HEALTH	健康生活	nutrition	n.	营养	形容词 nutritious 有营养的	Good nutrition is important for children.
+HEALTH	健康生活	diet	n.	饮食；节食	balanced diet；be on a diet	Try to eat a balanced diet.
+HEALTH	健康生活	obesity	n.	肥胖症	形容词 obese	Childhood obesity is a growing concern.
+HEALTH	健康生活	hygiene	n.	卫生	personal hygiene；读 /ˈhaɪdʒiːn/	Good hand hygiene prevents infection.
+HEALTH	健康生活	sanitizer	n.	消毒液	hand sanitizer；英式 sanitiser	Hand sanitizer is available at the entrance.
+HEALTH	健康生活	wellbeing	n.	身心健康；福祉	也写作 well-being	Exercise is good for your mental wellbeing.
+HEALTH	健康生活	posture	n.	姿势；体态	good / poor posture	Poor posture can cause back pain.
+MONEY	银行	withdraw / deposit	v.	取款/存款	基础银行动词	You can withdraw up to $500 a day.
+MONEY	银行	overdraft	n.	透支	账户收费项	The overdraft fee is $5 per occurrence.
+MONEY	税务	deduction	n.	扣除项/扣款	工资条与报税双语境	Childcare costs may qualify as a deduction.
+MONEY	账单消费	invoice	n.	发票/账单	商务场景，邮件高频	The invoice is attached for your records.
+MONEY	账单消费	overdue	adj.	逾期的	催款用语	Your account is now 30 days overdue.
+MONEY	账单消费	instalment	n.	分期付款	英式 instalment，美式 installment	The cost can be paid in six monthly instalments.
+MONEY	账单消费	receipt	n.	收据	退货必需，p 不发音但要拼出来	Please keep your receipt for the warranty.
+MONEY	账单消费	warranty	n.	保修	消费维权核心词	The laptop is still under warranty.
+MONEY	账单消费	refund	n./v.	退款	投诉邮件的核心诉求	I would like a full refund rather than a replacement.
+MONEY	账单消费	exchange	n./v.	换货	与 refund 并列给选项	The store offered an exchange but not a refund.
+MONEY	账单消费	reimbursement	n.	报销	职场费用场景	I submitted the receipts for reimbursement.
+MONEY	账单消费	surcharge	n.	附加费	隐藏收费投诉高频	There is a surcharge for weekend delivery.
+MONEY	账单消费	tip / gratuity	n.	小费	北美生活必备，餐厅通常 15 到 20 个百分点	A gratuity of 18 percent is added for large groups.
+MONEY	账单消费	budget	n./v.	预算/编制预算	职场与生活双高频	The project came in under budget.
+MONEY	账单消费	affordable	adj.	负担得起的	住房议题高频	The city needs more affordable housing.
+MONEY	保险	premium	n.	保费	保险核心词，非 bonus	Car insurance premiums went up this year.
+MONEY	保险	deductible	n.	免赔额	北美保险特有概念	The deductible on my policy is $500.
+MONEY	保险	claim	n./v.	索赔	动词搭配 file a claim	I filed a claim after the accident.
+MONEY	保险	policy	n.	保单	一词多义，也指政策	Please review your policy before renewing.
+MONEY	保险	liable / liability	adj./n.	负有责任的/赔偿责任	保险与租房合同高频	The landlord is not liable for tenants' belongings.
+MONEY	社保福利	subsidy	n.	补贴	托儿与住房补贴语境	Low-income families may qualify for a childcare subsidy.
+TRAVEL	公共交通	fare	n.	车票费用	不说 ticket price	Transit fares will increase in January.
+TRAVEL	公共交通	transfer	n./v.	换乘/换乘票	北美公交特有概念	Ask the driver for a transfer.
+TRAVEL	公共交通	route	n.	线路	美式多读 rout，也读 root；英式读 root	The bus route was changed last month.
+TRAVEL	公共交通	detour	n.	绕行	施工通告高频	A detour is in place while the bridge is repaired.
+TRAVEL	公共交通	accessible	adj.	无障碍的	无障碍的；公共设施常用	All stations are wheelchair accessible.
+TRAVEL	公共交通	timetable	n.	时刻表	北美也说 schedule	Check the timetable before you leave.
+TRAVEL	公共交通	ferry	n.	渡轮	渡轮；take the ferry	We took the ferry to the island.
+TRAVEL	公共交通	shuttle	n.	班车；摆渡车	airport shuttle	A free shuttle runs from the hotel to the airport.
+TRAVEL	公共交通	subway	n.	地铁	美式 subway；英式 underground / the Tube	Take the subway to Central Station.
+TRAVEL	驾车	insurance	n.	保险	驾车必备，不可数	Proof of insurance must be kept in the vehicle.
+TRAVEL	驾车	speeding	n.	超速	交通违规	He was fined for speeding.
+TRAVEL	驾车	carpool / rideshare	n./v.	拼车	环保与通勤议题	Several colleagues carpool to work.
+TRAVEL	出行	book / reserve	v.	预订	book 英式常用，reserve 通用	I have booked a table for eight.
+TRAVEL	出行	itinerary	n.	行程安排	拼写易错	I have attached the full itinerary.
+TRAVEL	出行	accommodation	n.	住宿	英式不可数，北美常用复数 accommodations	Accommodation will be arranged for out-of-town guests.
+TRAVEL	出行	customs	n.	海关	永远复数	You must declare food items at customs.
+TRAVEL	出行	refundable / non-refundable	adj.	可退/不可退的	预订投诉高频	The deposit is non-refundable.
+EDU	学制	tuition	n.	学费	不可数，不加 s	Tuition has increased by four percent.
+EDU	学制	enrol / enrolment	v./n.	注册/入学人数	英式 enrol 单 l，美式 enroll	Enrolment in the program has doubled.
+EDU	学制	semester / term	n.	学期	北美通用	The course runs over two semesters.
+EDU	学制	transcript	n.	成绩单	申请必备文件	Please send an official transcript.
+EDU	学制	prerequisite	n.	先修课程	选课高频	Statistics is a prerequisite for this course.
+EDU	学制	assignment	n.	作业/任务	常见场景：找教授申请延期	The assignment is due next Monday.
+EDU	学制	extension	n.	延期	request an extension 固定搭配	Could I request a short extension on the deadline?
+EDU	学制	scholarship / bursary	n.	奖学金/助学金	scholarship 多按成绩，bursary 按经济需要	She received a bursary based on financial need.
+EDU	培训	workshop	n.	工作坊	社区与职场培训高频	The library runs a free résumé workshop.
+EDU	培训	certification	n.	资格认证	职业准入	Forklift certification is required for this role.
+EDU	培训	apprenticeship	n.	学徒制	技工培训路径核心词	He completed a four-year apprenticeship as an electrician.
+SERVICE	客服沟通	inquiry / enquiry	n.	咨询	北美 inquiry，英式 enquiry，都接受	Thank you for your inquiry.
+SERVICE	客服沟通	process	v.	处理	订单与申请通用	Your request is being processed.
+SERVICE	客服沟通	dispatch / ship	v.	发货	物流环节	The item was dispatched on Tuesday.
+SERVICE	客服沟通	delivery / shipment	n.	配送/发货批次	投诉高频	The delivery arrived a week late.
+SERVICE	客服沟通	backorder	n.	缺货待发	北美零售术语	The product is on backorder until June.
+SERVICE	客服沟通	defective / damaged	adj.	有缺陷的/损坏的	投诉邮件描述问题	The unit arrived damaged.
+SERVICE	客服沟通	replacement	n.	替换品	与 refund 并列的解决方案	We will send a replacement free of charge.
+SERVICE	客服沟通	escalate	v.	上报升级	投诉流程词	I would like to escalate this complaint.
+CIVIC	政府服务	province / provincial	n./adj.	省/省级的	省；provincial 省级的	Each province has its own capital city.
+CIVIC	政府服务	federal	adj.	联邦的	联邦的；与 state / provincial 对照	Immigration is a federal matter.
+CIVIC	政府服务	renew	v.	续期	证件与租约通用	I need to renew my permit before it expires.
+CIVIC	移民身份	citizenship	n.	公民身份	入籍语境	You can apply for citizenship after three years.
+CIVIC	移民身份	newcomer	n.	新移民	比 immigrant 更中性友好	The centre offers programs for newcomers.
+CIVIC	移民身份	sponsor	v./n.	担保	家庭团聚移民	He sponsored his parents for permanent residence.
+CIVIC	社会议题	multiculturalism	n.	多元文化主义	多元文化主义；议论话题高频	Multiculturalism is a key feature of many modern cities.
+CIVIC	社会议题	inclusion / inclusive	n./adj.	包容/包容的	公共话语核心词	The policy aims to create an inclusive workplace.
+CIVIC	社会议题	volunteer	n./v.	志愿者/做志愿	社区生活与简历高频	I volunteer at the food bank on weekends.
+CIVIC	社会议题	charity / fundraiser	n.	慈善机构/募捐活动	社区活动高频	The school is holding a fundraiser next month.
+CIVIC	社会议题	homelessness	n.	无家可归问题	城市议题	The city has expanded shelters to address homelessness.
+TECH	数字生活	glitch	n.	小故障	口语化技术问题	A glitch in the system delayed the payments.
+TECH	数字生活	crash	v./n.	崩溃	设备与软件	The application keeps crashing.
+TECH	数字生活	upgrade	v./n.	升级	与 update 区分：upgrade 换更好的	We upgraded to the latest version.
+TECH	数字生活	subscription	n.	订阅	消费投诉高频	I would like to cancel my subscription.
+TECH	数字生活	troubleshoot	v.	排查故障	客服与 IT 用词	The technician helped me troubleshoot the issue.
+TECH	数字生活	user-friendly	adj.	易用的	评价产品高分词	The new interface is far more user-friendly.
+TECH	数字生活	scam / phishing	n.	诈骗/钓鱼邮件	公共安全提醒高频	Be alert to phishing emails asking for your bank details.
+TECH	数字生活	automation	n.	自动化	就业议题	Automation has reduced the need for manual tasks.
+TECH	数字生活	misinformation	n.	错误信息	媒体议题高分词	Misinformation spreads quickly online.
+TECH	数字生活	streaming	n.	流媒体	娱乐消费	Streaming services have replaced cable TV.
+TECH	数字生活	podcast	n.	播客	listen to a podcast	I listen to podcasts on my commute.
+ENV	环境议题	emissions	n.	排放	常复数	The plan aims to cut emissions by half.
+ENV	环境议题	sustainable / sustainability	adj./n.	可持续的/可持续性	高分抽象名词	The company has a sustainability policy.
+ENV	环境议题	landfill	n.	垃圾填埋场	废弃物议题	Composting keeps waste out of landfills.
+ENV	环境议题	conservation	n.	保护/节约	自然与能源双用	Water conservation measures apply in summer.
+ENV	环境议题	wildfire	n.	野火	近年重大环境议题	Wildfire smoke affected air quality across the region.
+ENV	环境议题	initiative	n.	倡议/举措	社区与公司项目通用	The city launched a tree-planting initiative.
+SPELL	拼写易错	accommodation	n.	住宿	双 c 双 m，最经典的拼写陷阱	Student accommodation is limited this year.
+SPELL	拼写易错	recommend	v.	推荐	双 m 单 c，与 accommodation 反着记	I would recommend booking early.
+SPELL	拼写易错	necessary	adj.	必要的	单 c 双 s，口诀 one collar two sleeves	It is necessary to register in advance.
+SPELL	拼写易错	separate	adj./v.	分开的	中间是 a 不是 e，par 不是 per	Please submit separate applications.
+SPELL	拼写易错	definitely	adv.	确实	中间是 finite，没有 a	The deadline has definitely been extended.
+SPELL	拼写易错	occurred / occurrence	v./n.	发生	双 c 双 r	The error occurred during processing.
+SPELL	拼写易错	committee	n.	委员会	双 m 双 t 双 e	The committee meets on Wednesdays.
+SPELL	拼写易错	equipment	n.	设备	不可数，绝不加 s	The laboratory equipment was replaced.
+SPELL	拼写易错	environment	n.	环境	中间的 n 容易漏掉	The department studies the environment.
+SPELL	拼写易错	government	n.	政府	中间的 n 容易漏掉	The government announced new funding.
+SPELL	拼写易错	maintenance	n.	维护	动词 maintain 但名词是 mainten-	Routine maintenance is scheduled for Sunday.
+SPELL	拼写易错	schedule	n./v.	日程/安排	美式 SKED-jool，英式 SHED-yool	The schedule has been revised.
+SPELL	拼写易错	questionnaire	n.	问卷	双 n，结尾 -aire	Please complete the questionnaire online.
+SPELL	拼写易错	bureaucracy	n.	官僚机构	bureau + cracy	Students complain about university bureaucracy.
+SPELL	拼写易错	curriculum	n.	课程体系	复数 curricula	The curriculum is reviewed annually.
+SPELL	拼写易错	assessment	n.	评估	双 s 两次	The assessment takes about an hour.
+SPELL	拼写易错	professor	n.	教授	单 f 双 s	The professor postponed the lecture.
+SPELL	拼写易错	laboratory	n.	实验室	北美常缩读 lab，全拼有 o-r-a	The laboratory is on the second floor.
+SPELL	拼写易错	library / librarian	n.	图书馆/图书管理员	两个 r，常被漏成 libary	The librarian will help you locate the article.
+SPELL	拼写易错	February	n.	二月	第一个 r 容易漏	The semester begins in February.
+SPELL	拼写易错	Wednesday	n.	星期三	中间的 d 不发音但要写	The seminar is held every Wednesday.
+SPELL	拼写易错	receive / receipt	v./n.	收到/收据	i 在 e 前除非跟在 c 后	Please keep the receipt.
+SPELL	拼写易错	achieve	v.	实现	ie 顺序，与 receive 相反	Students achieve better results with feedback.
+SPELL	拼写易错	independent	adj.	独立的	结尾 -ent 不是 -ant	The study was conducted by an independent body.
+SPELL	拼写易错	significant	adj.	显著的	结尾 -ant	There was a significant improvement.
+SPELL	拼写易错	available	adj.	可获得的	双写易错：avail + able	Additional copies are available at the desk.
+SPELL	拼写易错	responsible / responsibility	adj./n.	负责的/责任	-ible 不是 -able	Each department is responsible for its budget.
+SPELL	拼写易错	opportunity	n.	机会	双 p，单 t 在中间	This is a good opportunity to practise.
+SPELL	拼写易错	immediately	adv.	立即	双 m，结尾 -ately	Report any faults immediately.
+SPELL	拼写易错	approximately	adv.	大约	双 p，说数字时高频	The trip takes approximately two hours.
+SPELL	拼写易错	particularly	adv.	尤其	四个音节都要拼出来	The topic is particularly relevant.
+SPELL	拼写易错	although / through / thorough	conj./prep./adj.	尽管/穿过/彻底的	三个词拼写极近，听力必须分辨	A thorough review was carried out.
+SPELL	拼写易错	conscious / conscientious	adj.	有意识的/尽责的	长词，慢速听写务必写全	She is a conscientious employee.
+SPELL	拼写易错	colleague	n.	同事	结尾 -eague	My colleague will cover the shift.
+SPELL	拼写易错	register / registration	v./n.	注册	校园场景高频	Registration closes at the end of the month.
+SPELL	拼写易错	attendance	n.	出勤率	结尾 -ance 不是 -ence	Attendance has improved this term.
+SPELL	拼写易错	appointment	n.	预约	双 p	Your appointment is confirmed for Monday.
+SPELL	拼写易错	guarantee	n./v.	保证	gua- 开头，双 e 结尾	The warranty guarantees free repairs.
+SPELL	拼写易错	purchase	n./v.	购买	-chase 结尾	Keep proof of purchase.
+SPELL	拼写易错	temperature	n.	温度	中间的 era 容易漏	The temperature dropped overnight.
+UKUS	英美拼写	colour / favour / behaviour	n.	颜色/偏好/行为	英式 -our，美式 -or；一篇文章里要统一	The behaviour policy was updated.
+UKUS	英美拼写	centre / theatre / metre	n.	中心/剧院/米	英式 -re，美式 -er	Meet me at the community centre.
+UKUS	英美拼写	licence (n.) / license (v.)	n./v.	执照/发执照	英式名词 -ce、动词 -se；美式统一 license	You need a driver's licence.
+UKUS	英美拼写	practice (n.) / practise (v.)	n./v.	练习	英式名词 -ce、动词 -se；美式统一 practice	I practise speaking every day.
+UKUS	英美拼写	cheque	n.	支票	英式 cheque（支票），美式 check	I deposited the cheque yesterday.
+UKUS	英美拼写	enrol / enrolment	v./n.	注册	英式 enrol 单 l，美式 enroll	Enrolment closes on Friday.
+UKUS	英美拼写	travelled / cancelled / labelled	v.	旅行过/取消了/标注了	英式双 l，美式单 l（traveled）	The flight was cancelled.
+UKUS	英美拼写	organise / organize	v.	组织	英式多用 -ise，美式 -ize；两者都对但要统一	We organized a fundraiser.
+UKUS	英美拼写	defence / offence	n.	防御/冒犯	英式 -ce，美式 -se	No offence was intended.
+UKUS	英美拼写	grey	adj.	灰色	英式 grey，美式 gray	The walls were painted grey.
+CONFUSE	易混词	affect (v.) / effect (n.)	v./n.	影响（动）/影响（名）	绝大多数情况这样分；effect 作动词意为实现	The delay affected the schedule. / The effect was immediate.
+CONFUSE	易混词	advice (n.) / advise (v.)	n./v.	建议	c 是名词，s 是动词，发音也不同	Thank you for your advice. / Please advise us.
+CONFUSE	易混词	principal / principle	adj.,n./n.	主要的、校长/原则	principal 是人或主要的，principle 是原则	The principal reason is cost.
+CONFUSE	易混词	complement / compliment	v./n.	补充/称赞	e 是补充，i 是赞美	She complimented him on the report.
+CONFUSE	易混词	assure / ensure / insure	v.	使放心/确保/投保	assure 对人，ensure 对事，insure 保险	Please ensure the door is locked.
+CONFUSE	易混词	lose / loose	v./adj.	丢失/松的	单 o 是动词，双 o 是形容词	Do not lose your receipt.
+CONFUSE	易混词	its / it's	det./contraction	它的/它是	it's 只等于 it is 或 it has	The company raised its rates.
+CONFUSE	易混词	then / than	adv./conj.	然后/比	than 用于比较，中国考生高频错点	This option is cheaper than the other.
+CONFUSE	易混词	economic / economical	adj.	经济的/节省的	economic 指经济领域，economical 指省钱	Cycling is an economical option.
+CONFUSE	易混词	historic / historical	adj.	有历史意义的/历史上的	historic 重要，historical 属于历史	The building is a historic landmark.
+CONFUSE	易混词	sensitive / sensible	adj.	敏感的/明智的	sensible 是明智，不是敏感	That is a sensible suggestion.
+CONFUSE	易混词	efficient / effective	adj.	高效的/有效的	efficient 省资源，effective 达目的	The new process is more efficient.
+CONFUSE	易混词	raise / rise	v.	提高（及物）/上升（不及物）	raise 后必须带宾语	Prices rose. / They raised prices.
+CONFUSE	易混词	lay / lie	v.	放置（及物）/躺（不及物）	过去式 laid / lay，极易混	He laid the documents on the desk.
+CONFUSE	易混词	borrow / lend	v.	借入/借出	borrow from，lend to	Could I borrow your charger?
+CONFUSE	易混词	bring / take	v.	带来/带走	以说话人位置为准	Please bring your ID to the appointment.
+CONFUSE	易混词	few / a few / little / a little	det.	几乎没有/一些	few 和 little 带否定含义	There are a few seats left.
+CONFUSE	易混词	amount / number	n.	数量（不可数）/数量（可数）	the number of staff，the amount of time	A large number of residents attended.
+CONFUSE	易混词	fewer / less	adj.	更少（可数）/更少（不可数）	fewer people，less time	Fewer people attended this year.
+CONFUSE	易混词	among / between	prep.	在……之中/在两者之间	between 用于两个或明确各方	The cost is shared among all tenants.
+QUIZ	职业人物	plumber	n.	水管工	英文释义：who fixes pipes and taps	Q: Who do you call to fix a leaking pipe? A: A plumber.
+QUIZ	职业人物	electrician	n.	电工	英文释义：who works with wiring	Q: Who installs electrical wiring? A: An electrician.
+QUIZ	职业人物	mechanic	n.	汽车修理工	英文释义：who repairs cars	Q: Who repairs cars? A: A mechanic.
+QUIZ	职业人物	pharmacist	n.	药剂师	英文释义：who dispenses medicine	Q: Who gives you medicine at a drugstore? A: A pharmacist.
+QUIZ	职业人物	dentist	n.	牙医	英文释义：who treats teeth	Q: Who treats problems with your teeth? A: A dentist.
+QUIZ	职业人物	veterinarian / vet	n.	兽医	英文释义：who treats animals	Q: Who treats sick animals? A: A vet.
+QUIZ	职业人物	architect	n.	建筑师	英文释义：who designs buildings	Q: Who designs buildings? A: An architect.
+QUIZ	职业人物	accountant	n.	会计	英文释义：who prepares financial records	Q: Who prepares a company's accounts? A: An accountant.
+QUIZ	职业人物	receptionist	n.	前台接待	英文释义：who greets visitors at an office	Q: Who greets visitors in an office lobby? A: A receptionist.
+QUIZ	职业人物	librarian	n.	图书管理员	英文释义：who works in a library	Q: Who helps you find a book in a library? A: A librarian.
+QUIZ	职业人物	tenant / landlord	n.	租客/房东	英文释义：who pays rent / who owns the property	Q: Who pays rent to live in a property? A: The tenant.
+QUIZ	职业人物	customer / client	n.	顾客/客户	英文释义：who buys goods or services	Q: What do you call someone who buys goods? A: A customer.
+QUIZ	职业人物	colleague	n.	同事	英文释义：who you work with	Q: What do you call a person you work with? A: A colleague.
+QUIZ	场所	pharmacy / drugstore	n.	药房	两者通用；英式也说 chemist	Q: Where do you buy prescription medicine? A: At a pharmacy.
+QUIZ	场所	bakery	n.	面包店	英文释义：where bread is sold	Q: Where would you buy fresh bread? A: A bakery.
+QUIZ	场所	greenhouse	n.	温室	英文释义：glass building for growing plants	Q: What is a glass building for growing plants called? A: A greenhouse.
+QUIZ	场所	warehouse	n.	仓库	英文释义：where goods are stored	Q: Where are goods stored before delivery? A: In a warehouse.
+QUIZ	场所	reception / lobby	n.	接待处/大堂	英文释义：first area you enter in a hotel	Q: Where do you check in at a hotel? A: At reception.
+QUIZ	场所	platform	n.	站台	英文释义：where you wait for a train	Q: Where do you wait for a train? A: On the platform.
+QUIZ	场所	intersection	n.	十字路口	英文释义：where two roads cross	Q: What do you call a place where two roads cross? A: An intersection.
+QUIZ	物品工具	thermometer	n.	温度计	英文释义：instrument that measures temperature	Q: What instrument measures temperature? A: A thermometer.
+QUIZ	物品工具	scales	n.	秤	英文释义：instrument that measures weight	Q: What do you use to measure weight? A: Scales.
+QUIZ	物品工具	compass	n.	指南针	英文释义：shows direction	Q: What device shows you which way is north? A: A compass.
+QUIZ	物品工具	calendar	n.	日历	英文释义：shows days and months	Q: What shows the days and months of the year? A: A calendar.
+QUIZ	物品工具	receipt	n.	收据	英文释义：proof of purchase	Q: What proves that you paid for something? A: A receipt.
+QUIZ	物品工具	invoice	n.	账单	英文释义：request for payment	Q: What document asks a customer to pay? A: An invoice.
+QUIZ	物品工具	ladder	n.	梯子	英文释义：used to reach high places	Q: What do you use to reach a high shelf? A: A ladder.
+QUIZ	物品工具	umbrella	n.	雨伞	英文释义：protects from rain	Q: What do you carry to stay dry in the rain? A: An umbrella.
+QUIZ	物品工具	microscope	n.	显微镜	英文释义：magnifies tiny objects	Q: What instrument is used to see very small things? A: A microscope.
+QUIZ	时间数量	decade / century	n.	十年/一个世纪	英文释义：how many years	Q: How many years are there in a decade? A: Ten.
+QUIZ	时间数量	dozen	n.	一打（十二个）	英文释义：how many in a dozen	Q: How many items are in a dozen? A: Twelve.
+QUIZ	时间数量	quarter	n.	四分之一/一个季度	英文释义：three months	Q: How many months are in a quarter? A: Three.
+QUIZ	时间数量	fortnight	n.	两周	英式说法，美式少用	Q: How many days are in a fortnight? A: Fourteen.
+QUIZ	时间数量	deadline	n.	截止日期	英文释义：last date to submit	Q: What do you call the final date to submit work? A: A deadline.
+QUIZ	身体健康	prescription	n.	处方	英文释义：what a doctor writes for medicine	Q: What does a doctor write so you can get medicine? A: A prescription.
+QUIZ	身体健康	appointment	n.	预约	英文释义：arranged time to see someone	Q: What do you call an arranged time to see a doctor? A: An appointment.
+QUIZ	身体健康	bandage	n.	绷带	英文释义：covers a wound	Q: What do you put on a cut to protect it? A: A bandage.
+QUIZ	身体健康	ankle / wrist / elbow	n.	脚踝/手腕/手肘	关节名称，常用身体部位	Q: What joint connects your foot to your leg? A: The ankle.
+SOUND	重音位置	deVELop / deVELopment	v./n.	发展	重音在第二音节，中国考生常错读成 DEV-elop	The city plans to develop the waterfront.
+SOUND	重音位置	COMfortable	adj.	舒适的	读 KUMF-ter-bul 三音节，不读四音节	The chairs are not very comfortable.
+SOUND	重音位置	VEGetable	n.	蔬菜	读 VEJ-ta-bul 三音节，中间 e 吞掉	Fresh vegetables are on sale.
+SOUND	重音位置	TEMperature	n.	温度	读 TEM-pra-cher 三音节	The temperature dropped overnight.
+SOUND	重音位置	inTERpret / inTERpreter	v./n.	口译	重音第二音节，不读 IN-ter-pret	We hired an interpreter for the meeting.
+SOUND	重音位置	adMINister / adminisTRAtion	v./n.	管理/行政	名词重音后移到第三音节，有规律可循	The administration approved the budget.
+SOUND	重音位置	PHOtograph / phoTOGrapher / photoGRAPHic	n./n./adj.	照片/摄影师/摄影的	三种形式重音全不同，典型重音漂移词族	The photographer arrived early.
+SOUND	重音位置	ecoNOMic / ECOnomy	adj./n.	经济的/经济	形容词重音在 NOM，名词在 CON	Economic growth has slowed.
+SOUND	重音位置	CERtificate (n.) / cerTIFicate	n.	证书	名词重音在第二音节 cer-TIF-i-cat	Please bring your birth certificate.
+SOUND	重音位置	adVERtisement	n.	广告	英式读 ad-VER-tis-ment，美式 AD-ver-tize-ment	I saw the advertisement online.
+SOUND	重音位置	CATegory / cateGORical	n./adj.	类别	名词重音第一音节	The form has four categories.
+SOUND	重音位置	OPPortunity	n.	机会	重音在第三音节 op-por-TU-ni-ty	This is a great opportunity.
+SOUND	重音位置	resPONsible / responsiBILity	adj./n.	负责的/责任	名词重音移到 BIL	It is your responsibility to renew it.
+SOUND	重音位置	deTERmine / deterMInation	v./n.	决定/决心	重音漂移	We need to determine the cause.
+SOUND	重音位置	PREsent (n./adj.) / preSENT (v.)	n./v.	礼物、目前的/呈现	名动异重，经典发音点	I will present the report to the present committee.
+SOUND	重音位置	RECord (n.) / reCORD (v.)	n./v.	记录/录制	名动异重	Please record the meeting for the record.
+SOUND	重音位置	INcrease (n.) / inCREASE (v.)	n./v.	增长/增加	名动异重，描述数据高频	The increase will increase costs.
+SOUND	重音位置	PERmit (n.) / perMIT (v.)	n./v.	许可证/允许	名动异重，移民语境高频	The city will permit you to renew the permit.
+SOUND	重音位置	CONtract (n.) / conTRACT (v.)	n./v.	合同/收缩	名动异重	We signed the contract yesterday.
+SOUND	重音位置	PROduce (n.) / proDUCE (v.)	n./v.	农产品/生产	名动异重，超市语境	Fresh produce is sold at the market.
+SOUND	静音字母	receipt	n.	收据	p 不发音，读 ri-SEET	Keep your receipt.
+SOUND	静音字母	debt / doubt	n.	债务/怀疑	b 不发音，读 det / dout	He paid off the debt.
+SOUND	静音字母	subtle	adj.	微妙的	b 不发音，读 SUT-tul	There is a subtle difference.
+SOUND	静音字母	island / aisle	n.	岛/过道	s 不发音，读 EYE-land / EYE-l	Use the centre aisle.
+SOUND	静音字母	salmon	n.	三文鱼	l 不发音，读 SAM-un	Salmon is popular on the west coast.
+SOUND	静音字母	Wednesday	n.	星期三	第一个 d 不发音，读 WENZ-day	The class meets on Wednesday.
+SOUND	静音字母	knowledge / knee / knife	n.	知识/膝盖/刀	词首 k 不发音	She has a good knowledge of the system.
+SOUND	静音字母	comb / climb / tomb	n./v.	梳子/攀爬/坟墓	词尾 b 不发音	The costs continued to climb.
+SOUND	静音字母	castle / listen / fasten	n./v.	城堡/听/系紧	st 中的 t 不发音	Please fasten your seatbelt.
+SOUND	静音字母	honest / hour / heir	adj./n.	诚实的/小时/继承人	词首 h 不发音，冠词用 an	It takes an hour to get there.
+SOUND	静音字母	muscle	n.	肌肉	c 不发音，读 MUS-sul	Strength training builds muscle.
+SOUND	静音字母	foreign / sign / design	adj./n./v.	外国的/标志/设计	gn 中 g 不发音	Foreign credentials must be assessed.
+SOUND	易错发音	determine	v.	决定	结尾读 -min 不读 -mine（不押 mine）	We must determine the next step.
+SOUND	易错发音	genuine	adj.	真正的	结尾读 -win 不读 -wine	This is a genuine concern.
+SOUND	易错发音	suite	n.	套房/套件	读 sweet，不读 suit	The office is in suite 302.
+SOUND	易错发音	colonel	n.	上校	读 KER-nul，与拼写完全不符	The colonel addressed the crowd.
+SOUND	易错发音	archive / architect	n.	档案/建筑师	ch 读 k 音	The architect submitted the drawings.
+SOUND	易错发音	chaos / character / chemistry	n.	混乱/性格/化学	ch 读 k 音	The delay caused chaos at the airport.
+SOUND	易错发音	machine / chef / brochure	n.	机器/厨师/宣传册	ch 读 sh 音，与上一条相反	Pick up a brochure at reception.
+SOUND	易错发音	thorough / through / though	adj./prep./conj.	彻底的/穿过/尽管	三词读音全不同：THUR-oh / throo / thoh	A thorough inspection was carried out.
+SOUND	易错发音	clothes	n.	衣服	读 klohz，th 几乎不出声，不读两音节	Bring warm clothes for winter.
+SOUND	易错发音	month / months	n.	月	复数 months 读 munts，不加额外音节	It took three months.
+SOUND	易错发音	asked / worked / helped	v.	过去式	-ed 在清辅音后读 t，不读 id	I asked for a refund.
+SOUND	易错发音	needed / wanted / started	v.	过去式	-ed 在 t/d 后才读 id	The project started late.
+SOUND	易错发音	used / lived / opened	v.	过去式	-ed 在浊辅音元音后读 d	The office opened at nine.
+SOUND	易错发音	often	adv.	经常	t 可发可不发，OF-en 更常见	Delays often occur in winter.
+SOUND	易错发音	schedule	n./v.	日程	美式 SKED-jool，英式 SHED-yool	The schedule was revised.
+SOUND	易错发音	route	n.	路线	美式多读 rout，也读 root；英式读 root	The bus route has changed.
+SOUND	易错发音	garage	n.	车库	北美读 guh-RAHZH，重音在后	The car is in the garage.
+SOUND	易错发音	niche	n.	细分领域	读 neesh 或 nitch，前者更常见	They serve a niche market.
+SOUND	易错发音	entrepreneur	n.	创业者	读 on-truh-pruh-NUR，重音在最后	She is a successful entrepreneur.
+SOUND	易错发音	colleague	n.	同事	读 KOL-eeg，重音在第一音节	My colleague will assist you.
+ABSTR	评价程度	substantial	adj.	大量的/实质性的	比 big 高级，修饰 increase/amount/evidence	There has been a substantial increase in demand.
+ABSTR	评价程度	considerable	adj.	相当大的	与 substantial 轮换，避免重复	The project required considerable effort.
+ABSTR	评价程度	significant / significantly	adj./adv.	显著的	万能强化词，描述数据与议论通用	Costs fell significantly after the change.
+ABSTR	评价程度	marginal / marginally	adj./adv.	微小的	与 significant 相对	The difference was only marginal.
+ABSTR	评价程度	negligible	adj.	微不足道的	高分词，强调可忽略	The impact on traffic was negligible.
+ABSTR	评价程度	moderate	adj./v.	适度的/缓和	中间程度	A moderate amount of exercise is enough.
+ABSTR	评价程度	extensive	adj.	广泛的	extensive research / damage / experience	The storm caused extensive damage.
+ABSTR	评价程度	widespread	adj.	普遍存在的	描述范围广	There is widespread support for the plan.
+ABSTR	评价程度	prevalent	adj.	盛行的	比 common 高级	Remote work is now prevalent in the sector.
+ABSTR	评价程度	scarce / scarcity	adj./n.	稀缺的/稀缺	资源议题高频	Affordable housing is increasingly scarce.
+ABSTR	评价程度	abundant	adj.	充足的	与 scarce 相对	The region has abundant water resources.
+ABSTR	评价程度	adequate / inadequate	adj.	充足的/不足的	比 enough 正式	The funding proved inadequate.
+ABSTR	评价程度	excessive	adj.	过度的	带批评色彩	Excessive screen time affects sleep.
+ABSTR	评价程度	minimal	adj.	极少的	正式表达"几乎没有"	The changes required minimal training.
+ABSTR	可行价值	viable	adj.	可行的	commercially viable / a viable option	Solar power is now a viable alternative.
+ABSTR	可行价值	feasible / feasibility	adj./n.	可行的/可行性	技术与经济可行	A feasibility study was commissioned.
+ABSTR	可行价值	practical / impractical	adj.	实际可行的/不切实际的	日常评价	The proposal is impractical in winter.
+ABSTR	可行价值	cost-effective	adj.	划算的	议论结论高频	Prevention is more cost-effective than treatment.
+ABSTR	可行价值	sustainable	adj.	可持续的	环境与财务双用	The model is not financially sustainable.
+ABSTR	可行价值	beneficial	adj.	有益的	be beneficial to / for	Regular feedback is beneficial to staff.
+ABSTR	可行价值	detrimental	adj.	有害的	be detrimental to，高分反义词	Long hours can be detrimental to health.
+ABSTR	可行价值	counterproductive	adj.	适得其反的	高分批评词	Strict rules can be counterproductive.
+ABSTR	可行价值	worthwhile	adj.	值得的	一个词，不分写	The investment proved worthwhile.
+ABSTR	可行价值	redundant	adj.	多余的/被裁员的	双义，职场语境注意	The step was redundant and was removed.
+ABSTR	因果条件	inevitable / inevitably	adj./adv.	不可避免的	强因果	Some delay is inevitable in winter.
+ABSTR	因果条件	trigger	v./n.	引发/诱因	突发因果	The announcement triggered a wave of applications.
+ABSTR	因果条件	underlying	adj.	根本的/潜在的	underlying cause / issue	We must address the underlying cause.
+ABSTR	因果条件	prerequisite	n.	前提条件	be a prerequisite for	Trust is a prerequisite for teamwork.
+ABSTR	因果条件	otherwise	adv.	否则	结果连接	Register early; otherwise you may lose your spot.
+ABSTR	变化趋势	shift	n./v.	转变	a shift in attitudes / priorities	There has been a shift towards online services.
+ABSTR	变化趋势	transition	n./v.	过渡	transition to / from	The transition to renewable energy will take decades.
+ABSTR	变化趋势	emerge / emerging	v./adj.	出现/新兴的	emerging trend / market	Several emerging problems were identified.
+ABSTR	变化趋势	accelerate	v.	加速	正式动词	The pandemic accelerated the shift to remote work.
+ABSTR	变化趋势	reverse	v./n.	扭转/相反	reverse a trend / decision	The city reversed its decision.
+ABSTR	变化趋势	stagnate / stagnation	v./n.	停滞	经济议题	Wages have stagnated for a decade.
+ABSTR	变化趋势	deteriorate	v.	恶化	与 improve 相对，高分	Air quality deteriorated during the wildfires.
+ABSTR	变化趋势	evolve / evolution	v./n.	演变	渐进变化	The role has evolved considerably.
+ABSTR	变化趋势	persist / persistent	v./adj.	持续存在/顽固的	persistent problem / shortage	Labour shortages persist across the country.
+ABSTR	变化趋势	unprecedented	adj.	前所未有的	强调罕见，高分	The city faced unprecedented flooding.
+ABSTR	观点态度	advocate	v./n.	主张/倡导者	advocate for something	Many experts advocate earlier intervention.
+ABSTR	观点态度	oppose / opposition	v./n.	反对	正式立场词	Residents opposed the development.
+ABSTR	观点态度	sceptical / scepticism	adj./n.	持怀疑的	英式 sceptical，美式 skeptical	Some remain sceptical about the benefits.
+ABSTR	观点态度	reluctant	adj.	不情愿的	be reluctant to do	Employers are reluctant to hire without local experience.
+ABSTR	观点态度	controversial	adj.	有争议的	议题描述高频	The policy remains controversial.
+ABSTR	观点态度	consensus	n.	共识	reach a consensus	There is no consensus on the issue.
+ABSTR	观点态度	perception	n.	看法/认知	public perception	Public perception has shifted rapidly.
+ABSTR	观点态度	bias / biased	n./adj.	偏见/有偏见的	媒体与招聘议题	The survey may be biased towards younger users.
+ABSTR	观点态度	compelling	adj.	有说服力的	compelling argument / evidence	She made a compelling case for the change.
+ABSTR	观点态度	questionable	adj.	存疑的	温和质疑	The reliability of the data is questionable.
+ABSTR	观点态度	justify / justification	v./n.	证明合理	justify a decision	It is hard to justify the extra cost.
+ABSTR	观点态度	acknowledge	v.	承认	让步高分动词	We must acknowledge the drawbacks.
+ABSTR	问题解决	address	v.	着手解决	address an issue，比 solve 高级	The city is addressing the shortage.
+ABSTR	问题解决	tackle	v.	应对（难题）	tackle a problem，口语书面通用	We need to tackle the root cause.
+ABSTR	问题解决	mitigate	v.	缓解	mitigate risk / impact，高分	Measures were taken to mitigate the damage.
+ABSTR	问题解决	alleviate	v.	减轻	alleviate pressure / poverty	The subsidy alleviates some of the pressure.
+ABSTR	问题解决	implement / implementation	v./n.	实施	implement a policy	The new system will be implemented in phases.
+ABSTR	问题解决	enforce / enforcement	v./n.	执行（法规）	enforce a rule	The bylaw is rarely enforced.
+ABSTR	问题解决	monitor	v.	监测	持续观察	Air quality is monitored continuously.
+ABSTR	问题解决	assess / assessment	v./n.	评估	assess the impact	We will assess the results in June.
+ABSTR	问题解决	evaluate	v.	评价	与 assess 轮换	The program will be evaluated annually.
+ABSTR	问题解决	streamline	v.	精简流程	职场高分词	The process was streamlined to save time.
+ABSTR	问题解决	allocate	v.	分配	allocate funds / resources	More funds were allocated to housing.
+ABSTR	社会制度	regulation / regulate	n./v.	法规/监管	政策议题	Stricter regulations came into force.
+ABSTR	社会制度	legislation	n.	立法/法律	不可数，比 law 正式	New legislation protects tenants.
+ABSTR	社会制度	infrastructure	n.	基础设施	不可数	The region needs investment in infrastructure.
+ABSTR	社会制度	incentive	n.	激励措施	financial incentive	Tax incentives encourage green renovations.
+ABSTR	社会制度	accountability	n.	问责制	治理议题高分词	There is little accountability in the process.
+ABSTR	社会制度	transparency	n.	透明度	与 accountability 配对	Residents demanded greater transparency.
+ABSTR	社会制度	equity / equitable	n./adj.	公平/公平的	公平（按需分配），与 equality 平等有别	The policy aims for equitable access.
+ABSTR	社会制度	disparity	n.	差距	regional disparity	There are wide disparities between regions.
+ABSTR	社会制度	marginalised	adj.	边缘化的	社会议题标准表述；美式 marginalized	Services often miss marginalised groups.
+ABSTR	社会制度	jurisdiction	n.	管辖权	管辖权；法律与行政语境	This case falls outside the court's jurisdiction.
+ABSTR	社会制度	mandate	n./v.	授权/强制规定	mandatory 的名词动词形式	The city mandated winter tires for all taxis.
+ABSTR	数据论证	evidence	n.	证据	不可数，不说 an evidence	There is little evidence to support this.
+ABSTR	数据论证	indicate / indicator	v./n.	表明/指标	数据转述	The figures indicate a steady recovery.
+ABSTR	数据论证	correlation	n.	相关性	correlation between A and B	There is a correlation between income and health.
+ABSTR	数据论证	estimate	v./n.	估计	conservative estimate	Officials estimate the cost at $2 million.
+ABSTR	数据论证	disproportionately	adv.	不成比例地	社会议题高分副词	The change affects seniors disproportionately.
+ABSTR	数据论证	respectively	adv.	分别地	列举对应关系，高分	Sales rose 5 and 8 percent respectively.
+ABSTR	数据论证	namely	adv.	即/也就是	精确列举	Two groups, namely students and seniors, qualify.
+ABSTR	数据论证	notably	adv.	尤其是	引出突出例子	Several cities, notably London, saw sharp rises.
+ABSTR	数据论证	arguably	adv.	可以说	谨慎断言，高分	This is arguably the most effective approach.
+ABSTR	数据论证	presumably	adv.	想必	推测	The delay was presumably due to weather.
+ABSTR	人与行为	resilient / resilience	adj./n.	有韧性的/韧性	公共话语高频	The community proved remarkably resilient.
+ABSTR	人与行为	adaptable	adj.	适应力强的	求职与移民语境	Newcomers must be adaptable.
+ABSTR	人与行为	proactive	adj.	主动的	与 reactive 相对，职场高分	A proactive approach prevents problems.
+ABSTR	人与行为	competent / competence	adj./n.	称职的/能力	正式评价	She is highly competent in her field.
+ABSTR	人与行为	diligent	adj.	勤勉的	正面评价	He is a diligent and reliable employee.
+ABSTR	人与行为	reluctance	n.	不情愿	名词形式	There is some reluctance to adopt the system.
+ABSTR	人与行为	commitment	n.	承诺/投入	commitment to something	The company has a commitment to safety.
+ABSTR	人与行为	integrity	n.	正直	职业道德词	The role requires honesty and integrity.
+ABSTR	人与行为	initiative (show)	chunk	展现主动性	show/take initiative，面试高频	She shows initiative without being asked.
+ABSTR	人与行为	self-sufficient	adj.	自给自足的	移民与经济议题	The goal is to become self-sufficient.
+ABSTR	人与行为	overwhelmed	adj.	不堪重负的	压力议题	Many staff feel overwhelmed by the workload.
+WORK	行业岗位	hospitality	n.	酒店餐饮业	新人入行常见行业	She works in the hospitality industry.
+WORK	行业岗位	retail	n.	零售业	常见入门岗位	Retail jobs often involve evening shifts.
+WORK	行业岗位	manufacturing	n.	制造业	经济议题与就业	Manufacturing has declined in the region.
+WORK	行业岗位	construction	n.	建筑业	技工需求大的行业	Construction slows down in winter.
+WORK	行业岗位	logistics / warehousing	n.	物流/仓储	电商带动的高需求行业	He found work in logistics.
+WORK	行业岗位	contractor / subcontractor	n.	承包商/分包商	建筑与自雇语境	The work was done by a subcontractor.
+WORK	行业岗位	apprentice / journeyman	n.	学徒/出师技工	技工晋级：学徒 → 熟练技工	He became a journeyman electrician after four years.
+WORK	办公设备	photocopier / printer	n.	复印机/打印机	办公报修场景	The photocopier is jammed again.
+WORK	办公设备	supplies / stationery	n.	办公用品/文具	采购场景	We are running low on office supplies.
+WORK	办公设备	workstation	n.	工位	办公空间	Each workstation has two monitors.
+WORK	客户销售	client / account	n.	客户/客户账户	B2B 语境	She manages five key accounts.
+WORK	客户销售	quote / quotation	n.	报价	采购与服务	Could you send us a quote?
+WORK	客户销售	proposal	n.	提案	投标与项目	We submitted the proposal on Friday.
+WORK	客户销售	negotiate / negotiation	v./n.	谈判	正式商务	We negotiated a better rate.
+WORK	客户销售	revenue	n.	营收	与 profit 区分：收入总额	Revenue grew by 12 percent.
+WORK	客户销售	turnover	n.	营业额/人员流动率	双义，职场语境多指离职率	Staff turnover has been high this year.
+WORK	客户销售	target / quota	n.	目标/定额	销售与绩效	The team exceeded its quarterly target.
+WORK	客户销售	referral	n.	推荐/介绍	看专科常需先有转诊	Most of our business comes from referrals.
+WORK	培训安全	orientation	n.	入职培训	北美新员工第一天	Orientation is held on your first day.
+WORK	培训安全	onboarding	n.	入职流程	现代 HR 词汇	The onboarding process takes two weeks.
+WORK	培训安全	hazard	n.	危险源	职业安全术语	Report any hazard to your supervisor.
+WORK	团队协作	collaborate / collaboration	v./n.	协作	求职与绩效高分词	The two departments collaborated closely.
+WORK	团队协作	coordinate	v.	协调	项目与活动	She coordinated the whole event.
+WORK	团队协作	morale	n.	士气	不可数，团队管理词	The change improved staff morale.
+WORK	劳动法规	accommodation (workplace)	n.	工作场所便利安排	人权与劳动法术语：为残障等员工做的合理调整，与「住宿」同形不同义	Employers must provide reasonable accommodation.
+WORK	劳动法规	whistleblower	n.	举报人	职业道德议题	Whistleblower protections were strengthened.
+WORK	求职申请	applicant	n.	申请人	apply 的人；candidate 偏指进入候选的人	Every applicant must provide two references.
+WORK	求职申请	recruit	v./n.	招聘；新招的员工	作名词指新人，a new recruit	The company plans to recruit twenty nurses this year.
+WORK	求职申请	recruitment	n.	招聘（工作）	recruitment agency 招聘中介	Recruitment usually takes about six weeks.
+WORK	求职申请	qualification	n.	资格；学历证书	常用复数，overseas qualifications 海外学历	You will need to have your overseas qualifications assessed.
+WORK	求职申请	internship	n.	实习	paid / unpaid internship	She did a summer internship at a law firm.
+WORK	求职申请	trainee	n.	受训者；实习生	-ee 结尾表示被动一方，对比 trainer	All trainees must complete a safety course.
+WORK	求职申请	probation	n.	试用期	be on probation；probationary period 同义	New staff are on probation for three months.
+WORK	求职申请	candidate	n.	候选人；应聘者	the successful candidate 被录用者	We interviewed six candidates for the role.
+WORK	求职申请	employer	n.	雇主	-er 主动方；对比 employee	Your employer must give you a pay stub.
+WORK	求职申请	employee	n.	雇员	-ee 被动方	The company has over 500 employees.
+WORK	求职申请	employment	n.	就业；雇用	employment agency 职业介绍所	He found employment in construction.
+WORK	个人素质	punctual	adj.	守时的	名词 punctuality	Please be punctual for the interview.
+WORK	个人素质	reliable	adj.	可靠的	求职信常用自我描述词	I am reliable and hard-working.
+WORK	个人素质	flexible	adj.	灵活的；可变通的	flexible hours 弹性工作时间	The job offers flexible working hours.
+WORK	个人素质	motivated	adj.	积极主动的	self-motivated 自驱的	We are looking for a highly motivated team player.
+HOME	房屋结构	basement	n.	地下室	北美住宅常见，常整层出租	They rent out the basement apartment.
+HOME	房屋结构	attic	n.	阁楼	保温与储物	The attic needs better insulation.
+HOME	房屋结构	driveway	n.	私家车道	与 garage 区分	Please do not block the driveway.
+HOME	房屋结构	balcony / patio	n.	阳台/露台	租房广告卖点	The unit has a south-facing balcony.
+HOME	房屋结构	storey / floor	n.	楼层	英式 storey，美式 story；复数 storeys	It is a three-storey building.
+HOME	房屋结构	hallway / corridor	n.	走廊	公共区域	The hallway light has burned out.
+HOME	房屋结构	insulation	n.	保温材料	冬季保暖关键，不可数	Poor insulation drives up heating bills.
+HOME	房屋结构	appliance	n.	家用电器	租房广告常提	The kitchen appliances are included.
+HOME	房屋结构	fixtures	n.	固定装置	租约条款用词	Light fixtures are the landlord's responsibility.
+HOME	家务生活	vacuum	v./n.	吸尘/吸尘器	动词名词同形	I need to vacuum the living room.
+HOME	家务生活	thermostat	n.	温控器	冬季生活必备	Turn the thermostat down at night.
+HOME	家务生活	draught / draughty	n./adj.	穿堂风/漏风的	英式 draught，美式 draft	The old windows are very draughty.
+HOME	租房流程	viewing	n.	看房	租房流程	We have a viewing scheduled for Saturday.
+HOME	租房流程	eviction / evict	n./v.	驱逐	租房纠纷严重情形	Eviction requires a formal notice.
+HOME	租房流程	rent-controlled	adj.	受租金管制的	住房政策术语：限制涨租	Older buildings are often rent-controlled.
+HOME	社区设施	playground / park	n.	游乐场/公园	家庭生活	The new playground opens in May.
+HOME	社区设施	sidewalk	n.	人行道	北美说 sidewalk，英式 pavement	The sidewalk is icy this morning.
+HOME	社区设施	crosswalk	n.	人行横道	北美用词	Use the crosswalk at the corner.
+HOME	社区设施	petition	n./v.	请愿	社区行动	Neighbours signed a petition against the closure.
+HOME	社区设施	zoning	n.	土地用途分区	城市规划术语	Zoning rules limit building height.
+HOME	房屋设施	apartment	n.	公寓	北美通用；英式说 flat	The apartment has two bedrooms and a balcony.
+HOME	房屋设施	detached	adj.	独立式的（房屋）	detached / semi-detached house	They bought a detached house in the suburbs.
+HOME	房屋设施	lawn	n.	草坪	mow the lawn 割草	The landlord is responsible for mowing the lawn.
+HOME	房屋设施	dishwasher	n.	洗碗机	load / unload the dishwasher	The dishwasher has been leaking for a week.
+HOME	房屋设施	spacious	adj.	宽敞的	租房广告高频	The living room is bright and spacious.
+HOME	房屋设施	cosy / cozy	adj.	温馨舒适的	英式 cosy，北美 cozy	It's a small but cozy apartment.
+HOME	房屋设施	furniture	n.	家具	不可数，a piece of furniture	The apartment comes with basic furniture.
+HOME	房屋设施	ventilation	n.	通风	poor ventilation 导致潮湿发霉	Good ventilation helps prevent mould.
+HOME	房屋设施	elevator	n.	电梯	北美说法；英式 lift	The elevator is out of order.
+HOME	房屋设施	intercom	n.	对讲机	公寓楼门口按 buzzer 的系统	Buzz me on the intercom when you arrive.
+HOME	维修问题	mould / mold	n.	霉	英式 mould，北美 mold；mouldy 发霉的	There is mould on the bathroom ceiling.
+HOME	维修问题	pest	n.	害虫；有害动物	pest control 除虫服务	We need pest control for the mice in the kitchen.
+HOME	维修问题	renovate	v.	翻新；装修	renovation 名词，under renovation	The lobby is being renovated this month.
+HOME	维修问题	caretaker	n.	管理员；看门人	北美公寓多说 superintendent / super	Report any problems to the caretaker.
+HEALTH	科室人员	paramedic	n.	急救员	救护车人员	Paramedics arrived within ten minutes.
+HEALTH	科室人员	physiotherapist / physiotherapy	n.	理疗师/理疗	英式 physiotherapy，美式 physical therapy	He has physiotherapy twice a week.
+HEALTH	科室人员	optometrist	n.	验光师	与眼科医生 ophthalmologist 区分	Book an eye exam with an optometrist.
+HEALTH	科室人员	surgeon / surgery	n.	外科医生/手术	surgery 英式也指诊所	She is waiting for knee surgery.
+HEALTH	科室人员	caregiver	n.	照护者	老龄化议题高频	Family caregivers receive little support.
+HEALTH	检查治疗	check-up	n.	体检	annual check-up	I am due for my annual check-up.
+HEALTH	检查治疗	X-ray / scan	n.	X 光/扫描	影像检查	The X-ray showed no fracture.
+HEALTH	检查治疗	diagnosis / diagnose	n./v.	诊断	复数 diagnoses	An early diagnosis improves outcomes.
+HEALTH	检查治疗	treatment	n.	治疗	undergo treatment	The treatment lasted six weeks.
+HEALTH	检查治疗	dosage	n.	剂量	用药说明	Follow the dosage on the label.
+HEALTH	检查治疗	refill	n./v.	续配药	北美药房用词	I need a refill on my prescription.
+HEALTH	检查治疗	recovery / rehabilitation	n.	康复	术后阶段	Rehabilitation takes several months.
+HEALTH	急救突发	sprain / fracture	n./v.	扭伤/骨折	常见伤情	She sprained her ankle on the ice.
+HEALTH	急救突发	concussion	n.	脑震荡	运动与跌倒	The player suffered a concussion.
+HEALTH	急救突发	ambulance	n.	救护车	急救车；call an ambulance	An ambulance was called immediately.
+HEALTH	急救突发	CPR	n.	心肺复苏	急救培训	All lifeguards are trained in CPR.
+HEALTH	急救突发	triage	n.	分诊	急诊流程词	Triage determines who is seen first.
+HEALTH	急救突发	frostbite / hypothermia	n.	冻伤/体温过低	严寒天气的健康风险	Frostbite can occur within minutes at minus thirty.
+HEALTH	急救突发	heatstroke	n.	中暑	夏季对应风险	Seniors are most at risk of heatstroke.
+HEALTH	照护人群	senior / elderly	n./adj.	老年人/年长的	senior 比 elderly 更中性礼貌	Seniors receive a transit discount.
+HEALTH	照护人群	disability	n.	残障	法律与福利术语	The building is accessible to people with disabilities.
+HEALTH	照护人群	pediatrician	n.	儿科医生	美式 pediatrician，英式 paediatrician	The pediatrician sees children up to eighteen.
+MONEY	工资单	withholding	n.	代扣税款	税务术语	Income tax withholding appears on every stub.
+MONEY	工资单	year-to-date (YTD)	n.	年初至今累计	工资条常见缩写	The year-to-date total is shown on the right.
+MONEY	购物零售	clearance / markdown	n.	清仓/降价	零售促销词	The winter coats are on clearance.
+MONEY	购物零售	cashier / self-checkout	n.	收银员/自助结账	超市场景	The self-checkout is faster at this hour.
+MONEY	房贷债务	amortisation	n.	摊还期	房贷摊还期；美式 amortization	The amortisation period is 25 years.
+MONEY	房贷债务	pre-approval	n.	贷款预批	买房第一步	We got a mortgage pre-approval last week.
+MONEY	房贷债务	collateral	n.	抵押品	贷款术语	The property serves as collateral.
+MONEY	退休理财	pension	n.	养老金	退休收入的重要来源	He receives a company pension.
+MONEY	退休理财	invest / investment	v./n.	投资	理财基础词	She invests a portion of every paycheque.
+MONEY	消费保护	scam / fraud	n.	诈骗	公共安全提醒高频	Seniors are frequent targets of phone scams.
+TRAVEL	路况天气	windshield / wipers	n.	挡风玻璃/雨刮	美式 windshield，英式 windscreen	Clear the snow off your windshield.
+TRAVEL	路况天气	tow / towing	v./n.	拖车	违停与故障	The car was towed from a snow route.
+TRAVEL	路况天气	collision	n.	碰撞事故	警方与保险用词，比 accident 正式	Report the collision to your insurer.
+TRAVEL	路况天气	merge / yield	v.	并线/让行	北美路标用词	Yield to traffic on the main road.
+TRAVEL	机场航班	layover / stopover	n.	经停	行程安排	We have a three-hour layover in Chicago.
+TRAVEL	机场航班	overbooked	adj.	超售的	航班投诉高频	The flight was overbooked.
+TRAVEL	机场航班	declare	v.	申报	海关用词	You must declare goods over $800.
+TRAVEL	机场航班	duty-free	adj.	免税的	机场购物	Duty-free limits apply on return.
+TRAVEL	机场航班	departure	n.	出发；离港	departures 出发大厅；反义 arrival	Departures are on the upper level.
+TRAVEL	机场航班	arrival	n.	到达	arrivals hall；on arrival 到达时	Please show your ticket on arrival.
+TRAVEL	机场航班	luggage / baggage	n.	行李	都不可数，不说 a luggage；a piece of luggage	You can bring one piece of luggage on board.
+TRAVEL	机场航班	passport	n.	护照	renew a passport	Your passport must be valid for six months.
+TRAVEL	机场航班	visa	n.	签证	apply for a visa；work / study visa	Do I need a visa to visit the US?
+TRAVEL	机场航班	terminal	n.	航站楼；终点站	Terminal 1 / bus terminal	International flights leave from Terminal 3.
+TRAVEL	机场航班	cancellation	n.	取消	cancellation fee；北美也写 cancelation	There is no fee for cancellation within 24 hours.
+TRAVEL	机场航班	passenger	n.	乘客	passengers are reminded that…	All passengers must show ID.
+TRAVEL	住宿旅游	amenities	n.	配套设施	酒店与公寓广告	The hotel amenities include a pool and gym.
+TRAVEL	住宿旅游	deposit / balance	n.	定金/尾款	预订付款	A deposit is due now and the balance on arrival.
+TRAVEL	住宿旅游	campground / campsite	n.	营地	夏季热门活动	Campsites book up months in advance.
+TRAVEL	住宿旅游	wildlife	n.	野生动物	不可数，户外提示常见	Do not feed the wildlife.
+TRAVEL	通勤出行	commuter	n.	通勤者	城市议题	Commuters face longer travel times.
+TRAVEL	通勤出行	ride-hailing	n.	网约车	Uber 类服务的正式说法	Ride-hailing has changed urban transport.
+TRAVEL	出行计划	destination	n.	目的地	tourist destination	What is your final destination?
+TRAVEL	出行计划	reservation	n.	预订	make a reservation；北美订餐厅常说	I'd like to make a reservation for four.
+TRAVEL	出行计划	hostel	n.	青年旅舍	youth hostel；对比 hotel	We stayed in a hostel to save money.
+TRAVEL	出行计划	sightseeing	n.	观光	go sightseeing	We spent the day sightseeing in Rome.
+TRAVEL	出行计划	excursion	n.	短途游览	day excursion；比 trip 正式	The hotel offers excursions to the falls.
+TRAVEL	出行计划	souvenir	n.	纪念品	读 /ˌsuːvəˈnɪr/	I bought a souvenir for my sister.
+TRAVEL	道路交通	congestion	n.	拥堵	traffic congestion；congested 拥挤的	Congestion is worst between 7 and 9 a.m.
+TRAVEL	道路交通	pedestrian	n.	行人	pedestrian crossing 人行横道	Drivers must stop for pedestrians.
+TRAVEL	道路交通	cyclist	n.	骑自行车的人	bike lane 自行车道	Cyclists must wear a helmet.
+TRAVEL	道路交通	vehicle	n.	车辆	读 /ˈviːəkəl/，h 不发音	Please do not leave your vehicle unattended.
+TRAVEL	道路交通	highway	n.	公路；高速公路	公路；美式 highway / freeway，英式 motorway	Traffic on the highway was very slow.
+TRAVEL	道路交通	toll	n.	通行费	toll road / bridge	There is a toll to cross the bridge.
+TRAVEL	道路交通	rental	n./adj.	租赁（的）	car rental；rental property	We picked up the rental car at the airport.
+EDU	学制	kindergarten	n.	幼儿园	公立教育的起点	Kindergarten starts at age five.
+EDU	学制	grade	n.	年级	美式 Grade 9，英式 Year 9	She is in Grade 11 this year.
+EDU	学制	diploma / certificate / degree	n.	文凭/证书/学位	学历常见三种：文凭、证书、学位	A two-year diploma can lead to a good job.
+EDU	学制	convocation / graduation	n.	毕业典礼	convocation 多指大学毕业典礼	Convocation is held in June.
+EDU	课程学习	lecture / seminar / tutorial	n.	大课/研讨课/辅导课	三种课型	Tutorials are limited to fifteen students.
+EDU	课程学习	attendance	n.	出勤	评分组成	Attendance counts for ten percent of the grade.
+EDU	课程学习	presentation	n.	演讲/展示	课堂任务	Each student gives a ten-minute presentation.
+EDU	课程学习	plagiarism	n.	抄袭	学术诚信，后果严重	Plagiarism can result in a failing grade.
+EDU	课程学习	draft / revise	n./v.	草稿/修改	写作流程	I submitted a first draft for feedback.
+EDU	课程学习	pass / fail	v.	通过/挂科	成绩结果	You need 50 percent to pass.
+EDU	课程学习	GPA	n.	平均绩点	升学与申请	A GPA of 3.0 is required for the program.
+EDU	课程学习	registrar	n.	教务处	高校注册处	Contact the registrar about your enrolment.
+EDU	课程学习	essay	n.	论文；文章	write / submit an essay	The essay is due on Friday.
+EDU	课程学习	thesis	n.	学位论文；论点	复数 theses	She is writing her master's thesis.
+EDU	课程学习	textbook	n.	教科书	used textbooks 二手书	Used textbooks are cheaper at the campus store.
+EDU	资助费用	grant	n.	助学金	不用偿还，与 loan 区分	A grant does not have to be repaid.
+EDU	资助费用	work-study	n.	勤工助学	校内打工项目	She has a work-study job in the library.
+EDU	成人培训	workshop / seminar	n.	工作坊/讲座	短期培训	The library runs free job-search workshops.
+EDU	教育议题	literacy / numeracy	n.	读写能力/计算能力	教育评估术语	Literacy rates vary widely across regions.
+EDU	校园人物	lecturer	n.	讲师	北美多说 instructor / professor	The lecturer posted the slides online.
+EDU	校园人物	tutor	n./v.	家教；辅导老师	private tutor；tutoring 辅导	She works as a math tutor.
+EDU	校园人物	undergraduate	n./adj.	本科生（的）	undergrad 口语	He is an undergraduate in engineering.
+EDU	校园人物	postgraduate	n./adj.	研究生（的）	北美多说 graduate student	Postgraduate programs require a bachelor's degree.
+EDU	校园生活	campus	n.	校园	on campus 在校内	Do you live on campus?
+EDU	校园生活	dormitory / dorm	n.	宿舍	大学宿舍也常说 residence	First-year students usually live in a dormitory.
+EDU	校园生活	extracurricular	adj.	课外的	extracurricular activities	She joined several extracurricular clubs.
+EDU	基础教育	daycare	n.	托儿所	托儿所；childcare 泛指照看孩子	Daycare costs are high in big cities.
+SERVICE	预约服务	no-show	n.	爽约	服务业术语	A no-show fee applies after two misses.
+SERVICE	预约服务	waitlist	n.	候补名单	服务紧张时	Put me on the waitlist, please.
+SERVICE	预约服务	reminder	n.	提醒	自动通知	A reminder will be sent 24 hours in advance.
+SERVICE	维修安装	technician	n.	技术员	上门人员	A technician will arrive between nine and noon.
+SERVICE	维修安装	estimate / quote	n.	估价	维修前必问	Can you give me an estimate first?
+SERVICE	维修安装	labour / parts	n.	工时费/零件费	账单构成	The bill includes labour and parts.
+SERVICE	维修安装	installation	n.	安装	服务项目	Installation is included in the price.
+SERVICE	维修安装	on-site / off-site	adj.	上门的/送修的	服务方式	On-site repairs cost more.
+SERVICE	订阅账户	auto-renewal	n.	自动续订	消费陷阱高频	Turn off auto-renewal before the trial ends.
+SERVICE	订阅账户	prorated	adj.	按比例计算的	退款计算方式	You will receive a prorated refund.
+SERVICE	投诉升级	supervisor / manager	n.	主管/经理	投诉升级对象	May I speak with a supervisor?
+SERVICE	投诉升级	unacceptable	adj.	无法接受的	投诉措辞，正式而克制	A three-week delay is simply unacceptable.
+SERVICE	投诉升级	ombudsman	n.	申诉专员	公共与金融机构的申诉专员	The bank ombudsman reviewed the case.
+SERVICE	投诉升级	regulator	n.	监管机构	投诉终极途径	The regulator fined the company.
+SERVICE	投诉	complaint	n.	投诉	make / file a complaint	I would like to make a complaint about the service.
+SERVICE	投诉	complain	v.	投诉；抱怨	complain to sb about sth	Several guests complained about the noise.
+SERVICE	投诉	dissatisfied	adj.	不满意的	be dissatisfied with；投诉信开头常用	I am dissatisfied with the repair work.
+SERVICE	投诉	inconvenience	n.	不便	apologize for any inconvenience	We apologize for any inconvenience caused.
+SERVICE	投诉	malfunction	n./v.	故障	比 break down 正式	The machine malfunctioned twice this week.
+SERVICE	投诉	rude	adj.	粗鲁的	投诉员工态度常用	The staff member was rude to my mother.
+SERVICE	服务沟通	apologize / apologise	v.	道歉	apologize to sb for sth；美式 -ize，英式 -ise	We apologize for the delay.
+SERVICE	服务沟通	resolve	v.	解决	resolve an issue；名词 resolution	We aim to resolve all complaints within 48 hours.
+SERVICE	服务沟通	confirm	v.	确认	confirm a booking	Please confirm your appointment by phone.
+SERVICE	服务沟通	confirmation	n.	确认（函）	confirmation email / number	You will receive a confirmation email shortly.
+SERVICE	服务沟通	cancel	v.	取消	美式过去式 canceled，英式 cancelled	I need to cancel my order.
+SERVICE	服务沟通	courteous	adj.	有礼貌的	表扬信常用；名词 courtesy	The staff were courteous and helpful.
+SERVICE	服务沟通	prompt	adj.	迅速的	prompt reply / service；promptly 副词	Thank you for your prompt response.
+SERVICE	服务沟通	satisfactory	adj.	令人满意的	unsatisfactory 不满意	The repair was not satisfactory.
+CIVIC	三级政府	mayor	n.	市长	市政首长	The mayor announced the budget.
+CIVIC	三级政府	by-election	n.	补选	选举制度	A by-election was called for March.
+CIVIC	公共服务	inspection	n.	检查/验收	建筑与食品安全	The restaurant passed its health inspection.
+CIVIC	公共服务	fine / penalty	n.	罚款	违规后果	The fine for illegal dumping is $500.
+CIVIC	公共服务	appeal	n./v.	上诉/申诉	行政救济	You have 30 days to appeal the decision.
+CIVIC	公共服务	facility	n.	设施；场所	常用复数 facilities；recreation facility	The new sports facility opens in May.
+CIVIC	公共服务	recreation	n.	娱乐；休闲活动	recreation centre 社区活动中心	Swimming lessons are offered at the recreation centre.
+CIVIC	公共服务	announcement	n.	公告；通知	make an announcement	Please listen for announcements.
+CIVIC	公共服务	notice	n.	通知；告示	until further notice 另行通知前	The pool is closed until further notice.
+CIVIC	移民流程	biometrics	n.	生物信息采集	移民流程步骤	You will be asked to provide biometrics.
+CIVIC	社会议题	reconciliation	n.	和解	和解；修复关系	The two sides are working towards reconciliation.
+CIVIC	社会议题	census	n.	人口普查	每五年一次	The census showed rapid growth in the suburbs.
+CIVIC	社会议题	demographic	n./adj.	人口结构（的）	数据议题	Demographic change is reshaping the workforce.
+CIVIC	社会议题	urbanisation	n.	城市化	社会趋势	Urbanisation has accelerated in the past decade.
+CIVIC	社区公民	citizen	n.	公民	senior citizen 老年人	Only citizens can vote in national elections.
+CIVIC	社区公民	resident	n.	居民	permanent resident 永久居民	Residents are invited to a public meeting.
+CIVIC	社区公民	immigrant	n.	移民（移入者）	对比 emigrant 移出者	Many immigrants settle in large cities.
+CIVIC	社区公民	immigration	n.	移民（行为）；入境	immigration office	Immigration helps fill labour shortages.
+CIVIC	社区公民	donate	v.	捐赠	donate to charity；donate blood	You can donate clothes at the drop-off bin.
+CIVIC	社区公民	donation	n.	捐款；捐赠物	make a donation	All donations are tax-deductible.
+CIVIC	政府选举	council	n.	（市）议会	city council；councillor 议员	The city council voted on the new bike lanes.
+CIVIC	政府选举	municipal	adj.	市政的	municipal election / services	Garbage collection is a municipal service.
+CIVIC	政府选举	election	n.	选举	general / local election	The next election is in October.
+CIVIC	政府选举	welfare	n.	福利；社会救济	也说 social assistance	The program supports child welfare.
+TECH	设备故障	freeze / frozen	v./adj.	死机	设备问题	My laptop keeps freezing.
+TECH	设备故障	lag / lagging	n./adj.	卡顿	网络与设备	The video call was lagging badly.
+TECH	设备故障	compatible / compatibility	adj./n.	兼容的/兼容性	软硬件问题	The file is not compatible with older versions.
+TECH	设备故障	charger / adapter	n.	充电器/适配器	日常物品	Can I borrow your charger?
+TECH	网络账户	bandwidth	n.	带宽	网络性能	Video streaming uses a lot of bandwidth.
+TECH	网络账户	username / credentials	n.	用户名/登录凭据	账户术语	Do not share your login credentials.
+TECH	数据隐私	consent	n./v.	同意/授权	隐私法核心概念	Companies must obtain consent before collecting data.
+TECH	数据隐私	encryption	n.	加密	安全技术	The messages are protected by encryption.
+TECH	数据隐私	surveillance	n.	监控	社会议题	Workplace surveillance raises privacy concerns.
+TECH	数据隐私	algorithm	n.	算法	AI 议题基础词	The algorithm decides what you see first.
+TECH	媒体信息	headline	n.	新闻标题	媒体素养	The headline was misleading.
+TECH	媒体信息	fact-check	v./n.	事实核查	媒体议题	Journalists fact-checked the claim.
+TECH	媒体信息	clickbait	n.	标题党	网络现象	Clickbait headlines exaggerate the story.
+TECH	媒体信息	influencer	n.	网红/意见领袖	现代媒体生态	Brands increasingly work with influencers.
+TECH	AI与就业	chatbot	n.	聊天机器人	客服应用	The company replaced its helpline with a chatbot.
+TECH	AI与就业	displace / displacement	v./n.	取代/岗位流失	就业议题	Automation may displace routine jobs.
+TECH	AI与就业	reskilling	n.	技能再培训	就业政策应对	Reskilling programs help displaced workers.
+TECH	AI与就业	productivity	n.	生产率	经济议题	Technology has boosted productivity.
+TECH	AI与就业	e-government	n.	电子政务	公共服务数字化	E-government services reduce waiting times.
+TECH	AI与就业	paperless	adj.	无纸化的	办公与环保	The office went paperless last year.
+TECH	账号安全	password	n.	密码	reset your password	Never share your password with anyone.
+TECH	账号安全	login	n.	登录（信息）	动词词组写成 log in 两个词	I forgot my login details.
+TECH	账号安全	backup	n.	备份	名词一个词，动词 back up 两个词	Always keep a backup of important files.
+TECH	账号安全	cyberbullying	n.	网络霸凌	学校通知、议论话题常见	Schools are taking cyberbullying seriously.
+TECH	设备软件	device	n.	设备	mobile device；electronic devices	Please turn off all devices during the exam.
+TECH	设备软件	software	n.	软件	不可数；对比 hardware	You need to update your software.
+TECH	设备软件	browser	n.	浏览器	web browser	Clear your browser history.
+TECH	设备软件	install	v.	安装	名词 installation	The technician will install the new system.
+TECH	设备软件	update	n./v.	更新	software update；重音名动不同：UPdate (n.) / upDATE (v.)	Restart your phone to finish the update.
+TECH	设备软件	download	v./n.	下载	反义 upload	You can download the form from our website.
+TECH	设备软件	upload	v./n.	上传	upload a file / photo	Please upload a copy of your ID.
+TECH	设备软件	attachment	n.	附件	open an attachment；邮件高频	I couldn't open the attachment.
+TECH	设备软件	router	n.	路由器	北美读 /ˈraʊtər/	Try restarting the router.
+TECH	设备软件	wireless	adj.	无线的	wireless network / headphones	The café offers free wireless internet.
+TECH	设备软件	notification	n.	通知；提醒	push notification；turn off notifications	I get too many notifications on my phone.
+TECH	设备软件	screenshot	n.	截屏	take a screenshot	Please send us a screenshot of the error.
+ENV	日常环保	reusable	adj.	可重复使用的	reusable bag / bottle	Bring a reusable bag to the store.
+ENV	日常环保	disposable	adj.	一次性的	与 reusable 相对	Disposable cups are no longer provided.
+ENV	日常环保	biodegradable	adj.	可生物降解的	产品标签用词	The packaging is fully biodegradable.
+ENV	日常环保	compostable	adj.	可堆肥的	可堆肥的；投进厨余回收	Compostable containers go in the green bin.
+ENV	日常环保	energy-efficient	adj.	节能的	家电与建筑	Energy-efficient appliances lower your electricity bill.
+ENV	日常环保	rebate	n.	返款补贴	返现；节能改造常有补贴	There is a rebate for heat pump installation.
+ENV	气候影响	offset	v./n.	抵消（碳排放）	企业减排手段	Airlines offer carbon offsets.
+ENV	气候影响	drought	n.	干旱	西部省份问题	Prolonged drought affected the harvest.
+ENV	气候影响	permafrost	n.	永久冻土	永久冻土，极地议题	Melting permafrost damages northern roads.
+ENV	自然资源	watershed	n.	流域	水资源管理	The watershed supplies drinking water to the region.
+ENV	自然资源	deforestation	n.	森林砍伐	全球议题	Deforestation threatens biodiversity.
+ENV	自然资源	biodiversity	n.	生物多样性	环境议题高分词	Wetlands support exceptional biodiversity.
+ENV	自然资源	hydroelectricity	n.	水力发电	水力发电	The dam produces hydroelectricity for the region.
+ENV	社区行动	tree-planting	n.	植树	市政倡议	The city funded a tree-planting program.
+ENV	社区行动	grassroots	adj.	草根的	社会运动用词	The campaign began as a grassroots effort.
+ENV	社区行动	stewardship	n.	管护责任	环境与原住民语境高分词	Environmental stewardship is a shared responsibility.
+ENV	环境问题	pollution	n.	污染	air / water pollution；动词 pollute	Air pollution is worse in winter.
+ENV	环境问题	emission	n.	排放（物）	常用复数，carbon emissions	Cars are a major source of emissions.
+ENV	环境问题	flood	n./v.	洪水；淹没	flash flood 山洪	The basement flooded after the storm.
+ENV	环境问题	litter	n./v.	垃圾；乱扔	no littering 禁止乱扔垃圾	There is a fine for littering.
+ENV	环境问题	pesticide	n.	杀虫剂；农药	organic food is grown without pesticides	Many parks have stopped using pesticides.
+ENV	环境保护	renewable	adj.	可再生的	renewable energy；反义 non-renewable	Wind and solar are renewable sources of energy.
+ENV	环境保护	recycle	v.	回收利用	recycling 名词；recycle bin	Please recycle all cans and bottles.
+ENV	环境保护	habitat	n.	栖息地	natural habitat；loss of habitat	Building roads destroys animal habitats.
+ENV	环境保护	endangered	adj.	濒危的	endangered species	The giant panda was once an endangered species.
+ENV	环境保护	ecosystem	n.	生态系统	fragile ecosystem	Plastic waste damages marine ecosystems.
+ENV	环境保护	organic	adj.	有机的	organic food / farming	Organic vegetables are usually more expensive.
+MONEY	房贷债务	equity	n.	房屋净值	房屋净值；理财核心概念	Rising prices increased their home equity.
+MONEY	预算开支	expense	n.	开支；费用	at sb's expense；expenses 报销费用	Living expenses are high in big cities.
+MONEY	预算开支	expenditure	n.	支出（总额）	比 spending 正式，多见于报告	Government expenditure on health has risen.
+MONEY	预算开支	income	n.	收入	household income；low-income family	Rent should not exceed a third of your income.
+MONEY	预算开支	afford	v.	负担得起	can't afford to + V；常与 can 连用	We can't afford a holiday this year.
+MONEY	预算开支	thrifty	adj.	节俭的	褒义；stingy 是贬义的小气	My grandmother was very thrifty.
+MONEY	购物优惠	discount	n./v.	折扣	a 10% discount on all items	Students get a discount with valid ID.
+MONEY	购物优惠	bargain	n./v.	便宜货；讨价还价	a real bargain 很划算	This jacket was a bargain at $30.
+MONEY	购物优惠	voucher	n.	代金券；凭证	gift voucher；北美常说 gift card	You can use this voucher in any of our stores.
+MONEY	购物优惠	coupon	n.	优惠券	北美读 /ˈkuːpɑn/ 或 /ˈkjuːpɑn/	I have a coupon for two dollars off.
+MONEY	购物优惠	pricey	adj.	贵的	口语，同 expensive	That restaurant is a bit pricey.
+MONEY	购物优惠	overpriced	adj.	定价过高的	投诉信常用	The tickets were overpriced for such a short show.
+MONEY	购物优惠	membership	n.	会员资格	membership fee / renew your membership	My gym membership expires next month.
+MONEY	银行账户	transaction	n.	交易	online transaction；transaction fee	The bank charged a fee for each transaction.
+MONEY	银行账户	statement	n.	对账单；声明	bank statement 银行流水	You can view your statement online.
+MONEY	银行账户	loan	n.	贷款	take out a loan；student loan	She took out a loan to buy a car.
+MONEY	银行账户	interest	n.	利息；兴趣	interest rate 利率	The interest rate on this account is low.
+MONEY	银行账户	currency	n.	货币	foreign currency；exchange currency	What currency do they use in Japan?
+MONEY	银行账户	debit	n./adj.	借记；扣款	debit card 借记卡；日常刷卡常用	Can I pay by debit?
+MONEY	银行账户	savings	n.	存款；积蓄	常用复数，savings account	She spent all her savings on the trip.
+MONEY	银行账户	withdrawal	n.	取款	动词 withdraw	There is a daily withdrawal limit.
+ABSTR	问题解决	delegate	v.	授权分派	管理与效率	Good managers delegate effectively.
+ABSTR	社会制度	constituency	n.	选民群体/选区	政治语境	The policy appeals to a specific constituency.
+HEALTH	科室人员	dietitian	n.	注册营养师	营养师，受监管职业	A dietitian helped me plan my meals.
+HEALTH	就医用药	clinic	n.	诊所	walk-in clinic 免预约诊所	You can go to a walk-in clinic without an appointment.
+HEALTH	就医用药	checkup	n.	体检	也写作 check-up；annual checkup	I go for a checkup once a year.
+HEALTH	就医用药	medication	n.	药物	be on medication 正在服药	Are you currently taking any medication?
+HEALTH	就医用药	painkiller	n.	止痛药	over-the-counter painkillers 非处方止痛药	Take a painkiller if the pain gets worse.
+HEALTH	就医用药	antibiotic	n.	抗生素	常用复数，a course of antibiotics	Antibiotics don't work against viruses.
+HEALTH	就医用药	dental	adj.	牙齿的	dental care / dental insurance	Dental care is not covered by the public plan.
+HEALTH	就医用药	vaccine	n.	疫苗	get a vaccine；flu vaccine	The flu vaccine is free for seniors.
+HEALTH	就医用药	physician	n.	内科医生；医师	family physician 家庭医生，比 doctor 正式	Ask your physician before changing your medication.
+HEALTH	就医用药	therapy	n.	治疗；疗法	physical therapy；therapist 治疗师	She needs therapy after the accident.
+HEALTH	身体部位	chest	n.	胸部；箱子	chest pain	I have a pain in my chest.
+HEALTH	身体部位	stomach	n.	胃；腹部	stomach ache 胃疼	My stomach hurts.
+HEALTH	身体部位	throat	n.	喉咙	sore throat	I have a sore throat.
+HEALTH	身体部位	shoulder	n.	肩膀	shoulder to shoulder	My shoulder is stiff.
+HEALTH	身体部位	heel	n.	脚后跟；鞋跟	high heels 高跟鞋	I hurt my heel running.
+HEALTH	身体部位	thumb	n.	拇指	b 不发音	He cut his thumb.
+HEALTH	身体部位	skin	n.	皮肤	dry skin	Protect your skin from the sun.
+HEALTH	身体部位	bone	n.	骨头	broken bone	He broke a bone in his foot.
+HEALTH	身体部位	blood	n.	血	blood pressure 血压	The nurse took a blood sample.
+HEALTH	身体部位	brain	n.	大脑	brainstorm 头脑风暴	Sleep is important for your brain.
+HEALTH	身体部位	heart	n.	心脏	heart attack 心脏病发作	Exercise is good for your heart.
+HEALTH	身体部位	lung	n.	肺	lung cancer	Smoking damages your lungs.
+HEALTH	身体部位	liver	n.	肝	liver disease	Alcohol can damage the liver.
+HEALTH	身体部位	kidney	n.	肾	kidney stones	He needs a kidney transplant.
+HEALTH	身体部位	tooth	n.	牙齿	复数 teeth	I need to get a tooth fixed.
+HEALTH	身体部位	eyesight	n.	视力	poor eyesight	My eyesight is getting worse.
+HEALTH	身体部位	hearing	n.	听力；听证会	hearing aid 助听器	He has poor hearing.
+HEALTH	身体部位	breath	n.	呼吸	名词；动词 breathe	Take a deep breath.
+HEALTH	身体部位	breathe	v.	呼吸	动词，结尾有 e	Breathe in slowly.
+HEALTH	身体部位	sweat	n./v.	汗；出汗	sweaty 出汗的	I was sweating after the run.
+HEALTH	身体部位	weight	n.	体重；重量	lose / gain weight	I've lost some weight.
+HEALTH	身体部位	height	n.	身高；高度	读 /haɪt/，无 th	What is your height?
+HEALTH	身体部位	disabled	adj.	残疾的	people with disabilities 更礼貌	The building has disabled access.
+HEALTH	身体部位	pregnant	adj.	怀孕的	名词 pregnancy	She is six months pregnant.
+HEALTH	身体部位	heal	v.	愈合；治愈	与 heel 同音	The wound is healing well.
+HEALTH	身体部位	cure	n./v.	治愈；疗法	a cure for cancer	There is no cure for the common cold.
+HEALTH	身体部位	treat	v./n.	治疗；对待；款待	treatment 治疗	The doctor treated her for a burn.
+HEALTH	身体部位	pill	n.	药片	sleeping pill	Take one pill twice a day.
+HEALTH	身体部位	tablet	n.	药片；平板电脑	take a tablet	Take two tablets after meals.
+HEALTH	身体部位	ointment	n.	药膏	apply ointment	Apply the ointment twice a day.
+HEALTH	身体部位	exercise	n./v.	锻炼；练习	regular exercise	Regular exercise keeps you healthy.
+HEALTH	身体部位	workout	n.	锻炼	名词一个词；动词 work out	I do a 30-minute workout every day.
+HEALTH	身体部位	calorie	n.	卡路里	low-calorie	This drink is low in calories.
+HEALTH	身体部位	protein	n.	蛋白质	ei 读 /iː/	Eggs are rich in protein.
+HEALTH	身体部位	vitamin	n.	维生素	美式 VY-ta-min，英式 VIT-a-min	Oranges are full of vitamin C.
+LIFE	休闲娱乐	leisure	n.	闲暇；休闲	leisure time / activities；北美读 /ˈliːʒər/	What do you do in your leisure time?
+LIFE	休闲娱乐	hobby	n.	爱好	take up a hobby 培养爱好	Gardening is my favourite hobby.
+LIFE	休闲娱乐	gym	n.	健身房	go to the gym；gym membership	I go to the gym three times a week.
+LIFE	休闲娱乐	venue	n.	（活动）场地	wedding / concert venue	The venue has changed to the main hall.
+LIFE	休闲娱乐	concert	n.	音乐会	go to a concert	We got tickets for the concert on Saturday.
+LIFE	休闲娱乐	exhibition	n.	展览	art exhibition；动词 exhibit	The exhibition runs until the end of May.
+LIFE	休闲娱乐	gallery	n.	美术馆；画廊	art gallery	The art gallery is free on Thursday evenings.
+LIFE	休闲娱乐	museum	n.	博物馆	读 /mjuˈziːəm/	The museum is closed on Mondays.
+LIFE	休闲娱乐	admission	n.	入场（费）；录取	free admission；admission to university	Admission is free for children under five.
+LIFE	休闲娱乐	festival	n.	节日；文化节	music / food festival	The city holds a jazz festival every summer.
+LIFE	休闲娱乐	picnic	n.	野餐	have a picnic in the park	Let's have a picnic if the weather is nice.
+LIFE	休闲娱乐	barbecue	n.	烧烤	缩写 BBQ；北美夏季社交常见	We're having a barbecue on Sunday.
+LIFE	休闲娱乐	camping	n.	露营	go camping；campsite 营地	We go camping every summer.
+LIFE	休闲娱乐	hiking	n.	徒步	go hiking；hiking trail 步道	There are many hiking trails near the city.
+LIFE	休闲娱乐	gardening	n.	园艺	community garden 社区菜园	Gardening helps me relax.
+LIFE	休闲娱乐	audience	n.	观众	集体名词	The audience clapped for five minutes.
+LIFE	休闲娱乐	performance	n.	演出；表现	live performance；job performance	The performance starts at eight.
+LIFE	休闲娱乐	tournament	n.	锦标赛	chess / hockey tournament	Our team won the local hockey tournament.
+LIFE	休闲娱乐	leaflet	n.	传单	英式多说 leaflet，北美多说 flyer	I picked up a leaflet about the event.
+LIFE	休闲娱乐	catalogue	n.	目录；商品目录	美式 catalog	You can order from our online catalogue.
+LIFE	社交邀约	invitation	n.	邀请（函）	accept / decline an invitation	Thank you for the invitation.
+LIFE	社交邀约	occasion	n.	场合；时刻	special occasion；拼写双 c 单 s	We only eat out on special occasions.
+LIFE	社交邀约	anniversary	n.	周年纪念日	wedding anniversary	It's our tenth wedding anniversary.
+LIFE	社交邀约	celebrate	v.	庆祝	名词 celebration	We celebrated her promotion at a restaurant.
+LIFE	社交邀约	RSVP	v./n.	敬请回复	邀请函用语，RSVP by Friday	Please RSVP by the end of the week.
+LIFE	饮食	groceries	n.	食品杂货	常用复数；grocery store 超市	I usually buy groceries on Saturday.
+LIFE	饮食	recipe	n.	食谱	读 /ˈresəpi/，三音节	Can you share the recipe?
+LIFE	饮食	ingredient	n.	原料；配料	list of ingredients	Check the ingredients if you have allergies.
+LIFE	饮食	cuisine	n.	菜系；烹饪	读 /kwɪˈziːn/；Italian cuisine	The restaurant serves Vietnamese cuisine.
+LIFE	饮食	takeout / takeaway	n.	外卖	北美 takeout，英式 takeaway	Let's just order takeout tonight.
+LIFE	饮食	vegetarian	n./adj.	素食者；素食的	vegan 纯素，不吃蛋奶	Are there any vegetarian options?
+LIFE	饮食	leftovers	n.	剩饭菜	常用复数	We had leftovers for lunch.
+LIFE	饮食	appetite	n.	食欲	lose one's appetite	I've lost my appetite since I got sick.
+LIFE	饮食	flour	n.	面粉	与 flower 同音	Mix the flour and eggs.
+LIFE	饮食	dairy	n./adj.	乳制品（的）	dairy products	I'm allergic to dairy.
+LIFE	饮食	grain	n.	谷物；颗粒	whole grains 全谷物	Eat more whole grains.
+LIFE	饮食	snack	n./v.	零食	healthy snack	I had a snack after school.
+LIFE	饮食	dessert	n.	甜点	双 s；对比 desert 沙漠	What's for dessert?
+LIFE	饮食	beverage	n.	饮料	比 drink 正式	Beverages are not included.
+LIFE	饮食	portion	n.	一份；部分	large portions	The portions here are huge.
+LIFE	饮食	menu	n.	菜单	on the menu	Can I see the menu, please?
+LIFE	饮食	bake	v.	烘焙	bakery 面包店	She bakes bread every weekend.
+LIFE	饮食	boil	v.	煮沸	boiled eggs	Boil the water first.
+LIFE	饮食	fry	v.	油炸；煎	fried rice	Fry the onions until golden.
+LIFE	饮食	roast	v./n.	烤	roast chicken	We roasted vegetables for dinner.
+LIFE	饮食	slice	n./v.	片；切片	a slice of bread	Can I have a slice of cake?
+LIFE	饮食	stir	v.	搅拌	stir-fry 炒	Stir the soup slowly.
+LIFE	家务杂事	chore	n.	家务；琐事	household chores；do chores	The kids help with the chores.
+LIFE	家务杂事	errand	n.	差事；跑腿	run errands 办杂事	I have a few errands to run this afternoon.
+LIFE	家务杂事	laundry	n.	要洗的衣服；洗衣房	do the laundry；laundry room	The laundry room is in the basement.
+LIFE	家务杂事	babysitter	n.	临时保姆	babysit 动词	We need a babysitter for Friday night.
+LIFE	日常用品	blanket	n.	毯子	wet blanket 扫兴的人	Take a blanket — it's cold.
+LIFE	日常用品	pillow	n.	枕头	pillowcase 枕套	I need a softer pillow.
+LIFE	日常用品	towel	n.	毛巾	bath towel	Towels are provided at the gym.
+LIFE	日常用品	soap	n.	肥皂	liquid soap	Wash your hands with soap.
+LIFE	日常用品	toothbrush	n.	牙刷	toothpaste 牙膏	Don't forget your toothbrush.
+LIFE	日常用品	mirror	n.	镜子	rear-view mirror 后视镜	Look in the mirror.
+LIFE	日常用品	drawer	n.	抽屉	chest of drawers 五斗柜	The keys are in the top drawer.
+LIFE	日常用品	shelf	n.	架子	复数 shelves	Put the books on the shelf.
+LIFE	日常用品	cupboard	n.	橱柜	p 不发音，读 /ˈkʌbərd/	The plates are in the cupboard.
+LIFE	日常用品	kettle	n.	水壶	boil the kettle	I'll put the kettle on.
+LIFE	日常用品	oven	n.	烤箱	microwave oven	Preheat the oven to 180 degrees.
+LIFE	日常用品	fridge	n.	冰箱	refrigerator 的口语	Put the milk in the fridge.
+LIFE	日常用品	freezer	n.	冷冻柜	动词 freeze	There's ice cream in the freezer.
+LIFE	日常用品	sink	n./v.	水槽；下沉	过去式 sank	The sink is full of dishes.
+LIFE	日常用品	tap	n./v.	水龙头；轻拍	美式 faucet	Turn off the tap.
+LIFE	日常用品	bucket	n.	桶	bucket list 人生愿望清单	Fill the bucket with water.
+LIFE	日常用品	broom	n.	扫帚	sweep the floor with a broom	Where is the broom?
+LIFE	日常用品	scissors	n.	剪刀	复数，a pair of scissors	Can I borrow your scissors?
+LIFE	日常用品	battery	n.	电池	the battery is dead / low	My phone battery is low.
+LIFE	日常用品	plug	n./v.	插头；插上	plug in / unplug	Plug in the charger.
+LIFE	日常用品	switch	n./v.	开关；转换	switch on / off	Switch off the lights when you leave.
+LIFE	日常用品	wallet	n.	钱包	purse 女式钱包	I lost my wallet on the bus.
+LIFE	日常用品	key	n./adj.	钥匙；关键的	key point 要点	I can't find my keys.
+LIFE	日常用品	bin	n.	垃圾桶；箱	recycling bin	Put it in the bin.
+LIFE	日常用品	container	n.	容器；集装箱	food container	Store leftovers in a container.
+LIFE	日常用品	package	n./v.	包裹；包装	= parcel；packaging 包装材料	A package arrived for you.
+LIFE	日常用品	parcel	n.	包裹	英式多用；美式多说 package	I need to send a parcel.
+LIFE	日常用品	envelope	n.	信封	sealed envelope	Put the letter in an envelope.
+LIFE	日常用品	stamp	n./v.	邮票；盖章	postage stamp	How much is a stamp?
+LIFE	服装	clothing	n.	服装（总称）	不可数；clothes 复数	Warm clothing is essential.
+LIFE	服装	jacket	n.	夹克	down jacket 羽绒服	Bring a warm jacket.
+LIFE	服装	sweater	n.	毛衣	英式 jumper	She knitted me a sweater.
+LIFE	服装	boots	n.	靴子	winter boots	You need waterproof boots.
+LIFE	服装	gloves	n.	手套	a pair of gloves	Wear gloves — it's freezing.
+LIFE	服装	scarf	n.	围巾	复数 scarves	She wore a red scarf.
+LIFE	服装	uniform	n.	制服	school uniform	Staff must wear a uniform.
+LIFE	服装	size	n.	尺码	What size…? 问尺码	Do you have this in a smaller size?
+LIFE	服装	fit	v./adj.	合身；健康的	keep fit 保持健康	These shoes don't fit me.
+LIFE	服装	outfit	n.	一套服装	a new outfit	She bought a new outfit for the party.
+LIFE	服装	wardrobe	n.	衣柜；全部衣服	美式 closet	My wardrobe is full.
+GEN	常用动词	appreciate	v.	感激；欣赏	I'd appreciate it if…；后不接 you to do	I really appreciate your help.
+GEN	常用动词	arrange	v.	安排	arrange a meeting / for sb to do	Could you arrange a time to meet?
+GEN	常用动词	assist	v.	协助	比 help 正式，assist sb with sth	Our staff will be happy to assist you.
+GEN	常用动词	require	v.	需要；要求	be required to + V	All visitors are required to sign in.
+GEN	常用动词	provide	v.	提供	provide sb with sth / provide sth for sb	We provide free parking for customers.
+GEN	常用动词	suggest	v.	建议	suggest + V-ing / that sb (should) do，不说 suggest sb to do	I suggest leaving early to avoid traffic.
+GEN	常用动词	approve	v.	批准；赞成	approve of 赞成；名词 approval	The manager approved my leave request.
+GEN	常用动词	notify	v.	（正式）通知	notify sb of sth	Please notify us of any change of address.
+GEN	常用动词	inform	v.	告知	inform sb of / about sth；信件高频	I am writing to inform you of a problem.
+GEN	常用动词	mention	v.	提及	mention sth to sb，不说 mention about	As I mentioned in my last email, the heater is broken.
+GEN	常用动词	maintain	v.	维护；保持	名词 maintenance	The landlord must maintain the property.
+GEN	常用动词	obtain	v.	获得	比 get 正式	You must obtain a permit before building a fence.
+GEN	常用动词	participate	v.	参加	participate in；= take part in	Everyone is welcome to participate.
+GEN	常用动词	contribute	v.	贡献；捐助	contribute to；contribution 名词	Everyone contributed to the gift.
+GEN	常用动词	encourage	v.	鼓励	encourage sb to do；反义 discourage	We encourage residents to recycle.
+GEN	常用动词	prevent	v.	防止	prevent sb from doing	Wash your hands to prevent infection.
+GEN	常用动词	reduce	v.	减少	名词 reduction	We need to reduce our energy use.
+GEN	常用动词	improve	v.	改善	名词 improvement	The new schedule has improved service.
+GEN	常用动词	persuade	v.	说服	persuade sb to do	I persuaded him to see a doctor.
+GEN	常用动词	hesitate	v.	犹豫	信件收尾：Please do not hesitate to contact me	Please don't hesitate to call if you have questions.
+GEN	常用动词	complete	v./adj.	完成；完整的	complete a form 填完表格	Please complete all sections of the form.
+GEN	常用动词	verify	v.	核实	verify your identity	We need to verify your email address.
+GEN	常用动词	proceed	v.	继续进行；前往	proceed to gate 12	Please proceed to the nearest exit.
+GEN	常用动词	attempt	v./n.	尝试	比 try 正式，attempt to do	Do not attempt to repair the device yourself.
+GEN	常用动词	deliver	v.	递送；交付	名词 delivery	Your order will be delivered on Tuesday.
+GEN	常用动词	distribute	v.	分发	名词 distribution	Volunteers will distribute food on Saturday.
+GEN	常用动词	deserve	v.	应得	deserve to do	You deserve a break.
+GEN	常用动词	inquire	v.	询问	英式也拼 enquire；inquire about sth	I am writing to inquire about the position.
+GEN	常用形容词	convenient	adj.	方便的	主语是时间/事物，不说 I am convenient	Would Tuesday be convenient for you?
+GEN	常用形容词	mandatory	adj.	强制的	= compulsory；反义 optional	Attendance at the safety training is mandatory.
+GEN	常用形容词	optional	adj.	可选的	optional extras	The tour is optional.
+GEN	常用形容词	eligible	adj.	有资格的	be eligible for / to do	You may be eligible for a tax refund.
+GEN	常用形容词	essential	adj.	必不可少的	essential services；It is essential that…	Warm clothing is essential in winter.
+GEN	常用形容词	sufficient	adj.	足够的	比 enough 正式；反义 insufficient	There was not sufficient time to finish.
+GEN	常用形容词	urgent	adj.	紧急的	urgent matter；urgently 副词	This is an urgent matter.
+GEN	常用形容词	suitable	adj.	合适的	be suitable for	This apartment is not suitable for pets.
+GEN	常用形容词	appropriate	adj.	恰当的	反义 inappropriate	Please wear appropriate clothing.
+GEN	常用形容词	relevant	adj.	相关的	relevant to；反义 irrelevant	Please attach any relevant documents.
+GEN	常用形容词	accurate	adj.	准确的	名词 accuracy	Make sure your information is accurate.
+GEN	常用形容词	reasonable	adj.	合理的；价格公道的	at a reasonable price	The rent is reasonable for the area.
+GEN	常用形容词	grateful	adj.	感激的	be grateful for sth / to sb；信件高频	I would be grateful if you could reply soon.
+GEN	常用形容词	disappointed	adj.	失望的	be disappointed with / that…	I was disappointed with the service.
+GEN	常用形容词	anxious	adj.	焦虑的；渴望的	anxious about / to do	She is anxious about her exam.
+GEN	常用形容词	confident	adj.	自信的；有把握的	be confident that…	I'm confident we can finish on time.
+GEN	常用形容词	eager	adj.	渴望的	be eager to do	The children were eager to start.
+GEN	常用形容词	familiar	adj.	熟悉的	be familiar with sth / to sb	Are you familiar with this area?
+GEN	常用形容词	generous	adj.	慷慨的	a generous offer	Thank you for your generous donation.
+GEN	常用形容词	considerate	adj.	体贴的	对比 considerable 相当大的	It was very considerate of you to call.
+GEN	常用名词	priority	n.	优先（事项）	top priority；give priority to	Safety is our top priority.
+GEN	常用名词	alternative	n./adj.	替代方案；替代的	an alternative to sth	Is there an alternative route?
+GEN	常用名词	circumstance	n.	情况；环境	常用复数，under no circumstances 绝不	Under the circumstances, we will waive the fee.
+GEN	常用名词	procedure	n.	程序；步骤	follow the procedure；emergency procedures	Please follow the safety procedures.
+GEN	常用名词	consequence	n.	后果	as a consequence 因此	Missing the deadline will have consequences.
+GEN	常用名词	access	n./v.	进入；使用权	have access to；作动词直接带宾语，不加 to	All residents have access to the gym.
+GEN	常用副词	previously	adv.	先前	比 before 正式	As previously discussed, the meeting will be online.
+GEN	常用副词	occasionally	adv.	偶尔	拼写双 c 单 s	I occasionally work from home.
+GEN	常用副词	frequently	adv.	经常	frequently asked questions (FAQ)	The bus runs frequently during the day.
+GEN	常用副词	regularly	adv.	定期地	比 often 更强调固定间隔	Please check your inbox regularly.
+GEN	常用副词	eventually	adv.	最终	不是「事实上」，那是 actually	We eventually found the right address.
+GEN	常用副词	currently	adv.	目前	= at the moment	I am currently living downtown.
+GEN	常用副词	unfortunately	adv.	不幸的是；遗憾地	信件转折开头常用	Unfortunately, the item is out of stock.
+GEN	常用副词	apparently	adv.	看来；据说	传达听来的消息	Apparently, the store is closing next month.
+GEN	常用副词	temporarily	adv.	暂时地	反义 permanently	The office is temporarily closed.
+GEN	常用副词	permanently	adv.	永久地	be permanently closed	The store will close permanently next month.
+GEN	常用副词	accidentally	adv.	意外地；不小心	不要拼成 accidently	I accidentally deleted the file.
+GEN	常用副词	deliberately	adv.	故意地	= on purpose	He deliberately ignored the message.
+VERB	思考判断	analyse / analyze	v.	分析	英式 analyse，北美 analyze；名词 analysis，复数 analyses	We need to analyse the results carefully.
+VERB	思考判断	assume	v.	假定；承担	assume that…；assume responsibility 承担责任	Don't assume everyone knows the rules.
+VERB	思考判断	conclude	v.	得出结论；结束	conclude that…；名词 conclusion	The report concludes that more funding is needed.
+VERB	思考判断	deduce	v.	推断	deduce sth from sth；名词 deduction 也指扣除	From the evidence, we can deduce what happened.
+VERB	思考判断	infer	v.	推断；暗示	infer sth from sth；名词 inference	What can you infer from the passage?
+VERB	思考判断	judge	v./n.	判断；评判；法官	judging by / from… 从……来看	Don't judge people by their appearance.
+VERB	思考判断	perceive	v.	察觉；认为	perceive sb as…；名词 perception	Many people perceive the city as unsafe.
+VERB	思考判断	recognise / recognize	v.	认出；承认	recognise sb / sth；名词 recognition	I didn't recognise her with short hair.
+VERB	思考判断	regard	v./n.	认为；看待；关心	regard A as B；with regard to 关于	Many regard him as the best player.
+VERB	思考判断	reckon	v.	认为；估计	口语，I reckon… = I think…	I reckon it'll rain later.
+VERB	思考判断	speculate	v.	推测；投机	speculate about / on；名词 speculation	Experts speculate that prices will rise.
+VERB	思考判断	suspect	v./n.	怀疑；嫌疑人	suspect that… 认为可能是；doubt 是怀疑不是	I suspect he forgot the meeting.
+VERB	思考判断	wonder	v./n.	想知道；奇迹	I wonder if / whether…	I wonder why the bus is late.
+VERB	思考判断	imagine	v.	想象	imagine + V-ing；名词 imagination	Imagine living without electricity.
+VERB	思考判断	predict	v.	预测	名词 prediction；predictable 可预测的	It is hard to predict the weather here.
+VERB	思考判断	anticipate	v.	预期；预料	比 expect 正式，anticipate + V-ing	We anticipate a large crowd this weekend.
+VERB	思考判断	calculate	v.	计算；估计	名词 calculation；calculator 计算器	Calculate the total cost including tax.
+VERB	思考判断	compare	v.	比较	compare A with / to B；名词 comparison	Compare prices before you buy.
+VERB	思考判断	contrast	v./n.	对比	重音名动不同：CONtrast (n.) / conTRAST (v.)；in contrast	The two reports contrast sharply.
+VERB	思考判断	distinguish	v.	区分；辨别	distinguish A from B / between A and B	Can you distinguish the twins?
+VERB	思考判断	identify	v.	识别；确认	identify with 认同；名词 identification (ID)	Police identified the driver.
+VERB	思考判断	classify	v.	分类	名词 classification	Books are classified by subject.
+VERB	思考判断	define	v.	定义；界定	名词 definition	How would you define success?
+VERB	思考判断	clarify	v.	澄清；阐明	名词 clarification	Could you clarify what you mean?
+VERB	思考判断	comprehend	v.	理解	比 understand 正式；名词 comprehension	He couldn't comprehend the instructions.
+VERB	思考判断	grasp	v./n.	抓住；领会	grasp the meaning / idea	It took me a while to grasp the concept.
+VERB	思考判断	realise / realize	v.	意识到；实现	realise a dream 实现梦想	I didn't realise it was so late.
+VERB	思考判断	reflect	v.	反映；反思	reflect on 反思；名词 reflection	The results reflect our hard work.
+VERB	思考判断	reconsider	v.	重新考虑	reconsider a decision	Please reconsider your decision.
+VERB	思考判断	overlook	v.	忽视；俯瞰	overlook a mistake；a room overlooking the lake	It's easy to overlook small details.
+VERB	思考判断	neglect	v./n.	忽视；疏忽	neglect one's duties；child neglect	Don't neglect your health.
+VERB	思考判断	ignore	v.	忽视；不理睬	名词 ignorance 无知；ignorant 无知的	He ignored my advice.
+VERB	沟通表达	argue	v.	争论；主张	argue with sb about sth；argue that…	They argued about money.
+VERB	沟通表达	assert	v.	断言；坚持	assert that…；assert one's rights	She asserted that she was innocent.
+VERB	沟通表达	announce	v.	宣布	名词 announcement	The company announced record profits.
+VERB	沟通表达	state	v./n.	陈述；状态；州	statement 声明；state-of-the-art 最先进的	Please state your name and address.
+VERB	沟通表达	describe	v.	描述	describe sth to sb，不说 describe me sth	Can you describe the man you saw?
+VERB	沟通表达	explain	v.	解释	explain sth to sb，不说 explain me	Let me explain the rules to you.
+VERB	沟通表达	express	v./adj.	表达；快速的	express delivery 快递；名词 expression	She expressed her thanks to everyone.
+VERB	沟通表达	illustrate	v.	说明；配图	illustrate a point；illustration 插图	This example illustrates the problem.
+VERB	沟通表达	imply	v.	暗示；意味着	对比 infer 推断：说话人 imply，听话人 infer	Are you implying that I'm wrong?
+VERB	沟通表达	convey	v.	传达；运送	convey a message / feeling	Words can't convey how grateful I am.
+VERB	沟通表达	communicate	v.	交流；传达	communicate with sb；名词 communication	We communicate mainly by email.
+VERB	沟通表达	discuss	v.	讨论	及物动词，discuss sth，不加 about	We discussed the plan at lunch.
+VERB	沟通表达	debate	v./n.	辩论；讨论	a heated debate	The issue has been debated for years.
+VERB	沟通表达	criticise / criticize	v.	批评	名词 criticism；critic 评论家	The plan was criticised by residents.
+VERB	沟通表达	praise	v./n.	赞扬	praise sb for sth	The teacher praised her for her effort.
+VERB	沟通表达	admit	v.	承认；准许进入	admit + V-ing / that…；名词 admission	He admitted making a mistake.
+VERB	沟通表达	deny	v.	否认；拒绝给予	deny + V-ing；名词 denial	She denied taking the money.
+VERB	沟通表达	confess	v.	坦白；招供	confess to + n. / V-ing	He confessed to the crime.
+VERB	沟通表达	warn	v.	警告	warn sb of / about sth；warn sb (not) to do	The sign warns drivers of ice.
+VERB	沟通表达	remind	v.	提醒	remind sb of / about sth；remind sb to do	Please remind me to call her.
+VERB	沟通表达	urge	v./n.	敦促；冲动	urge sb to do	Doctors urge people to get vaccinated.
+VERB	沟通表达	insist	v.	坚持	insist on + V-ing；insist that sb (should) do	She insisted on paying for dinner.
+VERB	沟通表达	object	v./n.	反对；物体	v. 重音在后 obJECT；object to + V-ing	Residents objected to the new tower.
+VERB	沟通表达	protest	v./n.	抗议	protest against sth；名词重音在前 PROtest	Students protested against the fee increase.
+VERB	沟通表达	respond	v.	回应；反应	respond to sth；名词 response	Please respond to this email by Friday.
+VERB	沟通表达	reply	v./n.	回复	reply to sb / sth	She hasn't replied to my message.
+VERB	沟通表达	consult	v.	咨询；查阅	consult a doctor / dictionary；consultant 顾问	Consult your doctor before taking this.
+VERB	沟通表达	convince	v.	使确信；说服	convince sb of sth / that…；对比 persuade 偏向说服做事	I'm convinced that he's telling the truth.
+VERB	沟通表达	refuse	v.	拒绝	refuse to do；名词 refusal	He refused to answer the question.
+VERB	沟通表达	reject	v.	拒绝；驳回	reject an offer / application；名词 rejection	My application was rejected.
+VERB	沟通表达	accept	v.	接受	对比 except 除了；名词 acceptance	I'm happy to accept your offer.
+VERB	获得给予	acquire	v.	获得；习得	acquire a skill / language；名词 acquisition	Children acquire language quickly.
+VERB	获得给予	gain	v./n.	获得；增加	gain weight / experience；no pain, no gain	She gained valuable experience abroad.
+VERB	获得给予	earn	v.	挣得；赢得	earn a living；earn respect	He earns about $60,000 a year.
+VERB	获得给予	retain	v.	保留；留住	retain staff / customers；名词 retention	The company struggles to retain good staff.
+VERB	获得给予	possess	v.	拥有	正式；名词 possession	He possesses a rare talent.
+VERB	获得给予	owe	v.	欠	owe sb sth；owing to 由于	I owe you twenty dollars.
+VERB	获得给予	award	v./n.	授予；奖项	award sb sth；对比 reward 回报	She was awarded a scholarship.
+VERB	获得给予	offer	v./n.	提供；提议	offer to do；job offer 录用通知	He offered to drive me home.
+VERB	获得给予	supply	v./n.	供应	supply sb with sth；supply and demand	The farm supplies local restaurants.
+VERB	获得给予	equip	v.	配备	equip sb / sth with；名词 equipment 不可数	The kitchen is equipped with new appliances.
+VERB	获得给予	share	v./n.	分享；份额	share sth with sb；market share	Can I share this table with you?
+VERB	获得给予	trade	v./n.	交易；贸易	trade A for B；international trade	The two countries trade heavily with each other.
+VERB	获得给予	consume	v.	消耗；消费	名词 consumption；consumer 消费者	This car consumes a lot of fuel.
+VERB	获得给予	waste	v./n.	浪费；废物	waste time / money；food waste	Don't waste water.
+VERB	获得给予	save	v.	节省；保存；拯救	save money / time / a file	We're saving for a new house.
+VERB	变化发展	adapt	v.	适应；改编	adapt to sth；名词 adaptation	Newcomers need time to adapt to the climate.
+VERB	变化发展	adjust	v.	调整；适应	adjust to sth；名词 adjustment	You can adjust the seat height.
+VERB	变化发展	alter	v.	改变；修改（衣服）	名词 alteration；与 altar 同音	The plans were altered at the last minute.
+VERB	变化发展	modify	v.	修改	名词 modification	We modified the design after testing.
+VERB	变化发展	transform	v.	彻底改变	transform A into B；名词 transformation	The internet has transformed shopping.
+VERB	变化发展	convert	v.	转换；改装	convert A into B；converter 转换器	They converted the garage into a bedroom.
+VERB	变化发展	replace	v.	替换；取代	replace A with B；名词 replacement	We need to replace the broken window.
+VERB	变化发展	substitute	v./n.	代替（品）	substitute A for B（用 A 替 B）	You can substitute honey for sugar.
+VERB	变化发展	expand	v.	扩大；扩张	名词 expansion	The company plans to expand overseas.
+VERB	变化发展	extend	v.	延长；扩展	extend a deadline / visa；名词 extension	Can I extend my stay by two nights?
+VERB	变化发展	enlarge	v.	放大；扩大	enlarge a photo	The photo was enlarged for the poster.
+VERB	变化发展	shrink	v.	缩小；缩水	过去式 shrank，过去分词 shrunk	My sweater shrank in the wash.
+VERB	变化发展	diminish	v.	减少；减弱	正式，= decrease	His influence has diminished over time.
+VERB	变化发展	boost	v./n.	促进；提高	boost the economy / confidence	The new park boosted local business.
+VERB	变化发展	enhance	v.	提高；增强	enhance quality / performance	Good lighting enhances the room.
+VERB	变化发展	strengthen	v.	加强	-en 后缀把形容词变动词	Exercise strengthens your muscles.
+VERB	变化发展	weaken	v.	削弱	反义 strengthen	The storm weakened overnight.
+VERB	变化发展	intensify	v.	加剧；增强	名词 intensity	The competition has intensified.
+VERB	变化发展	recover	v.	恢复；找回	recover from an illness；名词 recovery	She is recovering from surgery.
+VERB	变化发展	restore	v.	恢复；修复	restore power / an old building	Power was restored after six hours.
+VERB	变化发展	revive	v.	复兴；使复苏	revive the economy；名词 revival	There are efforts to revive the downtown area.
+VERB	变化发展	progress	v./n.	进步；进展	名词不可数，make progress	Work on the bridge is progressing well.
+VERB	变化发展	advance	v./n.	前进；进步；预付	in advance 提前；advanced 高级的	Technology has advanced rapidly.
+VERB	变化发展	flourish	v.	繁荣；茁壮成长	= thrive	Small businesses flourish in this area.
+VERB	变化发展	thrive	v.	兴旺；茁壮成长	thrive on sth 在……中如鱼得水	These plants thrive in sunny spots.
+VERB	变化发展	prosper	v.	繁荣；成功	形容词 prosperous；名词 prosperity	The town prospered during the gold rush.
+VERB	变化发展	collapse	v./n.	倒塌；崩溃	economic collapse	The old bridge collapsed in the storm.
+VERB	变化发展	vanish	v.	消失	= disappear，更突然	The cat vanished without a trace.
+VERB	变化发展	disappear	v.	消失	反义 appear	My keys have disappeared again.
+VERB	变化发展	decay	v./n.	腐烂；衰退	tooth decay 蛀牙；urban decay	Sugar causes tooth decay.
+VERB	变化发展	spread	v./n.	传播；蔓延；涂抹	过去式同形 spread	The fire spread quickly.
+VERB	变化发展	multiply	v.	乘；成倍增加	multiply 3 by 4	Bacteria multiply quickly in warm food.
+VERB	行动处理	handle	v./n.	处理；把手	handle a situation / complaint	She handled the problem very well.
+VERB	行动处理	manage	v.	管理；设法做到	manage to do 设法完成	Did you manage to find a parking spot?
+VERB	行动处理	cope	v.	应付	cope with sth	How do you cope with stress?
+VERB	行动处理	deal	v./n.	处理；交易	deal with 处理；a good deal 划算	It's a great deal at that price.
+VERB	行动处理	solve	v.	解决	solve a problem；名词 solution	We solved the problem together.
+VERB	行动处理	settle	v.	解决；定居	settle a dispute；settle in 安顿下来	They settled in a small town by the sea.
+VERB	行动处理	operate	v.	操作；运营；做手术	operate on sb 给某人做手术	Only trained staff may operate this machine.
+VERB	行动处理	conduct	v./n.	进行；指挥；行为	conduct a survey；名词重音在前 CONduct	We conducted a survey of residents.
+VERB	行动处理	perform	v.	表演；执行	perform a task；名词 performance	The surgery was performed successfully.
+VERB	行动处理	undertake	v.	承担；着手做	undertake a project	The city undertook a major renovation.
+VERB	行动处理	pursue	v.	追求；从事	pursue a career / degree；名词 pursuit	She is pursuing a degree in nursing.
+VERB	行动处理	accomplish	v.	完成；实现	名词 accomplishment 成就	We accomplished a lot this week.
+VERB	行动处理	fulfil / fulfill	v.	履行；实现	英式 fulfil，北美 fulfill；fulfil a promise	He fulfilled his dream of becoming a pilot.
+VERB	行动处理	attain	v.	达到；获得	attain a goal / level	Few students attain perfect scores.
+VERB	行动处理	launch	v./n.	发起；推出；发射	launch a product / campaign	The company launched a new app.
+VERB	行动处理	initiate	v.	发起；开始	名词 initiative 倡议；主动性	The city initiated a recycling program.
+VERB	行动处理	commence	v.	开始	正式，常见于通知：Classes commence on…	The ceremony will commence at 10 a.m.
+VERB	行动处理	terminate	v.	终止	terminate a contract；名词 termination	The contract was terminated early.
+VERB	行动处理	cease	v.	停止	正式，cease to exist / cease operations	The factory ceased production in 2020.
+VERB	行动处理	quit	v.	辞职；戒掉	quit + V-ing；过去式 quit	He quit smoking last year.
+VERB	行动处理	abandon	v.	放弃；抛弃	abandon a plan / car	They abandoned the project due to cost.
+VERB	行动处理	rush	v./n.	匆忙；冲	rush hour 高峰期；in a rush	Don't rush — we have plenty of time.
+VERB	行动处理	struggle	v./n.	挣扎；努力	struggle with / to do	Many families struggle to pay rent.
+VERB	行动处理	strive	v.	努力；奋斗	strive for / to do；过去式 strove	We strive to provide the best service.
+VERB	行动处理	cooperate	v.	合作	cooperate with sb；名词 cooperation	Please cooperate with the investigation.
+VERB	行动处理	compete	v.	竞争；比赛	compete with / against；名词 competition	Small shops can't compete with big chains.
+VERB	行动处理	engage	v.	参与；吸引；订婚	engage in an activity；be engaged 订婚	Students engage in group discussions.
+VERB	行动处理	involve	v.	涉及；使参与	involve + V-ing；be involved in	The job involves a lot of travel.
+VERB	行动处理	support	v./n.	支持；供养	support a family	My parents supported me through school.
+VERB	行动处理	rely	v.	依赖；信赖	rely on sb / sth；形容词 reliable	You can rely on me.
+VERB	行动处理	depend	v.	依靠；取决于	depend on；It depends. 看情况	It depends on the weather.
+VERB	行动处理	trust	v./n.	信任	trust sb with sth	I trust her completely.
+VERB	影响控制	influence	v./n.	影响	influence sb / sth；have an influence on	Parents influence their children's habits.
+VERB	影响控制	impact	v./n.	影响；冲击	have an impact on；作动词多见于北美	The closure will impact many families.
+VERB	影响控制	dominate	v.	支配；占主导	形容词 dominant	A few companies dominate the market.
+VERB	影响控制	control	v./n.	控制	under control；过去式 controlled	The fire is now under control.
+VERB	影响控制	restrict	v.	限制	restrict sth to…；名词 restriction	Parking is restricted to residents.
+VERB	影响控制	limit	v./n.	限制；极限	speed limit；limited 有限的	We limit each customer to two items.
+VERB	影响控制	constrain	v.	约束；限制	名词 constraint 约束条件	We are constrained by time and money.
+VERB	影响控制	prohibit	v.	禁止	be prohibited；prohibit sb from doing	Smoking is prohibited in this building.
+VERB	影响控制	forbid	v.	禁止	forbid sb to do；过去式 forbade，过去分词 forbidden	My parents forbade me to go.
+VERB	影响控制	ban	v./n.	禁止；禁令	ban sth；a ban on sth	The city banned plastic bags.
+VERB	影响控制	allow	v.	允许	allow sb to do；allow for 考虑到	Dogs are not allowed in the store.
+VERB	影响控制	enable	v.	使能够	enable sb to do	The grant enabled her to study abroad.
+VERB	影响控制	protect	v.	保护	protect sb from / against sth	Sunscreen protects your skin from UV rays.
+VERB	影响控制	defend	v.	保卫；辩护	defend oneself；defend a thesis 答辩	He defended his decision.
+VERB	影响控制	preserve	v.	保存；保护	preserve history / food；名词 preservation	We must preserve old buildings.
+VERB	影响控制	sustain	v.	维持；遭受	sustain growth / an injury	He sustained minor injuries in the crash.
+VERB	影响控制	threaten	v.	威胁	threaten to do；名词 threat	Climate change threatens many species.
+VERB	影响控制	endanger	v.	危及	形容词 endangered 濒危的	Speeding endangers other drivers.
+VERB	影响控制	harm	v./n.	伤害	do harm to；harmful 有害的	Smoking harms your health.
+VERB	影响控制	damage	v./n.	损坏	名词不可数，do damage to；复数 damages 赔偿金	The storm damaged several homes.
+VERB	影响控制	destroy	v.	摧毁	名词 destruction	The fire destroyed the old barn.
+VERB	影响控制	ruin	v./n.	毁掉；废墟	ruin the surprise / one's day	The rain ruined our picnic.
+VERB	影响控制	injure	v.	伤害；使受伤	be injured in an accident	Two people were injured in the crash.
+VERB	影响控制	rescue	v./n.	营救	rescue sb from sth	Firefighters rescued the family.
+VERB	影响控制	survive	v.	幸存；挺过	survive a crash；名词 survival	Only a few trees survived the fire.
+VERB	影响控制	resist	v.	抵抗；忍住	resist + V-ing；名词 resistance	I couldn't resist eating the cake.
+VERB	影响控制	avoid	v.	避免	avoid + V-ing，不接 to do	Avoid driving during rush hour.
+VERB	影响控制	escape	v./n.	逃脱	escape from；fire escape 消防通道	The dog escaped from the yard.
+VERB	移动位置	transport	v./n.	运输	名词重音在前 TRANSport；public transport	The goods are transported by truck.
+VERB	移动位置	migrate	v.	迁徙；移居	名词 migration；migrant 移民	Birds migrate south for the winter.
+VERB	移动位置	locate	v.	找到位置；坐落	be located in…；名词 location	The office is located downtown.
+VERB	移动位置	approach	v./n.	接近；方法	approach sth（不加 to）；a new approach to…	Winter is approaching.
+VERB	移动位置	depart	v.	离开；出发	正式，名词 departure	The train departs at 9:15.
+VERB	移动位置	wander	v.	闲逛；走神	wander around；对比 wonder 想知道	We wandered around the market.
+VERB	移动位置	chase	v./n.	追赶；追求	chase a dream	The dog chased the ball.
+VERB	移动位置	attach	v.	附上；连接	attach A to B；名词 attachment 附件	Please attach a copy of your ID.
+VERB	移动位置	connect	v.	连接；联系	connect A to / with B；名词 connection	Connect your phone to the Wi-Fi.
+VERB	移动位置	link	v./n.	连接；链接	link A to B；click the link	Smoking is linked to lung cancer.
+VERB	移动位置	combine	v.	结合；合并	combine A with B；名词 combination	Combine the flour and sugar.
+VERB	移动位置	divide	v.	分开；除	divide A into B；名词 division	Divide the class into four groups.
+VERB	移动位置	split	v./n.	分开；分摊	split the bill 分账；过去式 split	Let's split the bill.
+VERB	移动位置	gather	v.	聚集；收集	gather information / around	A crowd gathered outside.
+VERB	移动位置	collect	v.	收集；领取	collect a parcel 取包裹；名词 collection	You can collect your order in store.
+VERB	移动位置	assemble	v.	组装；集合	assemble furniture；名词 assembly	The desk is easy to assemble.
+VERB	移动位置	scatter	v.	撒；使分散	scattered showers 零星阵雨	Toys were scattered across the floor.
+VERB	建造创造	construct	v.	建造；构建	名词 construction	The bridge was constructed in 1932.
+VERB	建造创造	establish	v.	建立；确立	establish a business / facts；名词 establishment	The school was established in 1890.
+VERB	建造创造	found	v.	创立	与 find 的过去式同形，但是独立动词；founder 创始人	The company was founded in 1999.
+VERB	建造创造	create	v.	创造	名词 creation；creative 有创意的	The project will create 500 jobs.
+VERB	建造创造	invent	v.	发明	名词 invention；invent 原本没有的，discover 原本存在的	Who invented the telephone?
+VERB	建造创造	discover	v.	发现	名词 discovery	Scientists discovered a new species.
+VERB	建造创造	generate	v.	产生；发电	generate electricity / income	Wind turbines generate clean energy.
+VERB	建造创造	manufacture	v./n.	制造	manufacturer 制造商	The factory manufactures car parts.
+VERB	建造创造	compose	v.	组成；作曲；撰写	be composed of 由……组成；composer 作曲家	Water is composed of hydrogen and oxygen.
+VERB	建造创造	publish	v.	出版；发布	名词 publication；publisher 出版商	Her first novel was published last year.
+VERB	建造创造	broadcast	v./n.	广播；播出	过去式同形 broadcast	The game will be broadcast live.
+VERB	建造创造	prepare	v.	准备	prepare for sth；名词 preparation	We need to prepare for the storm.
+VERB	建造创造	demolish	v.	拆除	名词 demolition	The old mall will be demolished.
+VERB	情感态度	admire	v.	钦佩；欣赏	admire sb for sth；名词 admiration	I admire her courage.
+VERB	情感态度	respect	v./n.	尊重	respect for sb；respectful 尊重人的	We respect each other's opinions.
+VERB	情感态度	envy	v./n.	羡慕；嫉妒	envious 羡慕的	I envy your patience.
+VERB	情感态度	resent	v.	怨恨；不满	resent + V-ing；名词 resentment	He resented being treated like a child.
+VERB	情感态度	regret	v./n.	后悔；遗憾	regret + V-ing（后悔做过）/ regret to inform（遗憾地通知）	I regret not studying harder.
+VERB	情感态度	tolerate	v.	容忍；耐受	名词 tolerance	We will not tolerate rude behaviour.
+VERB	情感态度	endure	v.	忍受；持续	endure pain；enduring 持久的	They endured a long, cold winter.
+VERB	情感态度	bother	v./n.	打扰；烦扰	Sorry to bother you, but…	Does the noise bother you?
+VERB	情感态度	annoy	v.	使恼怒	annoyed 恼火的；annoying 烦人的	It annoys me when people are late.
+VERB	情感态度	irritate	v.	激怒；刺激（皮肤）	irritated 恼火的；irritating 恼人的	The soap irritated my skin.
+VERB	情感态度	frustrate	v.	使沮丧；阻挠	frustrated 沮丧的；frustrating 令人沮丧的	The long wait frustrated customers.
+VERB	情感态度	disappoint	v.	使失望	disappointed 失望的；disappointing 令人失望的	The film disappointed me.
+VERB	情感态度	embarrass	v.	使尴尬	双 r 双 s；embarrassed / embarrassing	I didn't mean to embarrass you.
+VERB	情感态度	amaze	v.	使惊奇	amazed / amazing	The view amazed us.
+VERB	情感态度	astonish	v.	使震惊	比 surprise 程度强	Her progress astonished her teachers.
+VERB	情感态度	impress	v.	给……深刻印象	be impressed by / with；名词 impression	I was impressed by his English.
+VERB	情感态度	inspire	v.	激励；启发	inspire sb to do；名词 inspiration	Her story inspired many young women.
+VERB	情感态度	motivate	v.	激励	motivate sb to do；名词 motivation	Good managers motivate their teams.
+VERB	情感态度	discourage	v.	使泄气；劝阻	discourage sb from doing	High prices discourage people from buying.
+VERB	情感态度	comfort	v./n.	安慰；舒适	comfortable 舒适的	She comforted her crying son.
+VERB	情感态度	satisfy	v.	满足；使满意	satisfied 满意的；satisfaction 满意	The answer didn't satisfy him.
+VERB	情感态度	offend	v.	冒犯	offensive 冒犯的；offence / offense 犯罪	I hope I didn't offend you.
+VERB	情感态度	insult	v./n.	侮辱	名词重音在前 INsult	He insulted the waiter.
+VERB	情感态度	blame	v./n.	责备；归咎	blame sb for sth；be to blame 该负责	Don't blame yourself for the accident.
+VERB	情感态度	forgive	v.	原谅	forgive sb for sth；过去式 forgave	Please forgive me for being late.
+VERB	情感态度	punish	v.	惩罚	名词 punishment	He was punished for cheating.
+VERB	情感态度	reward	v./n.	奖赏；回报	reward sb for sth；rewarding 有意义的	Hard work is usually rewarded.
+VERB	常用补充	absorb	v.	吸收；吸引注意	be absorbed in 专注于	Plants absorb water through their roots.
+VERB	常用补充	accompany	v.	陪伴；伴随	accompanied by	Children must be accompanied by an adult.
+VERB	常用补充	apply	v.	申请；应用；涂	apply for a job；apply to 适用于	I applied for three jobs this week.
+VERB	常用补充	appoint	v.	任命；约定	名词 appointment	She was appointed manager last year.
+VERB	常用补充	arise	v.	出现；产生	过去式 arose，过去分词 arisen	Problems may arise if we wait.
+VERB	常用补充	assign	v.	分配；指派	名词 assignment 作业	Each student is assigned a tutor.
+VERB	常用补充	associate	v./n.	联系；同事	associate A with B	I associate summer with the beach.
+VERB	常用补充	attract	v.	吸引	形容词 attractive	The festival attracts thousands of visitors.
+VERB	常用补充	bend	v.	弯曲	过去式 bent	Bend your knees when you lift.
+VERB	常用补充	burst	v./n.	爆裂；突然	burst into tears 突然大哭	A pipe burst in the basement.
+VERB	常用补充	capture	v./n.	捕获；捕捉	capture the moment	The photo captures the mood perfectly.
+VERB	常用补充	charge	v./n.	收费；充电；指控	free of charge 免费；in charge of 负责	They charge $5 for delivery.
+VERB	常用补充	cheat	v.	作弊；欺骗	cheat on a test	He was caught cheating in the exam.
+VERB	常用补充	commit	v.	犯（罪）；承诺	commit a crime；commit to 承诺	He committed to finishing the project.
+VERB	常用补充	compensate	v.	补偿	compensate for；名词 compensation	The airline compensated us for the delay.
+VERB	常用补充	concern	v./n.	涉及；担忧	be concerned about	I'm concerned about his health.
+VERB	常用补充	consist	v.	组成	consist of，不用被动	The team consists of five people.
+VERB	常用补充	contain	v.	包含	名词 container 容器	This drink contains a lot of sugar.
+VERB	常用补充	decorate	v.	装饰	名词 decoration	We decorated the room for the party.
+VERB	常用补充	defeat	v./n.	击败	反义 victory	Our team was defeated in the final.
+VERB	常用补充	delete	v.	删除	delete a file	I accidentally deleted the email.
+VERB	常用补充	derive	v.	源于；获得	derive from	Many English words derive from Latin.
+VERB	常用补充	detect	v.	察觉；检测	smoke detector 烟雾报警器	The test can detect the virus early.
+VERB	常用补充	devote	v.	献身于；投入	devote time to sth	She devotes her weekends to volunteering.
+VERB	常用补充	dig	v.	挖	过去式 dug	The dog dug a hole in the garden.
+VERB	常用补充	dispose	v.	处理掉	dispose of；disposable 一次性的	Dispose of batteries safely.
+VERB	常用补充	dissolve	v.	溶解；解散	dissolve in water	Sugar dissolves in hot water.
+VERB	常用补充	eliminate	v.	消除；淘汰	名词 elimination	We aim to eliminate waste.
+VERB	常用补充	embrace	v./n.	拥抱；欣然接受	embrace change	Companies must embrace new technology.
+VERB	常用补充	employ	v.	雇用；使用	employer / employee	The factory employs 300 people.
+VERB	常用补充	encounter	v./n.	遇到	比 meet 正式，多指意外遇到	We encountered a few problems.
+VERB	常用补充	exceed	v.	超过	名词 excess；excessive 过度的	Do not exceed the speed limit.
+VERB	常用补充	exclude	v.	排除	反义 include；excluding 不包括	Prices exclude tax.
+VERB	常用补充	include	v.	包括	including 包括；inclusive 包含的	Breakfast is included in the price.
+VERB	常用补充	exhibit	v./n.	展出；展品	名词 exhibition	Her paintings are exhibited in Paris.
+VERB	常用补充	expose	v.	暴露；揭露	名词 exposure	Don't expose the plant to direct sun.
+VERB	常用补充	fade	v.	褪色；逐渐消失	fade away	The colours faded in the sun.
+VERB	常用补充	float	v.	漂浮	反义 sink	Wood floats on water.
+VERB	常用补充	fold	v.	折叠	unfold 展开	Fold the towels and put them away.
+VERB	常用补充	grab	v.	抓取；匆忙拿	grab a coffee 买杯咖啡	Let's grab lunch together.
+VERB	常用补充	hang	v.	悬挂	过去式 hung；hang out 闲逛	Hang your coat by the door.
+VERB	常用补充	hire	v.	雇用；租用	hire a car（英式）	We're hiring new staff.
+VERB	常用补充	hunt	v./n.	打猎；搜寻	job hunting 找工作	He is busy job hunting.
+VERB	常用补充	interrupt	v.	打断	名词 interruption	Sorry to interrupt, but your taxi is here.
+VERB	常用补充	investigate	v.	调查	名词 investigation	Police are investigating the fire.
+VERB	常用补充	isolate	v.	隔离；孤立	名词 isolation	Sick patients are isolated.
+VERB	常用补充	kneel	v.	跪下	k 不发音；过去式 knelt	She knelt down to tie her shoe.
+VERB	常用补充	lean	v./adj.	倚靠；瘦的	lean against	Don't lean on the door.
+VERB	常用补充	leap	v./n.	跳跃	a leap forward 飞跃	The cat leaped onto the table.
+VERB	常用补充	lift	v./n.	举起；电梯（英式）	give sb a lift 载某人一程	Can you give me a lift home?
+VERB	常用补充	mend	v.	修补	= fix，英式常用	Can you mend this shirt?
+VERB	常用补充	nod	v.	点头	过去式 nodded	She nodded in agreement.
+VERB	常用补充	occupy	v.	占用；占领	be occupied 有人（厕所）	Is this seat occupied?
+VERB	常用补充	occur	v.	发生；想到	过去式 occurred；It occurred to me that…	The accident occurred at 8 a.m.
+VERB	常用补充	overcome	v.	克服	过去式 overcame	She overcame her fear of flying.
+VERB	常用补充	pause	v./n.	暂停	pause the video	Let's pause for a moment.
+VERB	常用补充	pour	v.	倒；倾泻	It's pouring. 下大雨	Pour the milk into the bowl.
+VERB	常用补充	qualify	v.	有资格；合格	qualify for；qualified 合格的	You may qualify for a discount.
+VERB	常用补充	release	v./n.	释放；发布	press release 新闻稿	The film will be released in May.
+VERB	常用补充	remove	v.	移除	名词 removal	Please remove your shoes.
+VERB	常用补充	repeat	v.	重复	名词 repetition	Could you repeat that, please?
+VERB	常用补充	represent	v.	代表；表现	名词 representative 代表	She represents the company at events.
+VERB	常用补充	reveal	v.	揭示	名词 revelation	The survey revealed some surprising results.
+VERB	常用补充	seek	v.	寻求	过去式 sought；seek advice	You should seek medical advice.
+VERB	常用补充	select	v.	选择	名词 selection	Select an option from the menu.
+VERB	常用补充	shake	v.	摇动	过去式 shook；shake hands 握手	Shake the bottle before use.
+VERB	常用补充	stretch	v./n.	伸展；延伸	stretch before exercise	Stretch your legs every hour.
+VERB	常用补充	swallow	v./n.	吞咽；燕子	swallow a pill	It's hard to swallow this tablet.
+VERB	常用补充	swap	v./n.	交换	= exchange，口语	Can we swap seats?
+VERB	常用补充	tear	v./n.	撕；眼泪	撕：/ter/，过去式 tore；眼泪：/tɪr/	Be careful not to tear the paper.
+VERB	常用补充	vary	v.	变化；不同	形容词 various；名词 variety	Prices vary from store to store.
+VERB	常用补充	withstand	v.	承受；抵挡	withstand high winds	The building can withstand earthquakes.
+VERB	常用补充	wrap	v.	包裹	wrap a gift	She wrapped the present in paper.
+ADJ	性格品质	ambitious	adj.	有雄心的	名词 ambition	She is ambitious and hard-working.
+ADJ	性格品质	cautious	adj.	谨慎的	be cautious about；名词 caution	Be cautious when driving on ice.
+ADJ	性格品质	curious	adj.	好奇的	名词 curiosity	Children are naturally curious.
+ADJ	性格品质	decisive	adj.	果断的；决定性的	反义 indecisive	A good leader must be decisive.
+ADJ	性格品质	determined	adj.	坚定的	be determined to do	She was determined to pass the exam.
+ADJ	性格品质	energetic	adj.	精力充沛的	名词 energy	The kids are very energetic in the morning.
+ADJ	性格品质	enthusiastic	adj.	热情的	be enthusiastic about；名词 enthusiasm	He is enthusiastic about his new job.
+ADJ	性格品质	humble	adj.	谦逊的；简陋的	a humble home	He remained humble despite his success.
+ADJ	性格品质	loyal	adj.	忠诚的	名词 loyalty；loyal customers	He is loyal to his friends.
+ADJ	性格品质	mature	adj./v.	成熟的；成熟	反义 immature	She is very mature for her age.
+ADJ	性格品质	modest	adj.	谦虚的；适度的	a modest increase 小幅增长	He is modest about his achievements.
+ADJ	性格品质	optimistic	adj.	乐观的	反义 pessimistic；名词 optimism	I'm optimistic about the future.
+ADJ	性格品质	pessimistic	adj.	悲观的	名词 pessimism	Many people are pessimistic about the economy.
+ADJ	性格品质	patient	adj./n.	耐心的；病人	反义 impatient；名词 patience	Please be patient while we fix the problem.
+ADJ	性格品质	polite	adj.	礼貌的	反义 impolite / rude	It's polite to say thank you.
+ADJ	性格品质	selfish	adj.	自私的	反义 selfless / generous	It was selfish of him to take all the food.
+ADJ	性格品质	sincere	adj.	真诚的	Yours sincerely 信件结尾	Please accept my sincere apologies.
+ADJ	性格品质	stubborn	adj.	固执的	as stubborn as a mule	He's too stubborn to admit he was wrong.
+ADJ	性格品质	talented	adj.	有天赋的	名词 talent	She is a talented musician.
+ADJ	性格品质	tolerant	adj.	宽容的	be tolerant of；名词 tolerance	We should be tolerant of different views.
+ADJ	性格品质	aggressive	adj.	好斗的；激进的	aggressive driving / marketing	The dog became aggressive when scared.
+ADJ	性格品质	arrogant	adj.	傲慢的	名词 arrogance	His arrogant attitude annoyed everyone.
+ADJ	性格品质	cheerful	adj.	快乐的；令人愉快的	a cheerful room	She is always cheerful in the morning.
+ADJ	性格品质	calm	adj./v.	平静的；使平静	calm down 冷静下来	Stay calm and wait for help.
+ADJ	性格品质	shy	adj.	害羞的	be shy of / about	He is too shy to speak in class.
+ADJ	性格品质	creative	adj.	有创造力的	名词 creativity	We need a creative solution.
+ADJ	情绪感受	ashamed	adj.	羞愧的	be ashamed of	He felt ashamed of his behaviour.
+ADJ	情绪感受	awkward	adj.	尴尬的；笨拙的	an awkward silence	There was an awkward pause.
+ADJ	情绪感受	bored	adj.	无聊的（人）	对比 boring 令人无聊的	I'm bored — let's go out.
+ADJ	情绪感受	confused	adj.	困惑的	对比 confusing 令人困惑的	I'm confused about the instructions.
+ADJ	情绪感受	delighted	adj.	高兴的	be delighted to do / with	I'd be delighted to come.
+ADJ	情绪感受	depressed	adj.	沮丧的；抑郁的	名词 depression	He felt depressed after losing his job.
+ADJ	情绪感受	exhausted	adj.	筋疲力尽的	比 tired 程度强	I was exhausted after the long flight.
+ADJ	情绪感受	furious	adj.	狂怒的	名词 fury	She was furious about the mistake.
+ADJ	情绪感受	guilty	adj.	内疚的；有罪的	feel guilty about；be found guilty	I feel guilty about missing her party.
+ADJ	情绪感受	homesick	adj.	想家的	feel homesick	Many students feel homesick at first.
+ADJ	情绪感受	jealous	adj.	嫉妒的	be jealous of	He was jealous of his brother's success.
+ADJ	情绪感受	lonely	adj.	孤独的	对比 alone 独自（中性）	She felt lonely in the new city.
+ADJ	情绪感受	nervous	adj.	紧张的	be nervous about	I always get nervous before interviews.
+ADJ	情绪感受	relieved	adj.	松了口气的	名词 relief	I was relieved to hear the news.
+ADJ	情绪感受	upset	adj./v.	难过的；使不安	过去式 upset	She was upset that nobody called.
+ADJ	情绪感受	thrilled	adj.	极其兴奋的	be thrilled with / to do	We're thrilled with the result.
+ADJ	情绪感受	terrified	adj.	极其害怕的	be terrified of	She is terrified of spiders.
+ADJ	情绪感受	satisfied	adj.	满意的	be satisfied with	Are you satisfied with the service?
+ADJ	情绪感受	proud	adj.	自豪的	be proud of；名词 pride	I'm proud of you.
+ADJ	评价判断	absurd	adj.	荒谬的	= ridiculous	The idea is completely absurd.
+ADJ	评价判断	acceptable	adj.	可接受的	反义 unacceptable	Is this price acceptable to you?
+ADJ	评价判断	attractive	adj.	有吸引力的	an attractive offer	The job offers an attractive salary.
+ADJ	评价判断	awful	adj.	糟糕的	口语，= terrible	The weather was awful.
+ADJ	评价判断	brilliant	adj.	杰出的；极好的	英式口语 Brilliant! 太好了	That's a brilliant idea.
+ADJ	评价判断	crucial	adj.	至关重要的	be crucial to / for	Sleep is crucial for good health.
+ADJ	评价判断	desirable	adj.	令人向往的	反义 undesirable	The area is a desirable place to live.
+ADJ	评价判断	dull	adj.	乏味的；暗淡的	a dull colour / lecture	The lecture was long and dull.
+ADJ	评价判断	excellent	adj.	极好的	评语高频	The food was excellent.
+ADJ	评价判断	fantastic	adj.	极好的	口语	We had a fantastic time.
+ADJ	评价判断	fascinating	adj.	迷人的；极有趣的	be fascinated by 着迷	The museum was fascinating.
+ADJ	评价判断	impressive	adj.	令人印象深刻的	动词 impress	Her English is very impressive.
+ADJ	评价判断	incredible	adj.	难以置信的；极好的	= unbelievable	The view from the top is incredible.
+ADJ	评价判断	marvellous / marvelous	adj.	极好的	英式 marvellous，美式 marvelous	What a marvellous day!
+ADJ	评价判断	meaningful	adj.	有意义的	反义 meaningless	She wants a meaningful career.
+ADJ	评价判断	obvious	adj.	明显的	obviously 显然	The answer is obvious.
+ADJ	评价判断	outstanding	adj.	杰出的；未付的	outstanding balance 未付余额	She is an outstanding student.
+ADJ	评价判断	perfect	adj.	完美的	perfectly 完全地	The weather was perfect for a picnic.
+ADJ	评价判断	pleasant	adj.	令人愉快的	动词 please	We had a pleasant evening.
+ADJ	评价判断	remarkable	adj.	非凡的；值得注意的	动词 remark 评论	She made a remarkable recovery.
+ADJ	评价判断	ridiculous	adj.	荒唐的	比 silly 程度强	That's a ridiculous price for a coffee.
+ADJ	评价判断	superb	adj.	极好的	= excellent	The service was superb.
+ADJ	评价判断	terrible	adj.	可怕的；极差的	terribly 非常	I have a terrible headache.
+ADJ	评价判断	tremendous	adj.	巨大的；极好的	a tremendous effort	The project was a tremendous success.
+ADJ	评价判断	valuable	adj.	贵重的；有价值的	valuables 贵重物品；对比 invaluable 无价的	Thank you for your valuable advice.
+ADJ	评价判断	vital	adj.	至关重要的	be vital to / for	Water is vital for life.
+ADJ	评价判断	worthy	adj.	值得的	be worthy of	The cause is worthy of support.
+ADJ	评价判断	unique	adj.	独特的；唯一的	不说 very unique	Each snowflake is unique.
+ADJ	评价判断	ordinary	adj.	普通的	extraordinary 非凡的	It was just an ordinary day.
+ADJ	评价判断	extraordinary	adj.	非凡的；特别的	读 /ɪkˈstrɔːrdəneri/	She has an extraordinary memory.
+ADJ	评价判断	typical	adj.	典型的	be typical of	This is a typical example.
+ADJ	评价判断	common	adj.	常见的；共同的	in common 共同	Colds are common in winter.
+ADJ	评价判断	rare	adj.	稀有的；（肉）三分熟	rarely 很少	This bird is very rare.
+ADJ	评价判断	popular	adj.	受欢迎的	be popular with / among	The café is popular with students.
+ADJ	评价判断	famous	adj.	著名的	be famous for	The city is famous for its food.
+ADJ	评价判断	precious	adj.	珍贵的	precious time / metals	Time with family is precious.
+ADJ	评价判断	serious	adj.	严重的；认真的	Are you serious? 你当真？	This is a serious problem.
+ADJ	评价判断	severe	adj.	严重的；严厉的	severe weather / pain	Severe weather is expected tonight.
+ADJ	评价判断	harsh	adj.	严酷的；刺耳的	harsh winter / criticism	The winters here are harsh.
+ADJ	评价判断	strict	adj.	严格的	be strict with sb	My parents were very strict.
+ADJ	评价判断	fair	adj.	公平的；尚可的	反义 unfair；与 fare 同音	It's not fair to blame her.
+ADJ	评价判断	equal	adj./v.	平等的；等于	名词 equality	All citizens are equal before the law.
+ADJ	评价判断	correct	adj./v.	正确的；纠正	反义 incorrect	Is this the correct address?
+ADJ	评价判断	precise	adj.	精确的	precisely 恰恰；名词 precision	Please give precise measurements.
+ADJ	评价判断	false	adj.	错误的；假的	false alarm 虚惊	The rumour turned out to be false.
+ADJ	评价判断	fake	adj./n.	假的；赝品	fake news	The bag turned out to be fake.
+ADJ	评价判断	legal	adj.	合法的；法律的	反义 illegal	Is it legal to park here?
+ADJ	评价判断	illegal	adj.	非法的	illegal parking	Selling alcohol to minors is illegal.
+ADJ	评价判断	official	adj./n.	官方的；官员	officially 正式地	English is the official language.
+ADJ	评价判断	formal	adj.	正式的	反义 informal；formality 手续	Wear formal clothes to the interview.
+ADJ	评价判断	informal	adj.	非正式的	informal email / meeting	It was an informal meeting.
+ADJ	状态性质	ancient	adj.	古代的；古老的	ancient history	We visited an ancient temple.
+ADJ	状态性质	modern	adj.	现代的	modernize 使现代化	The kitchen has modern appliances.
+ADJ	状态性质	contemporary	adj./n.	当代的；同代人	contemporary art	The gallery shows contemporary art.
+ADJ	状态性质	current	adj./n.	当前的；水流	current affairs 时事	What is your current address?
+ADJ	状态性质	recent	adj.	最近的	recently 最近	In recent years, prices have risen.
+ADJ	状态性质	former	adj.	以前的；前者	反义 latter 后者	He is a former teacher.
+ADJ	状态性质	latter	adj./n.	后者；后半的	the former… the latter…	Of the two options, I prefer the latter.
+ADJ	状态性质	previous	adj.	先前的	previous experience	Previous experience is not required.
+ADJ	状态性质	initial	adj./n.	最初的；首字母	initially 起初	Our initial plan failed.
+ADJ	状态性质	final	adj.	最后的	finally 终于	This is your final warning.
+ADJ	状态性质	annual	adj.	每年的	annually 每年	The annual fee is $99.
+ADJ	状态性质	daily	adj./adv.	每日的	daily routine	Exercise is part of my daily routine.
+ADJ	状态性质	weekly	adj./adv.	每周的	weekly meeting	We have a weekly team meeting.
+ADJ	状态性质	monthly	adj./adv.	每月的	monthly payment	Rent is paid monthly.
+ADJ	状态性质	constant	adj.	持续的；不变的	constantly 不断地	The baby needs constant care.
+ADJ	状态性质	continuous	adj.	连续不断的	对比 continual 频繁反复的	There was continuous rain for three days.
+ADJ	状态性质	frequent	adj.	频繁的	frequency 频率	He is a frequent visitor.
+ADJ	状态性质	occasional	adj.	偶尔的	occasionally 偶尔	We have the occasional power cut.
+ADJ	状态性质	regular	adj.	定期的；规则的	regular customer 常客	He is a regular customer here.
+ADJ	状态性质	sudden	adj.	突然的	all of a sudden 突然	There was a sudden change in the weather.
+ADJ	状态性质	gradual	adj.	逐渐的	gradually 逐渐地	There has been a gradual improvement.
+ADJ	状态性质	rapid	adj.	迅速的	rapidly 迅速地	The city has seen rapid growth.
+ADJ	状态性质	steady	adj.	稳定的；平稳的	steadily 稳步地	She has a steady job.
+ADJ	状态性质	stable	adj.	稳定的	名词 stability；反义 unstable	The patient is in stable condition.
+ADJ	状态性质	vast	adj.	巨大的；广阔的	a vast majority 绝大多数	The vast majority agreed.
+ADJ	状态性质	enormous	adj.	巨大的	= huge	They live in an enormous house.
+ADJ	状态性质	tiny	adj.	极小的	反义 huge	The apartment is tiny.
+ADJ	状态性质	massive	adj.	巨大的；大规模的	a massive increase	There was a massive traffic jam.
+ADJ	状态性质	slight	adj.	轻微的	slightly 稍微	There's a slight problem.
+ADJ	状态性质	major	adj./n.	主要的；专业	major in 主修	Traffic is a major problem here.
+ADJ	状态性质	primary	adj.	主要的；初级的	primary school；primarily 主要地	Safety is our primary concern.
+ADJ	状态性质	complex	adj./n.	复杂的；综合楼	apartment complex 公寓楼群	The problem is more complex than it seems.
+ADJ	状态性质	complicated	adj.	复杂的	口语多用，complicate 动词	The form is very complicated.
+ADJ	状态性质	simple	adj.	简单的	simplify 简化	The rules are simple.
+ADJ	状态性质	straightforward	adj.	直截了当的；简单的	a straightforward process	The application process is straightforward.
+ADJ	状态性质	abstract	adj./n.	抽象的；摘要	反义 concrete	The idea is too abstract.
+ADJ	状态性质	concrete	adj./n.	具体的；混凝土	concrete evidence	Can you give a concrete example?
+ADJ	状态性质	specific	adj.	具体的；特定的	specifically 特别地	Please be more specific.
+ADJ	状态性质	general	adj.	一般的；总的	in general 总体上	In general, people are friendly here.
+ADJ	状态性质	particular	adj.	特定的；挑剔的	in particular 尤其	Is there a particular reason?
+ADJ	状态性质	individual	adj./n.	个人的；个体	individually 单独地	Each student gets individual attention.
+ADJ	状态性质	personal	adj.	个人的；私人的	personally 就我个人而言	This is a personal matter.
+ADJ	状态性质	private	adj.	私人的；私立的	in private 私下	This is a private beach.
+ADJ	状态性质	public	adj./n.	公共的；公众	in public 公开地	The library is open to the public.
+ADJ	状态性质	domestic	adj.	国内的；家庭的	domestic flights / violence	Domestic flights leave from Terminal 1.
+ADJ	状态性质	international	adj.	国际的	internationally	She works for an international company.
+ADJ	状态性质	global	adj.	全球的	globally；globalization 全球化	Climate change is a global problem.
+ADJ	状态性质	local	adj./n.	当地的；本地人	locally	Buy from local farmers.
+ADJ	状态性质	national	adj.	国家的；全国的	national holiday	It's a national holiday today.
+ADJ	状态性质	urban	adj.	城市的	反义 rural	Urban areas are more crowded.
+ADJ	状态性质	rural	adj.	农村的	rural areas	Many young people leave rural areas.
+ADJ	状态性质	remote	adj.	偏远的；远程的	remote work / control	They live in a remote village.
+ADJ	状态性质	crowded	adj.	拥挤的	be crowded with	The bus was very crowded.
+ADJ	状态性质	empty	adj./v.	空的；清空	empty the bin	The streets were empty at night.
+ADJ	状态性质	vacant	adj.	空着的	vacant seat / room；名词 vacancy	Is this seat vacant?
+ADJ	状态性质	fragile	adj.	易碎的；脆弱的	包裹标签：FRAGILE	Handle with care — it's fragile.
+ADJ	状态性质	solid	adj./n.	固体的；结实的	solid evidence	The table is made of solid wood.
+ADJ	状态性质	liquid	adj./n.	液体（的）	liquids at airport security	You can't take liquids over 100 ml.
+ADJ	状态性质	smooth	adj.	光滑的；顺利的	smoothly 顺利地	The flight was smooth.
+ADJ	状态性质	rough	adj.	粗糙的；大致的	a rough estimate 粗略估计	The sea was rough today.
+ADJ	状态性质	sharp	adj.	锋利的；急剧的	sharply 急剧地	Be careful — the knife is sharp.
+ADJ	状态性质	tight	adj.	紧的；紧张的	tight budget / schedule	We're on a tight schedule.
+ADJ	状态性质	narrow	adj./v.	狭窄的；缩小	narrow down 缩小范围	The street is too narrow for trucks.
+ADJ	状态性质	broad	adj.	宽的；广泛的	broadly 大体上	The course covers a broad range of topics.
+ADJ	状态性质	shallow	adj.	浅的；肤浅的	反义 deep	The water is shallow here.
+ADJ	状态性质	dense	adj.	密集的；浓厚的	dense fog / population	The city is very densely populated.
+ADJ	状态性质	fresh	adj.	新鲜的	fresh air / food	We buy fresh vegetables every day.
+ADJ	状态性质	raw	adj.	生的；原始的	raw materials 原材料	Don't eat raw chicken.
+ADJ	状态性质	ripe	adj.	成熟的（果实）	反义 unripe	These bananas are not ripe yet.
+ADJ	状态性质	delicious	adj.	美味的	不说 very delicious 也行，但 absolutely 更自然	The soup was delicious.
+ADJ	状态性质	bitter	adj.	苦的；痛苦的	bitter coffee / experience	The coffee tastes bitter.
+ADJ	状态性质	spicy	adj.	辣的	= hot；spice 香料	I don't like spicy food.
+ADJ	状态性质	humid	adj.	潮湿的	名词 humidity	Summers here are hot and humid.
+ADJ	状态性质	damp	adj.	潮湿的（不舒服）	damp basement / clothes	The basement is always damp.
+ADJ	状态性质	moist	adj.	湿润的（多褒义）	moist cake	Keep the soil moist.
+ADJ	状态性质	mild	adj.	温和的；轻微的	mild winter / symptoms	We had a mild winter this year.
+ADJ	状态性质	freezing	adj.	极冷的	freezing point 冰点	It's freezing outside!
+ADJ	能力可能	capable	adj.	有能力的	be capable of doing	She is capable of running the team.
+ADJ	能力可能	incapable	adj.	无能力的	be incapable of doing	He seemed incapable of saying no.
+ADJ	能力可能	potential	adj./n.	潜在的；潜力	potentially 潜在地	There are potential risks.
+ADJ	能力可能	possible	adj.	可能的	possibly 也许；反义 impossible	Is it possible to change my booking?
+ADJ	能力可能	probable	adj.	很可能的	probably 很可能	It is probable that prices will rise.
+ADJ	能力可能	likely	adj./adv.	很可能的	be likely to do；反义 unlikely	It's likely to rain later.
+ADJ	能力可能	unlikely	adj.	不太可能的	be unlikely to do	He is unlikely to arrive on time.
+ADJ	能力可能	certain	adj.	确定的；某个	certainly 当然	I'm certain I locked the door.
+ADJ	能力可能	uncertain	adj.	不确定的	名词 uncertainty	The future is uncertain.
+ADJ	能力可能	skilled	adj.	熟练的	skilled workers 技术工人	We need skilled workers.
+ADJ	能力可能	experienced	adj.	有经验的	反义 inexperienced	We're looking for an experienced driver.
+ADJ	能力可能	qualified	adj.	有资格的；合格的	be qualified for / to do	She is fully qualified to teach.
+ADJ	能力可能	professional	adj./n.	专业的；专业人士	反义 amateur	You should get professional advice.
+ADJ	能力可能	productive	adj.	富有成效的	名词 productivity	It was a productive meeting.
+ADJ	能力可能	useful	adj.	有用的	反义 useless	This app is really useful.
+ADJ	能力可能	helpful	adj.	有帮助的	反义 unhelpful	The staff were very helpful.
+ADJ	能力可能	harmful	adj.	有害的	be harmful to	Smoking is harmful to your health.
+ADJ	能力可能	dangerous	adj.	危险的	名词 danger	It's dangerous to swim here.
+ADJ	能力可能	safe	adj.	安全的	名词 safety	Is it safe to walk here at night?
+ADJ	能力可能	secure	adj./v.	安全的；获得	secure a job / loan；名词 security	Keep your password secure.
+ADJ	能力可能	vulnerable	adj.	脆弱的；易受伤的	vulnerable groups 弱势群体	Children are especially vulnerable.
+ADJ	能力可能	exposed	adj.	暴露的	be exposed to	Workers were exposed to chemicals.
+ADJ	能力可能	immune	adj.	免疫的	be immune to；immune system	Some people are immune to the disease.
+NOUN	抽象概念	ability	n.	能力	the ability to do	She has the ability to stay calm.
+NOUN	抽象概念	advantage	n.	优势；好处	take advantage of 利用	Speaking two languages is a big advantage.
+NOUN	抽象概念	disadvantage	n.	劣势；缺点	at a disadvantage 处于不利	The main disadvantage is the cost.
+NOUN	抽象概念	aim	n./v.	目标；旨在	aim to do / at	The aim of the project is to reduce waste.
+NOUN	抽象概念	goal	n.	目标；进球	achieve / set a goal	My goal is to run a marathon.
+NOUN	抽象概念	purpose	n.	目的	on purpose 故意地	What is the purpose of your visit?
+NOUN	抽象概念	intention	n.	意图	动词 intend	I have no intention of leaving.
+NOUN	抽象概念	attitude	n.	态度	attitude to / towards	She has a positive attitude.
+NOUN	抽象概念	belief	n.	信念；信仰	动词 believe；复数 beliefs	People have different religious beliefs.
+NOUN	抽象概念	concept	n.	概念	conceptual 概念上的	The concept is easy to understand.
+NOUN	抽象概念	context	n.	上下文；背景	in this context	Guess the meaning from the context.
+NOUN	抽象概念	aspect	n.	方面	every aspect of life	Cost is an important aspect of the decision.
+NOUN	抽象概念	element	n.	要素；元素	an element of risk	Trust is a key element of teamwork.
+NOUN	抽象概念	feature	n./v.	特征；以……为特色	key features	The phone has many useful features.
+NOUN	抽象概念	characteristic	n./adj.	特征；典型的	be characteristic of	Patience is a characteristic of good teachers.
+NOUN	抽象概念	quality	n./adj.	质量；品质	high-quality 优质的	The quality of the food has improved.
+NOUN	抽象概念	quantity	n.	数量	in large quantities	We bought food in large quantities.
+NOUN	抽象概念	capacity	n.	容量；能力	seating capacity	The stadium has a capacity of 50,000.
+NOUN	抽象概念	range	n./v.	范围；系列	a wide range of	The store sells a wide range of products.
+NOUN	抽象概念	scope	n.	范围；余地	beyond the scope of	That is beyond the scope of this report.
+NOUN	抽象概念	scale	n.	规模；比例	on a large scale	The project is on a huge scale.
+NOUN	抽象概念	extent	n.	程度；范围	to some extent 在某种程度上	I agree to some extent.
+NOUN	抽象概念	proportion	n.	比例	in proportion to	A large proportion of students work part-time.
+NOUN	抽象概念	ratio	n.	比率	student-teacher ratio	The ratio of men to women is 3 to 1.
+NOUN	抽象概念	percentage	n.	百分比	a high percentage of	A small percentage of people disagreed.
+NOUN	抽象概念	majority	n.	大多数	the vast majority	The majority of people voted yes.
+NOUN	抽象概念	minority	n.	少数；少数群体	ethnic minority	Only a minority of students failed.
+NOUN	抽象概念	average	n./adj.	平均（数）	on average 平均来看	On average, we sleep seven hours.
+NOUN	抽象概念	standard	n./adj.	标准；标准的	standard of living 生活水平	The standard of living has improved.
+NOUN	抽象概念	method	n.	方法	methodology 方法论	What method of payment do you prefer?
+NOUN	抽象概念	strategy	n.	策略	strategic 战略的	We need a new marketing strategy.
+NOUN	抽象概念	technique	n.	技巧；技术	读 /tekˈniːk/	She taught me a new breathing technique.
+NOUN	抽象概念	solution	n.	解决方案；溶液	a solution to a problem	Is there a solution to this problem?
+NOUN	抽象概念	outcome	n.	结果	the outcome of the election	We are waiting for the outcome.
+NOUN	抽象概念	result	n./v.	结果；导致	as a result 因此；result in 导致	As a result, the meeting was cancelled.
+NOUN	抽象概念	cause	n./v.	原因；导致	the cause of	What was the cause of the fire?
+NOUN	抽象概念	reason	n.	理由；原因	the reason for / why	There is no reason to worry.
+NOUN	抽象概念	origin	n.	起源；出身	original 原始的	The origin of the word is unclear.
+NOUN	抽象概念	trend	n.	趋势；潮流	a growing trend	There is a trend towards working from home.
+NOUN	抽象概念	tendency	n.	倾向	have a tendency to do；动词 tend	He has a tendency to talk too much.
+NOUN	抽象概念	phenomenon	n.	现象	复数 phenomena	Online shopping is a global phenomenon.
+NOUN	抽象概念	situation	n.	情况；形势	in this situation	The situation is getting worse.
+NOUN	抽象概念	condition	n.	条件；状况	in good condition；on condition that	The car is in good condition.
+NOUN	抽象概念	status	n.	地位；状态	immigration status	What is your current status?
+NOUN	抽象概念	matter	n./v.	事情；要紧	It doesn't matter. 没关系	We need to discuss an urgent matter.
+NOUN	抽象概念	crisis	n.	危机	复数 crises	The country faced an economic crisis.
+NOUN	抽象概念	challenge	n./v.	挑战	a big challenge	Learning a language is a challenge.
+NOUN	抽象概念	obstacle	n.	障碍	overcome an obstacle	Cost is the main obstacle.
+NOUN	抽象概念	barrier	n.	障碍；屏障	language barrier 语言障碍	Language can be a barrier to employment.
+NOUN	抽象概念	risk	n./v.	风险；冒险	at risk 处于危险中；risk + V-ing	Smoking increases the risk of cancer.
+NOUN	抽象概念	threat	n.	威胁	a threat to	Pollution is a threat to wildlife.
+NOUN	抽象概念	benefit	n./v.	好处；受益	benefit from	Exercise has many health benefits.
+NOUN	抽象概念	value	n./v.	价值；重视	values 价值观	We value your feedback.
+NOUN	抽象概念	demand	n./v.	需求；要求	in demand 需求量大	Nurses are in high demand.
+NOUN	抽象概念	need	n./v.	需要	in need 有困难的	We help families in need.
+NOUN	抽象概念	desire	n./v.	渴望	a desire to do	He has a strong desire to succeed.
+NOUN	抽象概念	preference	n.	偏好	动词 prefer	Do you have a preference for window or aisle?
+NOUN	抽象概念	choice	n.	选择	have no choice but to do	You have a choice of three dishes.
+NOUN	抽象概念	decision	n.	决定	make a decision	It was a difficult decision.
+NOUN	抽象概念	opinion	n.	观点	in my opinion	In my opinion, the plan is too expensive.
+NOUN	抽象概念	view	n./v.	观点；景色	point of view 观点	What's your view on this?
+NOUN	抽象概念	argument	n.	论点；争吵	have an argument with	There are strong arguments on both sides.
+NOUN	抽象概念	theory	n.	理论	in theory 理论上	In theory, the plan should work.
+NOUN	抽象概念	fact	n.	事实	in fact 事实上	It's a fact that smoking is harmful.
+NOUN	抽象概念	truth	n.	真相；事实	tell the truth	Please tell me the truth.
+NOUN	抽象概念	myth	n.	神话；谬论	It's a myth that…	It's a myth that we only use 10% of our brains.
+NOUN	抽象概念	wisdom	n.	智慧	形容词 wise	With age comes wisdom.
+NOUN	抽象概念	skill	n.	技能	skilled 熟练的	Communication skills are important.
+NOUN	抽象概念	talent	n.	天赋；人才	a talent for	She has a talent for music.
+NOUN	抽象概念	effort	n.	努力	make an effort to do	Thank you for your effort.
+NOUN	抽象概念	success	n.	成功	形容词 successful；动词 succeed	The event was a great success.
+NOUN	抽象概念	failure	n.	失败；故障	power failure 停电	The project was a failure.
+NOUN	抽象概念	mistake	n.	错误	make a mistake	I made a mistake on the form.
+NOUN	抽象概念	error	n.	错误	比 mistake 正式；error message	There was an error in the system.
+NOUN	抽象概念	fault	n.	过错；故障	at fault 有过错	It's not your fault.
+NOUN	抽象概念	duty	n.	职责；关税	on duty 值班；duty-free 免税	It's my duty to help.
+NOUN	抽象概念	obligation	n.	义务	be under no obligation 无义务	You are under no obligation to buy.
+NOUN	抽象概念	right	n.	权利	human rights	Everyone has the right to education.
+NOUN	抽象概念	freedom	n.	自由	freedom of speech	They fought for freedom.
+NOUN	抽象概念	power	n.	权力；电力	power outage 停电	The power went out last night.
+NOUN	抽象概念	authority	n.	权威；当局	the authorities 当局	The local authorities closed the road.
+NOUN	抽象概念	privilege	n.	特权；荣幸	It's a privilege to…	It's a privilege to work with you.
+NOUN	抽象概念	identity	n.	身份；认同	identity card	Please show proof of identity.
+NOUN	抽象概念	reputation	n.	名声	have a good reputation for	The restaurant has a good reputation.
+NOUN	抽象概念	image	n.	形象；图像	public image	The company wants to improve its image.
+NOUN	抽象概念	role	n.	角色；作用	play a role in	Parents play a key role in education.
+NOUN	抽象概念	function	n./v.	功能；运行	functional 实用的	What is the function of this button?
+NOUN	抽象概念	structure	n.	结构	structural 结构上的	The structure of the essay is clear.
+NOUN	抽象概念	system	n.	系统；制度	systematic 系统的	The health system is under pressure.
+NOUN	抽象概念	network	n.	网络；人脉	networking 建立人脉	Build a professional network.
+NOUN	抽象概念	pattern	n.	模式；图案	sleep pattern	There is a clear pattern in the data.
+NOUN	抽象概念	sequence	n.	顺序；序列	in sequence	Put the pictures in the correct sequence.
+NOUN	抽象概念	series	n.	系列；连续剧	单复数同形	We watched a TV series.
+NOUN	抽象概念	stage	n.	阶段；舞台	at this stage	The project is at an early stage.
+NOUN	抽象概念	phase	n.	阶段	phase in / out 逐步引入/淘汰	The second phase starts next month.
+NOUN	抽象概念	period	n.	时期；句号	a period of time	There was a long period of silence.
+NOUN	抽象概念	era	n.	时代	the digital era	We live in the digital era.
+NOUN	抽象概念	generation	n.	一代人；产生	the younger generation	The younger generation uses social media.
+NOUN	抽象概念	future	n./adj.	未来	in the future	Nobody knows what the future holds.
+NOUN	抽象概念	moment	n.	时刻	at the moment 此刻	Please wait a moment.
+NOUN	抽象概念	event	n.	事件；活动	in the event of 万一	The event was cancelled due to rain.
+NOUN	抽象概念	incident	n.	事件（多指不好的）	report an incident	Please report any incident to security.
+NOUN	抽象概念	accident	n.	事故；意外	by accident 偶然	He was injured in a car accident.
+NOUN	抽象概念	emergency	n.	紧急情况	in case of emergency	Call 911 in an emergency.
+NOUN	抽象概念	chance	n.	机会；可能性	by chance 偶然	There's a good chance it will rain.
+NOUN	抽象概念	luck	n.	运气	Good luck!	I wish you luck in your new job.
+NOUN	抽象概念	fortune	n.	财富；运气	fortunately 幸运地	He made a fortune in property.
+NOUN	抽象概念	wealth	n.	财富	形容词 wealthy	The country's wealth comes from oil.
+NOUN	抽象概念	poverty	n.	贫困	live in poverty	Many children live in poverty.
+NOUN	抽象概念	shortage	n.	短缺	a shortage of	There is a shortage of doctors.
+NOUN	抽象概念	surplus	n.	过剩；盈余	反义 deficit	The government had a budget surplus.
+NOUN	抽象概念	lack	n./v.	缺乏	lack of；动词不加 of	The project failed due to lack of money.
+NOUN	抽象概念	presence	n.	出席；存在	形容词 present	Your presence is requested.
+NOUN	抽象概念	existence	n.	存在	动词 exist	The company has been in existence for 50 years.
+NOUN	抽象概念	survival	n.	生存	动词 survive	The survival of small shops is at risk.
+NOUN	抽象概念	growth	n.	增长；成长	economic growth	The city has seen rapid growth.
+NOUN	抽象概念	reduction	n.	减少	动词 reduce	There was a reduction in crime.
+NOUN	抽象概念	improvement	n.	改善	room for improvement 改进空间	There's room for improvement.
+NOUN	抽象概念	achievement	n.	成就	a sense of achievement	Graduating was a big achievement.
+NOUN	抽象概念	contribution	n.	贡献	make a contribution to	Thank you for your contribution.
+NOUN	抽象概念	participation	n.	参与	动词 participate	Participation is voluntary.
+NOUN	抽象概念	cooperation	n.	合作	in cooperation with	Thank you for your cooperation.
+NOUN	抽象概念	competition	n.	竞争；比赛	fierce competition	There is strong competition for jobs.
+NOUN	抽象概念	conflict	n./v.	冲突	名词重音在前 CONflict	There was a conflict between the two groups.
+NOUN	抽象概念	agreement	n.	协议；同意	reach an agreement	Both sides reached an agreement.
+NOUN	抽象概念	relationship	n.	关系	a close relationship	They have a good working relationship.
+NOUN	抽象概念	connection	n.	联系；连接	internet connection	My internet connection is slow.
+NOUN	抽象概念	communication	n.	交流	communication skills	Good communication is key.
+NOUN	抽象概念	information	n.	信息	不可数，不说 an information	For more information, visit our website.
+NOUN	抽象概念	instruction	n.	指示；说明	常用复数，follow the instructions	Read the instructions carefully.
+NOUN	抽象概念	suggestion	n.	建议	make a suggestion	Do you have any suggestions?
+NOUN	抽象概念	request	n./v.	请求	at sb's request	We received your request.
+NOUN	抽象概念	permission	n.	许可	ask for permission	You need permission to park here.
+NOUN	抽象概念	approval	n.	批准；赞成	动词 approve	The plan needs approval from the council.
+NOUN	抽象概念	assistance	n.	帮助	比 help 正式	Do you need assistance?
+NOUN	抽象概念	guidance	n.	指导	动词 guide	Students receive guidance from tutors.
+NOUN	抽象概念	attention	n.	注意	pay attention to	Please pay attention to the signs.
+NOUN	抽象概念	focus	n./v.	焦点；集中	focus on	The focus is on safety.
+NOUN	抽象概念	emphasis	n.	强调；重点	place emphasis on	There is a strong emphasis on teamwork.
+NOUN	抽象概念	rule	n./v.	规则；统治	as a rule 通常	Please follow the rules.
+NOUN	抽象概念	law	n.	法律	break the law 违法	It's against the law to drive drunk.
+NOUN	抽象概念	crime	n.	犯罪	commit a crime	Crime has fallen in the area.
+NOUN	抽象概念	security	n.	安全；保安	security guard	Security at the airport is tight.
+NOUN	抽象概念	safety	n.	安全	safety first	Safety is our top priority.
+NOUN	抽象概念	health	n.	健康	healthy 健康的	Smoking is bad for your health.
+NOUN	抽象概念	disease	n.	疾病	heart disease	The disease spreads quickly.
+NOUN	抽象概念	illness	n.	疾病（状态）	对比 disease 指具体疾病	He missed work due to illness.
+NOUN	抽象概念	pain	n.	疼痛；痛苦	painful 疼痛的	I have a pain in my back.
+NOUN	抽象概念	stress	n./v.	压力；强调	stressful 有压力的	Work can cause a lot of stress.
+NOUN	抽象概念	pressure	n.	压力	under pressure	I'm under a lot of pressure.
+NOUN	抽象概念	tension	n.	紧张（局势）	tension between…	There was tension in the room.
+NOUN	抽象概念	confidence	n.	信心	形容词 confident	She speaks with confidence.
+NOUN	抽象概念	courage	n.	勇气	形容词 courageous	It takes courage to speak up.
+NOUN	抽象概念	patience	n.	耐心	形容词 patient	Thank you for your patience.
+NOUN	抽象概念	honesty	n.	诚实	形容词 honest	Honesty is the best policy.
+NOUN	抽象概念	kindness	n.	善良；好意	形容词 kind	Thank you for your kindness.
+NOUN	抽象概念	loyalty	n.	忠诚	customer loyalty	The company rewards customer loyalty.
+NOUN	抽象概念	curiosity	n.	好奇心	形容词 curious	Curiosity helps children learn.
+NOUN	抽象概念	imagination	n.	想象力	动词 imagine	Use your imagination.
+NOUN	抽象概念	creativity	n.	创造力	形容词 creative	The job requires creativity.
+NOUN	抽象概念	memory	n.	记忆；内存	in memory of 纪念	I have a terrible memory for names.
+NOUN	抽象概念	experience	n./v.	经验；经历	经验不可数，经历可数	Do you have any work experience?
+NOUN	抽象概念	habit	n.	习惯	break a habit	Smoking is a bad habit.
+NOUN	抽象概念	custom	n.	习俗	customs 海关	It's a local custom to bring a gift.
+NOUN	抽象概念	tradition	n.	传统	traditional 传统的	It's a family tradition.
+NOUN	抽象概念	culture	n.	文化	cultural 文化的	I love learning about other cultures.
+NOUN	抽象概念	religion	n.	宗教	religious 宗教的	People of all religions are welcome.
+NOUN	抽象概念	society	n.	社会；协会	social 社会的	Technology has changed society.
+NOUN	抽象概念	community	n.	社区；群体	the local community	The community came together to help.
+NOUN	抽象概念	population	n.	人口	population growth	The city has a population of two million.
+NOUN	抽象概念	youth	n.	青年；青春	youth centre	He spent his youth in Italy.
+NOUN	抽象概念	adult	n./adj.	成年人	adulthood 成年期	Tickets are $10 for adults.
+NOUN	抽象概念	childhood	n.	童年	in my childhood	I had a happy childhood.
+NOUN	抽象概念	career	n.	职业生涯	career path	She wants a career in medicine.
+NOUN	抽象概念	profession	n.	职业	professional 专业的	Teaching is a rewarding profession.
+NOUN	抽象概念	occupation	n.	职业；占领	表格里填职业用这个词	Please state your occupation.
+NOUN	抽象概念	property	n.	财产；房产	private property	Please respect private property.
+NOUN	抽象概念	material	n.	材料	raw materials	The house is built from local materials.
+NOUN	抽象概念	resource	n.	资源	natural resources	Water is a precious resource.
+NOUN	抽象概念	product	n.	产品	动词 produce	The company launched a new product.
+NOUN	抽象概念	service	n.	服务	customer service	The service was excellent.
+NOUN	抽象概念	location	n.	位置	动词 locate	The hotel is in a great location.
+NOUN	抽象概念	region	n.	地区	regional 地区的	The region is famous for wine.
+NOUN	抽象概念	area	n.	地区；面积；领域	residential area	This area is very quiet.
+NOUN	抽象概念	zone	n.	区域	time zone 时区	This is a no-parking zone.
+NOUN	抽象概念	district	n.	区；街区	business district	The school is in a quiet district.
+NOUN	抽象概念	border	n.	边界	cross the border	We crossed the border by car.
+NOUN	抽象概念	surface	n.	表面	on the surface 表面上	The surface of the road was icy.
+NOUN	抽象概念	edge	n.	边缘	on the edge of	Don't stand near the edge.
+NOUN	抽象概念	distance	n.	距离	in the distance 在远处	What's the distance from here to the airport?
+NOUN	抽象概念	direction	n.	方向	directions 指路	Can you give me directions?
+NOUN	抽象概念	journey	n.	旅程	对比 trip 较短	The journey takes three hours.
+SOC	社会问题	inequality	n.	不平等	income inequality	Income inequality has grown in recent years.
+SOC	社会问题	prejudice	n.	偏见	prejudice against	We must fight prejudice in all forms.
+SOC	社会问题	stereotype	n./v.	刻板印象	gender stereotypes	The film challenges old stereotypes.
+SOC	社会问题	racism	n.	种族主义	racist 种族主义者	Racism has no place in our school.
+SOC	社会问题	unemployment	n.	失业（率）	unemployment rate	Unemployment fell to five percent.
+SOC	社会问题	homeless	adj.	无家可归的	the homeless 无家可归者	The shelter helps homeless people.
+SOC	社会问题	addiction	n.	成瘾	drug / phone addiction；addicted to	Phone addiction is common among teens.
+SOC	社会问题	violence	n.	暴力	domestic violence；violent 暴力的	There is too much violence on TV.
+SOC	社会问题	corruption	n.	腐败	corrupt 腐败的	The government promised to fight corruption.
+SOC	社会问题	overpopulation	n.	人口过剩	名词，议论话题常见	Overpopulation puts pressure on resources.
+SOC	社会问题	ageing / aging	n./adj.	老龄化（的）	英式 ageing，美式 aging；ageing population	An ageing population needs more care.
+SOC	社会问题	migration	n.	迁移；移民	rural-to-urban migration	Migration to cities continues to rise.
+SOC	社会问题	globalization / globalisation	n.	全球化	美式 -ization，英式 -isation	Globalization has changed the job market.
+SOC	社会文化	diversity	n.	多样性	cultural diversity；diverse 多样的	The city is known for its diversity.
+SOC	社会文化	heritage	n.	遗产；传统	cultural heritage	The old town is a World Heritage Site.
+SOC	社会文化	ceremony	n.	仪式	wedding / opening ceremony	The opening ceremony starts at seven.
+SOC	社会文化	ritual	n.	仪式；惯例	a morning ritual	Coffee is part of my morning ritual.
+SOC	社会文化	etiquette	n.	礼仪	table etiquette	Business etiquette varies by country.
+SOC	社会文化	gender	n.	性别	gender equality	Pay should not depend on gender.
+SOC	社会文化	equality	n.	平等	gender equality；对比 equity 公平	They campaign for equality.
+SOC	社会文化	lifestyle	n.	生活方式	a healthy lifestyle	City life is a busy lifestyle.
+SOC	社会文化	fashion	n.	时尚	in fashion 流行	Fashion changes every season.
+SOC	社会文化	trendy	adj.	时髦的	口语	They opened a trendy café.
+SOC	社会文化	consumerism	n.	消费主义	议论话题常见	Consumerism encourages people to buy more.
+SOC	社会文化	materialism	n.	物质主义	materialistic 物质主义的	Some say materialism makes people unhappy.
+SOC	家庭关系	marriage	n.	婚姻	动词 marry；married 已婚	They have a happy marriage.
+SOC	家庭关系	divorce	n./v.	离婚	get divorced	Divorce rates have risen.
+SOC	家庭关系	spouse	n.	配偶	表格常用，= husband / wife	Please list your spouse's name.
+SOC	家庭关系	sibling	n.	兄弟姐妹	统称，不分兄弟姐妹	I have two siblings.
+SOC	家庭关系	relative	n./adj.	亲戚；相对的	relatively 相对地	We visited relatives over the holiday.
+SOC	家庭关系	parenting	n.	育儿	parenting style	Parenting is a full-time job.
+SOC	家庭关系	upbringing	n.	教养；成长环境	a strict upbringing	She had a strict upbringing.
+SOC	家庭关系	household	n./adj.	家庭；家用的	household chores / income	The average household has two cars.
+SOC	家庭关系	teenager	n.	青少年	13–19 岁；teenage 青少年的	Most teenagers own a smartphone.
+SOC	家庭关系	infant	n.	婴儿	infancy 婴儿期	Infants need a lot of sleep.
+SCI	科学研究	research	n./v.	研究	不可数，do research on	More research is needed.
+SCI	科学研究	experiment	n./v.	实验	conduct an experiment	The students did an experiment in class.
+SCI	科学研究	hypothesis	n.	假设	复数 hypotheses	The data supports the hypothesis.
+SCI	科学研究	data	n.	数据	data 原为复数，口语常作不可数	The data shows a clear trend.
+SCI	科学研究	analysis	n.	分析	复数 analyses	The analysis took three weeks.
+SCI	科学研究	sample	n./v.	样本；试用	free sample	They tested a blood sample.
+SCI	科学研究	statistic	n.	统计数据	常用复数 statistics	Statistics show that crime is falling.
+SCI	科学研究	scientist	n.	科学家	scientific 科学的	Scientists have found a new treatment.
+SCI	科学研究	scientific	adj.	科学的	scientific evidence	There is no scientific evidence for this.
+SCI	科学研究	technology	n.	技术	technological 技术的	Technology is changing fast.
+SCI	科学研究	innovation	n.	创新	innovative 创新的	The company is known for innovation.
+SCI	科学研究	invention	n.	发明	动词 invent	The wheel was an important invention.
+SCI	科学研究	breakthrough	n.	突破	a medical breakthrough	Scientists made a major breakthrough.
+SCI	科学研究	discovery	n.	发现	动词 discover	The discovery changed medicine.
+SCI	科学研究	formula	n.	公式；配方	复数 formulas / formulae	Use this formula to calculate the area.
+SCI	科学研究	chemical	n./adj.	化学品；化学的	chemistry 化学	Store chemicals in a safe place.
+SCI	科学研究	physics	n.	物理	单数用法；physicist 物理学家	Physics was my favourite subject.
+SCI	科学研究	biology	n.	生物学	biological 生物的	She studies biology at university.
+SCI	科学研究	gene	n.	基因	genetic 遗传的	Eye colour is controlled by genes.
+SCI	科学研究	cell	n.	细胞；牢房；手机	cell phone 手机	The human body has trillions of cells.
+SCI	科学研究	virus	n.	病毒	viral 病毒的；走红的	The virus spread quickly.
+SCI	科学研究	bacteria	n.	细菌	复数；单数 bacterium	Wash your hands to kill bacteria.
+SCI	科学研究	oxygen	n.	氧气	读 /ˈɑːksɪdʒən/	Plants produce oxygen during the day.
+SCI	科学研究	carbon	n.	碳	carbon dioxide 二氧化碳	Trees absorb carbon dioxide.
+SCI	科学研究	atom	n.	原子	atomic 原子的	Everything is made of atoms.
+SCI	科学研究	particle	n.	粒子；微粒	dust particles	The air is full of tiny particles.
+SCI	科学研究	gravity	n.	重力	the law of gravity	Gravity keeps us on the ground.
+SCI	科学研究	universe	n.	宇宙	universal 普遍的	The universe is billions of years old.
+SCI	科学研究	planet	n.	行星	planetary 行星的	Earth is the third planet from the Sun.
+SCI	科学研究	satellite	n.	卫星	satellite TV	The satellite sends data back to Earth.
+SCI	科学研究	astronaut	n.	宇航员	space station 空间站	The astronaut spent six months in space.
+SCI	科学研究	telescope	n.	望远镜	tele- 远	We looked at the moon through a telescope.
+SCI	科学研究	robot	n.	机器人	robotics 机器人学	Robots now work in many factories.
+SCI	科学研究	artificial	adj.	人造的；人工的	artificial intelligence (AI)	Artificial intelligence is changing work.
+SCI	科学研究	digital	adj.	数字的	digital camera / economy	Most photos today are digital.
+SCI	科学研究	electronic	adj.	电子的	electronics 电子产品	Turn off all electronic devices.
+SCI	科学研究	mechanical	adj.	机械的	mechanical problem	The delay was due to a mechanical problem.
+SCI	科学研究	engineer	n./v.	工程师	engineering 工程学	My brother is a civil engineer.
+SCI	科学研究	precision	n.	精确	形容词 precise	The job requires great precision.
+SCI	科学研究	accuracy	n.	准确性	形容词 accurate	Check the data for accuracy.
+SCI	科学研究	measure	v./n.	测量；措施	take measures 采取措施	Measure the room before buying furniture.
+SCI	科学研究	weigh	v.	称重；权衡	名词 weight	How much do you weigh?
+SCI	科学研究	observe	v.	观察；遵守	名词 observation	Scientists observed the birds for a year.
+SCI	科学研究	prove	v.	证明	名词 proof	Can you prove it?
+SCI	科学研究	test	n./v.	测试	blood test	The test results are ready.
+ECON	经济	inflation	n.	通货膨胀	inflation rate	Inflation has pushed up food prices.
+ECON	经济	recession	n.	经济衰退	go into recession	The country is in a recession.
+ECON	经济	profit	n./v.	利润；获益	profitable 有利可图的	The company made a large profit.
+ECON	经济	loss	n.	损失	make a loss 亏损	The business made a loss last year.
+ECON	经济	cost	n./v.	成本；花费	cost of living 生活成本	The cost of living keeps rising.
+ECON	经济	price	n.	价格	price rise	Prices have gone up again.
+ECON	经济	tax	n./v.	税	tax return 报税单	How much tax do you pay?
+ECON	经济	finance	n./v.	金融；资助	financial 金融的	She works in finance.
+ECON	经济	financial	adj.	财务的；金融的	financial aid 经济资助	They are in financial difficulty.
+ECON	经济	fund	n./v.	资金；资助	funding 资金	The project is funded by the city.
+ECON	经济	investor	n.	投资者	动词 invest	Investors are worried about the market.
+ECON	经济	stock	n.	股票；库存	in / out of stock 有货/缺货	This item is out of stock.
+ECON	经济	market	n./v.	市场；推销	marketing 市场营销	The housing market is slowing down.
+ECON	经济	industry	n.	工业；行业	industrial 工业的	The tourism industry employs many people.
+ECON	经济	agriculture	n.	农业	agricultural 农业的	Agriculture is important to the region.
+ECON	经济	commerce	n.	商业	e-commerce 电子商务	E-commerce has grown rapidly.
+ECON	经济	enterprise	n.	企业；事业心	small and medium enterprises	She runs her own enterprise.
+ECON	经济	corporation	n.	公司	corporate 公司的	He works for a large corporation.
+ECON	经济	firm	n./adj.	公司；坚定的	law firm 律所	She works at a law firm.
+ECON	经济	business	n.	生意；企业	run a business	My uncle runs a small business.
+ECON	经济	brand	n.	品牌	brand name	Which brand of coffee do you like?
+ECON	经济	advertise	v.	做广告	名词 advertisement / ad	They advertise on social media.
+ECON	经济	consumer	n.	消费者	consumer rights	Consumers want lower prices.
+ECON	经济	producer	n.	生产者；制片人	动词 produce	The region is a large producer of wheat.
+ECON	经济	export	v./n.	出口	名词重音在前 EXport	The country exports oil.
+ECON	经济	import	v./n.	进口	名词重音在前 IMport	We import most of our fruit.
+ECON	经济	tariff	n.	关税	impose tariffs	New tariffs raised the price of steel.
+ECON	经济	wealthy	adj.	富有的	名词 wealth	They live in a wealthy area.
+ECON	经济	poor	adj.	贫穷的；差的	poor quality	The house was in poor condition.
+ECON	经济	expensive	adj.	昂贵的	反义 cheap / inexpensive	Housing is very expensive here.
+ECON	经济	cheap	adj.	便宜的；廉价的	cheap 有时带「低劣」含义	Public transit is cheaper than driving.
+ECON	经济	profitable	adj.	有利可图的	名词 profit	The business is very profitable.
+ECON	经济	bankrupt	adj.	破产的	go bankrupt；名词 bankruptcy	The company went bankrupt.
+ECON	经济	merger	n.	合并	mergers and acquisitions	The merger created the largest bank.
+ECON	经济	competitor	n.	竞争对手	动词 compete	Our competitors offer lower prices.
+ECON	经济	sales	n.	销售额；销售	sales figures / department	Sales rose by ten percent.
+ECON	经济	retailer	n.	零售商	retail 零售	The retailer has 300 stores.
+ECON	经济	wholesale	n./adj.	批发	反义 retail	They buy goods at wholesale prices.
+NATURE	自然地理	landscape	n.	风景；地貌	the urban landscape	The landscape here is beautiful.
+NATURE	自然地理	scenery	n.	风景	不可数	We stopped to enjoy the scenery.
+NATURE	自然地理	continent	n.	大洲	continental 大陆的	Asia is the largest continent.
+NATURE	自然地理	coast	n.	海岸	coastal 沿海的	They live on the east coast.
+NATURE	自然地理	ocean	n.	海洋	the Pacific Ocean	The ocean covers most of the planet.
+NATURE	自然地理	valley	n.	山谷	a river valley	The village lies in a green valley.
+NATURE	自然地理	cliff	n.	悬崖	stay away from the cliff edge	The house sits on top of a cliff.
+NATURE	自然地理	desert	n.	沙漠	对比 dessert 甜点（双 s）	Few plants grow in the desert.
+NATURE	自然地理	forest	n.	森林	rainforest 雨林	The forest covers most of the island.
+NATURE	自然地理	jungle	n.	丛林	concrete jungle 水泥森林	Tigers live in the jungle.
+NATURE	自然地理	volcano	n.	火山	volcanic 火山的	The volcano last erupted in 1980.
+NATURE	自然地理	earthquake	n.	地震	earthquake-proof	The earthquake damaged many buildings.
+NATURE	自然地理	tsunami	n.	海啸	t 不发音	A tsunami warning was issued.
+NATURE	自然地理	hurricane	n.	飓风	对比 typhoon 台风	The hurricane hit the coast last night.
+NATURE	自然地理	storm	n./v.	暴风雨	thunderstorm 雷暴	A big storm is coming.
+NATURE	自然地理	thunder	n.	雷声	thunder and lightning	We heard thunder in the distance.
+NATURE	自然地理	lightning	n.	闪电	不要拼成 lightening	The tree was struck by lightning.
+NATURE	自然地理	fog	n.	雾	foggy 有雾的	Heavy fog delayed the flights.
+NATURE	自然地理	frost	n.	霜	frosty 结霜的	There was frost on the car this morning.
+NATURE	自然地理	blizzard	n.	暴风雪	stronger than a snowstorm	A blizzard closed the highway.
+NATURE	自然地理	climate	n.	气候	对比 weather 指短期天气	The climate here is mild.
+NATURE	自然地理	forecast	n./v.	预报	weather forecast	The forecast says it will snow.
+NATURE	自然地理	season	n.	季节	seasonal 季节性的	Autumn is my favourite season.
+NATURE	自然地理	tide	n.	潮汐	high / low tide	The tide comes in twice a day.
+NATURE	自然地理	soil	n.	土壤	rich soil	The soil here is good for farming.
+NATURE	自然地理	mineral	n.	矿物（质）	mineral water	The region is rich in minerals.
+NATURE	自然地理	fossil	n.	化石	fossil fuels 化石燃料	We need to reduce our use of fossil fuels.
+NATURE	自然地理	species	n.	物种	单复数同形	Many species are at risk.
+NATURE	自然地理	mammal	n.	哺乳动物	鲸也是哺乳动物	Whales are mammals, not fish.
+NATURE	自然地理	reptile	n.	爬行动物	snakes and lizards	Snakes are reptiles.
+NATURE	自然地理	insect	n.	昆虫	insect bite 虫咬	Some insects carry disease.
+NATURE	自然地理	predator	n.	捕食者	对应 prey 猎物	Wolves are natural predators.
+NATURE	自然地理	prey	n.	猎物	fall prey to 成为……的受害者	The owl caught its prey.
+NATURE	自然地理	extinct	adj.	灭绝的	名词 extinction	Dinosaurs became extinct long ago.
+NATURE	自然地理	vegetation	n.	植被	不可数	The area has little vegetation.
+NATURE	自然地理	crop	n.	庄稼；收成	crop failure	Wheat is the main crop here.
+NATURE	自然地理	harvest	n./v.	收获	harvest season	Farmers harvest the apples in autumn.
+NATURE	自然地理	livestock	n.	牲畜	不可数	The farm keeps livestock.
+NATURE	自然地理	irrigation	n.	灌溉	动词 irrigate	Irrigation is needed in dry areas.
+NATURE	自然地理	erosion	n.	侵蚀	soil erosion	Trees help prevent soil erosion.
+NATURE	自然地理	disaster	n.	灾难	natural disaster；disastrous 灾难性的	The flood was a natural disaster.
+NATURE	自然地理	solar	adj.	太阳的	solar panel 太阳能板	They installed solar panels on the roof.
+NATURE	自然地理	nuclear	adj.	核的	nuclear power / energy	Nuclear power is a controversial topic.
+NATURE	自然地理	fuel	n./v.	燃料	fuel efficiency	The car uses less fuel.
+NATURE	自然地理	energy	n.	能源；精力	energy-saving	We need to save energy.
+NATURE	自然地理	plastic	n./adj.	塑料	plastic bag	Plastic takes centuries to break down.
+NATURE	自然地理	toxic	adj.	有毒的	toxic waste	The river was polluted by toxic waste.
+NATURE	自然地理	contaminate	v.	污染	名词 contamination	The water was contaminated.
+MIND	心理情感	emotion	n.	情感；情绪	emotional 情绪化的	It's hard to control your emotions.
+MIND	心理情感	mood	n.	心情	in a good / bad mood	She's in a good mood today.
+MIND	心理情感	anxiety	n.	焦虑	形容词 anxious	Exams cause a lot of anxiety.
+MIND	心理情感	depression	n.	抑郁症；萧条	形容词 depressed	Depression is a common illness.
+MIND	心理情感	happiness	n.	幸福	形容词 happy	Money doesn't guarantee happiness.
+MIND	心理情感	sorrow	n.	悲伤	比 sadness 书面	She couldn't hide her sorrow.
+MIND	心理情感	grief	n.	悲痛	动词 grieve	He was overwhelmed by grief.
+MIND	心理情感	fear	n./v.	恐惧；害怕	for fear of 唯恐	She has a fear of flying.
+MIND	心理情感	anger	n.	愤怒	形容词 angry	He couldn't hide his anger.
+MIND	心理情感	joy	n.	快乐	joyful 快乐的	The news brought us great joy.
+MIND	心理情感	surprise	n./v.	惊讶	to my surprise 令我惊讶的是	To my surprise, she agreed.
+MIND	心理情感	shame	n.	羞耻；遗憾	What a shame! 真可惜	What a shame you can't come.
+MIND	心理情感	pride	n.	自豪；骄傲	take pride in	She takes pride in her work.
+MIND	心理情感	sympathy	n.	同情	形容词 sympathetic	You have my sympathy.
+MIND	心理情感	empathy	n.	共情	对比 sympathy 同情	Good nurses show empathy.
+MIND	心理情感	gratitude	n.	感激	形容词 grateful	I want to express my gratitude.
+MIND	心理情感	satisfaction	n.	满意	job satisfaction	Customer satisfaction is our goal.
+MIND	心理情感	frustration	n.	挫败感	形容词 frustrated	I understand your frustration.
+MIND	心理情感	loneliness	n.	孤独	形容词 lonely	Loneliness is common among the elderly.
+MIND	心理情感	boredom	n.	无聊	形容词 bored	He ate out of boredom.
+MIND	心理情感	excitement	n.	兴奋	形容词 excited / exciting	The kids could hardly contain their excitement.
+MIND	心理情感	panic	n./v.	恐慌	过去式 panicked	Don't panic — stay calm.
+MIND	心理情感	relief	n.	宽慰；救济	disaster relief	What a relief!
+MIND	心理认知	concentrate	v.	集中精力	concentrate on；名词 concentration	I can't concentrate with this noise.
+MIND	心理认知	distract	v.	分散注意力	名词 distraction	Phones distract students in class.
+MIND	心理认知	recall	v./n.	回想；召回	product recall	I can't recall his name.
+MIND	心理认知	memorize / memorise	v.	记住	美式 -ize，英式 -ise	I memorized fifty new words today.
+MIND	心理认知	instinct	n.	本能；直觉	instinctive 本能的	Trust your instincts.
+MIND	心理认知	intuition	n.	直觉	intuitive 直觉的	My intuition told me something was wrong.
+MIND	心理认知	personality	n.	个性	a strong personality	She has a warm personality.
+MIND	心理认知	temper	n.	脾气	lose one's temper 发脾气	He lost his temper with the driver.
+MIND	心理认知	psychology	n.	心理学	p 不发音；psychologist 心理学家	She studied psychology at university.
+MIND	心理认知	mental	adj.	精神的；心理的	mental health	Exercise is good for mental health.
+MIND	心理认知	physical	adj.	身体的；物质的	physical activity	Physical activity improves mood.
+MIND	心理认知	aware	adj.	意识到的	be aware of；名词 awareness	Are you aware of the risks?
+MIND	心理认知	awareness	n.	意识	raise awareness 提高意识	The campaign raises awareness of mental health.
+LAW	法律犯罪	criminal	n./adj.	罪犯；犯罪的	criminal record 犯罪记录	The criminal was sent to prison.
+LAW	法律犯罪	victim	n.	受害者	fall victim to	The victim was taken to hospital.
+LAW	法律犯罪	witness	n./v.	证人；目击	witness an accident	Police are looking for witnesses.
+LAW	法律犯罪	police	n.	警察	复数用法：The police are…	The police are investigating the case.
+LAW	法律犯罪	arrest	v./n.	逮捕	under arrest	He was arrested for theft.
+LAW	法律犯罪	theft	n.	盗窃	thief 小偷，复数 thieves	Report any theft to the police.
+LAW	法律犯罪	robbery	n.	抢劫	动词 rob sb of sth	There was a bank robbery downtown.
+LAW	法律犯罪	burglary	n.	入室盗窃	burglar 入室窃贼	Burglaries increase during the holidays.
+LAW	法律犯罪	vandalism	n.	故意破坏公物	vandalize 破坏	The bus shelter was damaged by vandalism.
+LAW	法律犯罪	murder	n./v.	谋杀	murderer 凶手	He was charged with murder.
+LAW	法律犯罪	court	n.	法院；球场	go to court 打官司	The case went to court.
+LAW	法律犯罪	trial	n.	审判；试用	free trial 免费试用	The trial lasted two weeks.
+LAW	法律犯罪	lawyer	n.	律师	英式也说 solicitor	You should speak to a lawyer.
+LAW	法律犯罪	verdict	n.	裁决	reach a verdict	The jury reached a verdict.
+LAW	法律犯罪	sentence	n./v.	判决；句子	be sentenced to	He was sentenced to five years.
+LAW	法律犯罪	prison	n.	监狱	= jail；prisoner 囚犯	He spent two years in prison.
+LAW	法律犯罪	innocent	adj.	无辜的	反义 guilty	She was found innocent.
+LAW	法律犯罪	justice	n.	正义；司法	形容词 just 公正的	They want justice for the victims.
+LAW	法律犯罪	sue	v.	起诉	sue sb for sth	She sued the company for damages.
+LAW	法律犯罪	lawsuit	n.	诉讼	file a lawsuit	The family filed a lawsuit.
+LAW	法律犯罪	violate	v.	违反	名词 violation	The company violated safety rules.
+LAW	法律犯罪	comply	v.	遵守	comply with；名词 compliance	All buildings must comply with fire codes.
+LAW	法律犯罪	obey	v.	服从	反义 disobey	Drivers must obey traffic signs.
+LAW	法律犯罪	ticket	n.	罚单；票	parking / speeding ticket	I got a parking ticket.
+ARTS	艺术历史	art	n.	艺术	artistic 艺术的	She loves modern art.
+ARTS	艺术历史	artist	n.	艺术家	artwork 艺术品	The artist painted the mural.
+ARTS	艺术历史	painting	n.	绘画；画作	oil painting	The museum has famous paintings.
+ARTS	艺术历史	sculpture	n.	雕塑	sculptor 雕塑家	There is a sculpture in the park.
+ARTS	艺术历史	literature	n.	文学	literary 文学的	She studied English literature.
+ARTS	艺术历史	novel	n./adj.	小说；新颖的	novelist 小说家	I'm reading a great novel.
+ARTS	艺术历史	poetry	n.	诗歌（总称）	poem 一首诗；poet 诗人	He enjoys writing poetry.
+ARTS	艺术历史	author	n.	作者	the author of the book	Who is the author of this book?
+ARTS	艺术历史	plot	n.	情节	the plot of the film	The plot was hard to follow.
+ARTS	艺术历史	theme	n.	主题	theme park 主题公园	The theme of the book is friendship.
+ARTS	艺术历史	music	n.	音乐	musician 音乐家	I listen to music on the bus.
+ARTS	艺术历史	instrument	n.	乐器；仪器	musical instrument	Do you play an instrument?
+ARTS	艺术历史	orchestra	n.	管弦乐队	ch 读 k	The orchestra played Mozart.
+ARTS	艺术历史	drama	n.	戏剧	dramatic 戏剧性的	She studied drama at school.
+ARTS	艺术历史	film	n./v.	电影；拍摄	美式也说 movie	Have you seen the new film?
+ARTS	艺术历史	director	n.	导演；主管	动词 direct	The director won an award.
+ARTS	艺术历史	actor	n.	演员	actress 女演员（现多统称 actor）	He is a famous actor.
+ARTS	艺术历史	craft	n.	手艺；工艺	arts and crafts	She sells handmade crafts.
+ARTS	艺术历史	architecture	n.	建筑学；建筑风格	architect 建筑师	The city is famous for its architecture.
+ARTS	艺术历史	history	n.	历史	historian 历史学家	I love reading about history.
+ARTS	艺术历史	empire	n.	帝国	emperor 皇帝	The Roman Empire lasted centuries.
+ARTS	艺术历史	civilization / civilisation	n.	文明	美式 -ization，英式 -isation	Ancient civilizations built great cities.
+ARTS	艺术历史	monument	n.	纪念碑	historic monument	The monument honours the soldiers.
+ARTS	艺术历史	antique	n./adj.	古董（的）	antique shop	She collects antique furniture.
+ARTS	艺术历史	legend	n.	传说；传奇人物	legendary 传奇的	According to legend, the lake has no bottom.
+MEDIA	媒体广告	media	n.	媒体	social media；medium 的复数	The story was widely reported in the media.
+MEDIA	媒体广告	journalist	n.	记者	journalism 新闻业	She works as a journalist.
+MEDIA	媒体广告	reporter	n.	记者	动词 report	The reporter asked a tough question.
+MEDIA	媒体广告	editor	n.	编辑	动词 edit	The editor approved the article.
+MEDIA	媒体广告	article	n.	文章；冠词	newspaper article	Did you read the article about housing?
+MEDIA	媒体广告	newspaper	n.	报纸	daily newspaper	Fewer people buy newspapers today.
+MEDIA	媒体广告	magazine	n.	杂志	subscribe to a magazine	I read the magazine on the train.
+MEDIA	媒体广告	journal	n.	期刊；日记	academic journal	The study was published in a medical journal.
+MEDIA	媒体广告	channel	n.	频道；渠道	TV channel	What channel is the game on?
+MEDIA	媒体广告	viewer	n.	观众	TV viewers	Millions of viewers watched the final.
+MEDIA	媒体广告	commercial	n./adj.	商业广告；商业的	TV commercial	I hate the commercials during the show.
+MEDIA	媒体广告	campaign	n./v.	运动；活动	advertising campaign	The campaign aims to reduce waste.
+MEDIA	媒体广告	slogan	n.	标语	advertising slogan	The slogan is easy to remember.
+MEDIA	媒体广告	propaganda	n.	宣传（贬义）	political propaganda	The film was pure propaganda.
+MEDIA	媒体广告	publicity	n.	宣传；关注	bad publicity	The event got a lot of publicity.
+MEDIA	媒体广告	celebrity	n.	名人	celebrity news	Celebrities often promote products.
+MEDIA	媒体广告	rumour / rumor	n.	谣言	英式 rumour，美式 rumor	Don't spread rumours.
+MEDIA	媒体广告	censorship	n.	审查制度	censor 审查	Some countries have strict censorship.
+MEDIA	媒体广告	documentary	n.	纪录片	nature documentary	We watched a documentary about whales.
+MEDIA	媒体广告	blog	n./v.	博客	blogger 博主	She writes a travel blog.
+MEDIA	媒体广告	website	n.	网站	visit our website	Book tickets on our website.
+MEDIA	媒体广告	post	n./v.	帖子；发布；邮寄	post a photo	She posted the photo on social media.
+MEDIA	媒体广告	comment	n./v.	评论	comment on sth	Leave a comment below.
+MEDIA	媒体广告	followers	n.	粉丝	常用复数	She has a million followers.
+ADV	副词	absolutely	adv.	绝对地；完全	口语回答：Absolutely! 当然	You're absolutely right.
+ADV	副词	actually	adv.	实际上；其实	不是「现在」，是「其实」	Actually, I've changed my mind.
+ADV	副词	almost	adv.	几乎	= nearly	I'm almost finished.
+ADV	副词	already	adv.	已经	通常用于完成时	I've already eaten.
+ADV	副词	altogether	adv.	总共；完全	对比 all together 一起	That's $50 altogether.
+ADV	副词	anyway	adv.	无论如何；反正	口语转话题用	Anyway, let's get back to work.
+ADV	副词	basically	adv.	基本上	口语高频	Basically, we need more time.
+ADV	副词	briefly	adv.	简短地	briefly describe	Let me briefly explain the plan.
+ADV	副词	certainly	adv.	当然；肯定	Certainly! 当然可以	I'll certainly be there.
+ADV	副词	clearly	adv.	清楚地；显然	副词，形容词 clear	Please speak clearly.
+ADV	副词	completely	adv.	完全地	= totally	I completely forgot.
+ADV	副词	directly	adv.	直接地	directly to sb	Please contact me directly.
+ADV	副词	easily	adv.	容易地	easily accessible	The station is easily reached by bus.
+ADV	副词	entirely	adv.	完全地	= completely	It's entirely up to you.
+ADV	副词	especially	adv.	尤其	对比 specially 专门	I love fruit, especially apples.
+ADV	副词	exactly	adv.	确切地	Exactly! 正是	What exactly do you mean?
+ADV	副词	extremely	adv.	极其	extremely cold	It's extremely cold today.
+ADV	副词	fairly	adv.	相当；公平地	比 very 弱	The test was fairly easy.
+ADV	副词	finally	adv.	最后；终于	写作中表顺序	Finally, I'd like to thank you all.
+ADV	副词	fortunately	adv.	幸运的是	反义 unfortunately	Fortunately, nobody was hurt.
+ADV	副词	generally	adv.	通常；总体上	generally speaking	I generally get up at seven.
+ADV	副词	hardly	adv.	几乎不	与 hard 努力地意思不同	I can hardly hear you.
+ADV	副词	highly	adv.	高度地；非常	highly recommended	The restaurant is highly recommended.
+ADV	副词	hopefully	adv.	但愿	口语表达希望	Hopefully, the rain will stop soon.
+ADV	副词	increasingly	adv.	越来越	increasingly popular	Remote work is increasingly common.
+ADV	副词	indeed	adv.	确实	书面加强	It was indeed a great success.
+ADV	副词	initially	adv.	起初	= at first	Initially, I didn't like the city.
+ADV	副词	instantly	adv.	立即	名词 instant 瞬间	The pain stopped instantly.
+ADV	副词	largely	adv.	主要地；大部分	= mainly	The success was largely due to luck.
+ADV	副词	lately	adv.	最近	= recently，多用于完成时	Have you seen him lately?
+ADV	副词	literally	adv.	字面上；简直	口语夸张用法常见	The town is literally five minutes away.
+ADV	副词	mainly	adv.	主要地	= mostly	The audience was mainly students.
+ADV	副词	merely	adv.	仅仅	= only，书面	It was merely a suggestion.
+ADV	副词	mostly	adv.	大部分；主要	对比 most 最	The guests were mostly family.
+ADV	副词	naturally	adv.	自然地；当然	形容词 natural	Naturally, we were disappointed.
+ADV	副词	nearly	adv.	几乎	= almost	It's nearly midnight.
+ADV	副词	normally	adv.	通常；正常地	= usually	I normally walk to work.
+ADV	副词	obviously	adv.	显然	口语高频	Obviously, I'll pay you back.
+ADV	副词	partly	adv.	部分地	partly because…	The delay was partly due to the weather.
+ADV	副词	perfectly	adv.	完美地；完全	perfectly fine	That's perfectly fine.
+ADV	副词	personally	adv.	就个人而言；亲自	表个人观点的开头	Personally, I prefer tea.
+ADV	副词	possibly	adv.	可能；或许	could you possibly…? 礼貌请求	Could you possibly help me?
+ADV	副词	probably	adv.	很可能	比 maybe 把握大	I'll probably be late.
+ADV	副词	properly	adv.	正确地；恰当地	形容词 proper	Make sure the door is properly closed.
+ADV	副词	quickly	adv.	快速地	形容词 quick	Please reply as quickly as possible.
+ADV	副词	rarely	adv.	很少	= seldom	I rarely eat fast food.
+ADV	副词	rather	adv.	相当；宁愿	would rather do 宁愿	It's rather cold today.
+ADV	副词	really	adv.	真正地；非常	口语加强	I really appreciate it.
+ADV	副词	recently	adv.	最近	多与过去时或完成时连用	I recently moved to a new apartment.
+ADV	副词	relatively	adv.	相对地	relatively cheap	The area is relatively safe.
+ADV	副词	roughly	adv.	大约；粗略地	= approximately	It costs roughly $100.
+ADV	副词	seldom	adv.	很少	书面，= rarely	He seldom goes out at night.
+ADV	副词	simply	adv.	简单地；仅仅	simply put 简单地说	Simply put, we need more money.
+ADV	副词	slowly	adv.	慢慢地	形容词 slow	Please speak more slowly.
+ADV	副词	somewhat	adv.	有点	= rather，书面	The results were somewhat disappointing.
+ADV	副词	strongly	adv.	强烈地	strongly recommend / disagree	I strongly recommend this course.
+ADV	副词	suddenly	adv.	突然	all of a sudden	Suddenly, the lights went out.
+ADV	副词	surely	adv.	肯定；想必	表惊讶或反问	Surely you don't believe that?
+ADV	副词	totally	adv.	完全地	口语高频	I totally agree.
+ADV	副词	truly	adv.	真诚地；真正地	Yours truly 信件结尾	I'm truly sorry.
+ADV	副词	ultimately	adv.	最终；根本上	形容词 ultimate	Ultimately, it's your decision.
+ADV	副词	usually	adv.	通常	频率副词	I usually take the bus.
+ADV	副词	virtually	adv.	几乎；实际上	virtually impossible	It's virtually impossible to park here.
+ADV	副词	widely	adv.	广泛地	widely used / known	English is widely spoken.
+ADV	连接词	additionally	adv.	此外	= in addition，书面	Additionally, we offer free parking.
+ADV	连接词	besides	adv./prep.	此外；除……之外还	对比 except 除……之外不	Besides, it's too late now.
+ADV	连接词	hence	adv.	因此	书面	The road was icy, hence the delay.
+ADV	连接词	meanwhile	adv.	与此同时	= in the meanwhile	Meanwhile, prices continued to rise.
+ADV	连接词	nonetheless	adv.	尽管如此	= nevertheless	It was raining; nonetheless, we went out.
+ADV	连接词	similarly	adv.	同样地	写作表类比	Similarly, many cities face this problem.
+ADV	连接词	likewise	adv.	同样地	口语也可单用 Likewise. 我也是	Nice to meet you. — Likewise.
+ADV	连接词	instead	adv.	代替；反而	instead of + n. / V-ing	Let's walk instead of driving.
+ADV	连接词	unless	conj.	除非	unless + 现在时表将来	We'll go unless it rains.
+ADV	连接词	whether	conj.	是否	whether or not	I'm not sure whether he'll come.
+ADV	连接词	provided	conj.	只要；假如	= provided that / as long as	You can go, provided you finish your homework.
+ADV	连接词	thereby	adv.	从而	书面	Prices fell, thereby boosting sales.
+ADV	连接词	accordingly	adv.	相应地；因此	act accordingly	The plan changed, and we adjusted accordingly.
+ADV	连接词	firstly	adv.	首先	写作列点：firstly, secondly, finally	Firstly, I'd like to thank everyone.
+ADV	连接词	lastly	adv.	最后	列点收尾	Lastly, please remember to sign out.
